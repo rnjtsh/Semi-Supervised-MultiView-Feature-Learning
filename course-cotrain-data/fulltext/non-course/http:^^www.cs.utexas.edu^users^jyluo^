@@ -1,0 +1,268 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>
+Jianying Luo's Homepage
+</TITLE>
+
+<script language="JavaScript">
+<!-- Beginning of JavaScript Applet -------------------
+function scrolframe(seed)
+{      
+        var msg="Welcome to Jianying Luo's Homepage!";
+        var out = " ";  var c   = 1;
+        if (seed > 100)
+        {               seed--;
+                var cmd="scrolframe(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 100 && seed > 0)
+                {
+                        for (c=0 ; c < seed ; c++)
+                        {
+                                out+=" ";
+                        }
+                                out+=msg;
+                                seed--;
+                                var cmd="scrolframe(" + seed + ")";
+                                window.status=out;
+                                timerTwo=window.setTimeout(cmd,100);
+                        }
+                                else if (seed <= 0)
+                        {
+                                if (-seed < msg.length)
+                                {
+                                        out+=msg.substring(-seed,msg.length);
+                                        seed--;
+                                        var cmd="scrolframe(" + seed + ")";
+                                        window.status=out;
+                                        timerTwo=window.setTimeout(cmd,100);
+                                }
+                                else
+                                        {
+                                        window.status=" ";
+                                        timerTwo=window.setTimeout("scrolframe(100)",75);
+
+                        }
+                }
+}
+// -- End of JavaScript code ---------------->
+
+</script>
+
+
+</HEAD>
+
+<BODY BACKGROUND="icons/paper.jpg" onLoad="timerONE=window.setTimeout('scrolframe(100)',500);">
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/new.gif" align=bottom alt="[NEW]">
+<CENTER>
+<H1>Welcome to Jianying Luo's Homepage! 
+</H1>
+</CENTER>
+
+<center>
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/runrabit.gif" align=center alt="[RUNRABIT]">
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/owl_anim.gif" align=center alt="[OWL]"> </center>
+
+<dl>
+<H2> <A NAME="ABOUTME"> About Me </A>
+</H2>
+<dd> I am a first year Ph.D. Student in
+<A HREF = "http://www.cs.utexas.edu/">Department of Computer Sciences</A>,
+<A HREF = "http://wwwhost.utexas.edu/">The University of Texas at
+Austin</A>.
+</dd>
+</dl>
+<table>
+<tr>
+<td>
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/mortar.gif" alt="[MOTAR]"><br>
+</td>
+<td>
+<ul>
+<li> B.S.(Computer Science), 
+<a href = "http://www.pku.edu.cn/">Peking University
+</a>, <a href = "http://www.ihep.ac.cn/tour/bj.html"> Beijing</a>,
+<a href = "http://www.net.edu.cn/">P.R.China</a>, 1996<br>
+</ul>
+</td>
+</tr>
+</table>
+
+<hr>
+<h2> <a name="PKUA"> Peking University Alumni </a>
+</h2>
+<table>
+<tr>
+<td>
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/pkutoken.gif" HSPACE=20 VSPACE=5 alt="[PKUTOKEN]">
+</td>
+<td>
+<ul>
+<li>
+<a href="http://sunsite.unc.edu/fang/beida-cs.html">
+Computer Science Department of Peking University </a><br>
+<li>
+<a href="http://www.fiu.edu/~zyang01/pku/pku.html">Other departments of
+Peking University
+</a>
+</ul>
+</td>
+</tr>
+</table>
+
+<hr>
+<h2> <a name= "CHINA">China and Chinese</a>
+</h2>
+<table>
+<tr>
+<td><a href="http://www.cnc.ac.cn"><img src="http://www.cs.utexas.edu/users/jyluo/icons/greatwall.gif"
+alt="[CHINA]"></a></td>
+<td>
+<ul>
+<li>
+<a href="http://www.cs.utexas.edu/users/jyluo/chinesescenery/scenery.html">Chinese Scenery</a>
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/tinynew.gif" alt="[NEW]">
+<li>
+<A HREF="http://142.3.25.41/pub/novel/">Chinese Novels</A>
+<li>
+<A HREF="http://www.cnd.org/Classics/">Chinese Classics</A>
+<li>
+<A HREF="http://herb.biol.uregina.ca/liu/chn-mag.html
+">Chinese Magazines</A>
+<li>
+<a href="http://www.cs.utexas.edu/users/jyluo/chinesepapers/newspapers.html">Chinese Newspapers
+</a>
+</ul>
+</td>
+</tr>
+</table>
+
+<hr>
+<a name = UT><h2>Useful <img src="http://www.cs.utexas.edu/users/jyluo/icons/UT_sign.gif" alt="UT">
+links</h2></a>
+<table>
+<tr>
+<td><a href="http://www.utexas.edu"><img
+src="http://www.cs.utexas.edu/users/jyluo/icons/mainbldg.gif" alt="[MAINBLDG]"></a></td>
+<td>
+<ul>
+<li>
+<a href="http://www.utexas.edu/student/registrar/"> UT Registrar
+</a>
+<li>
+<a href="http://www.utexas.edu/ogs/"> UT Gradaute Studies
+<li>
+<a href="http://www.lib.utexas.edu/">UT Library</a>
+<li>
+<a href="http://wwwhost.utexas.edu/maps/main/overview/">UT 
+Campus</a>
+<li>
+<a href="tn3270://student.dp.utexas.edu/">UTACCESS</a>
+</ul>
+</td>
+</tr>
+</table>
+
+<hr>
+<h2><a name =AUSTIN>About Austin
+</a> 
+</h2>
+<table>
+<tr>
+<td><a href="http://www.quadralay.com/Austin/"><img
+src="http://www.cs.utexas.edu/users/jyluo/icons/austin.gif" border=0 alt="[AUSTIN]" align=center></a>
+</td>
+<td>
+<li>
+<a href="http://www.weather.com/weather/us/cities/TX_
+Austin.html">What's the Weather Today</a>?
+<li>
+<a href="http://www.quadralay.com/Austin/">Austin City
+Limits</a>, lots of exciting stuffs about Austin. 
+</td>
+</tr>
+</table>
+
+<hr>
+<h2><a name="MISCELLANEOUS">Miscellaneous
+</H2>
+<table>
+<tr>
+<td>
+<IMG BORDER=3 SRC="http://www.cs.utexas.edu/users/jyluo/icons/boyatower"
+ALIGN=left ALT="[BOYATOWER]">
+<td>
+<ul>
+<li>
+<a href="http://www.yahoo.com">Yahoo
+</a>
+<li>
+<a href="http://java.sun.com/">Java Page at Sun
+</a>
+<li>
+<a href="http://www.netscape.com/comprod/products/navigator/version_2.0/script/index.html">JavaScript Page at Netscape
+</a>
+<li>
+<a href="http://www.perl.com/perl/index.html">The Perl Language Home Page
+</a>
+<li>
+<a href="http://cra.org/">Computing Research Association
+</a>
+<li>
+<a href="http://www.library.cmu.edu/bySubject/CS+ECE/lib/journals.html">
+Computer Journals/Magzines on the Web
+</a>
+<li>
+<a href="http://www.ncstrl.org/">Networked Computer Science Technical
+Reports Library
+</a>
+<li>
+<a href="http://liinwww.ira.uka.de/bibliography/index.html">
+The Collection of Computer Science Bibliographies
+</a>
+<li>
+<a href="http://www.isionline.org/">
+International Students, Inc.
+</a>
+</ul>
+</td>
+</tr>
+</table>
+
+
+<hr><H2><a name="CONTACT">Contact Me</a>
+</H2>
+<DL COMPACT>
+<Dd><img src="http://www.cs.utexas.edu/users/jyluo/icons/usps.gif" HSPACE=20 alt="[MAILSERVICE]">
+  307 E 31st Street, Apt 107,
+<a href="http://www.ci.austin.tx.u
+s">Austin</a>, <a href="http://www.state.tx.us">Texas</a> 78705
+<Dd>
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/popphone.gif"  HSPACE=20 alt="[PHONE]">
+  (512) 476-6770(H)
+<Dd>
+<img src="http://www.cs.utexas.edu/users/jyluo/icons/computer.gif"  HSPACE=20 alt="[EMAIL]">
+<A HREF="mailto:jyluo@cs.utexas.edu">
+ <em> jyluo@cs.utexas.edu</em> </A>
+<Dd>
+ <img src="http://www.cs.utexas.edu/users/jyluo/icons/target.gif"  HSPACE=20 alt="[FINGERME]">
+ <A HREF="http://www.cs.utexas.edu/cgi/finger/jyluo">
+   Finger me</A>
+</DL>
+
+
+<HR><center>
+<em><p>Your <a href="mailto:jyluo@cs.utexas.edu">comments and suggestions</a>
+would be highly appreciated.
+<p>
+You are the <IMG
+SRC="http://www.dla.utexas.edu/cgi-bin/nph-count?width=5&link=
+http://www.cs.utexas.edu/users/jyluo/alumni.html", alt="[COUNTER]">th visitor
+since October 10, 1996.
+</center>
+
+
+</BODY>
+</HTML>

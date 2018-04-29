@@ -1,0 +1,55 @@
+<html>
+<head><title>Cornell Split-C</title></head>
+<body>
+
+<center><h1>Cornell Split-C</h1> </center>
+<hr>
+
+<H2>Cornell Split-C Implementations</H2>
+<ul>
+<li><h3>Split-C for U-Net</h3>
+A <b>source-code release</b> of U-Net Split-C is in preparation.  It is
+implemented on top of <a href="http://www.cs.cornell.edu/Info/Projects/CAM">U-Net Active Messages</a><br>
+For more information contact <a
+href="http://www.cs.cornell.edu/Info/People/tve/tve.html">Thorsten von Eicken</a>.<p>
+
+<li><h3>Split-C for the IBM SP-2</h3> A <b>source-code release</b> of
+Split-C for the IBM SP-2 is in <a
+href="http://www.cs.cornell.edu/Info/Projects/Split-C/split-c-distr.tar.Z">split-c-distr.tar.Z</a>. It is implemented
+on top of <a href="http://www.cs.cornell.edu/Info/Projects/CAM">SP2AM</a>.<br> For more information contact
+<a href="http://www.cs.cornell.edu/Info/People/chichao/chichao.html">Chi-Chao Chang</a>,
+<a href="http://www.cs.cornell.edu/Info/People/grzes/grzes.html">Grzegorz Czajkowski</a>, or <a href="http://www.cs.cornell.edu/Info/People/tve/tve.html">Thorsten
+von Eicken</a>.<p>
+
+<li><h3>Split-C for SVR4 shared memory multiprocessors</h3>
+A <b>source-code release</b> of Split-C for Sun multiprocessors running
+Solaris is in preparation.<br>
+For more information see <a href="http://www.cs.cornell.edu/Info/People/mdw/mdw.html">Matt
+Welsh's information page</a>.
+
+</ul><hr>
+<H2>Selected Publications on Split-C</H2>
+<ul>
+
+<li><b>Parallel Programming in Split-C.</b> D. Culler, A. Dusseau, S.
+C. Goldstein, A. Krishnamurthy, S. Lumetta, T. von Eicken, K. Yelick,
+<i>Proceedings of Supercomputing '93</i>, November 1993.<A
+HREF="http://www.cs.cornell.edu/Info/People/tve/ucb-papers/sc93.ps"><img align=top
+src="http://www.cs.cornell.edu/Icons/ps.gif"></A>
+<br>
+<b>Abstract</b>
+<br>
+<p>
+
+</ul><hr>
+<H2>Projects at other sites</H2>
+<ul>
+<li><a href="http://http.cs.berkeley.edu/projects/parallel/castle/split-c/">Split-C
+home page at Berkeley</a>.
+</ul>
+
+<hr>
+For further information contact
+<A HREF="mailto:tve@cs.cornell.edu">Thorsten von Eicken</A>
+
+</html>

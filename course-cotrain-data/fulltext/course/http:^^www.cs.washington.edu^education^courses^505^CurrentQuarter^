@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>CSE 505 Home Page</title>
+</head>
+<body bgcolor="#FFFFFF">
+
+<h1>CSE 505:  Concepts of Programming Languages</h1>
+<h2>Autumn 1996 / MWF 10:30-11:20 / Loew 113. </h2>
+
+<hr>
+
+<h3>Instructor: <a href="http://www.cs.washington.edu/homes/notkin">David Notkin</a>
+    (<a href="mailto:notkin@cs.washington.edu">notkin@cs</a>)</h3>
+<ul><li>office hours: Tu 2:30-3:30PM, F 1:00-2:00PM, Sieg 414 (and by
+appointment)
+
+</ul>
+
+<h3>TA: <a href="http://www.cs.washington.edu/homes/kepart/">Kurt Partridge</a> 
+(<a href="mailto:kepart@cs.washington.edu">kepart@cs</a>)</h3>
+    <ul><li>office hours: Th 12:00-1:00, 4th Floor Cubicles</ul>
+</ul>
+
+
+<hr>
+<H3>Course Handouts</H3>
+<ul>
+<li> Introductory handout <a href=http://www.cs.washington.edu/education/courses/505/CurrentQuarter/intro.html>html</a>, <a href=http://www.cs.washington.edu/education/courses/505/CurrentQuarter/intro.ps>postscript</a>
+<LI> <a href=http://www.cs.washington.edu/education/courses/505/CurrentQuarter/assignments/>Assignments</a>
+<li> <a href=http://www.cs.washington.edu/education/courses/505/CurrentQuarter/readings/>Readings</a>
+</ul>
+
+<hr>
+
+<H3>Mailing List and Threaded Archives</H3>
+
+<p>
+We will be using the mailing list for administrative and instructional
+purposes.  If you wish to refer to a previously sent message, see the <b><a
+href="http://www.cs.washington.edu/education/courses/505/CurrentQuarter/hypermail-archive">threaded mailing list archives</a></b>.
+<p>
+Send mail to the list at: 
+<tt>cse505@cs.washington.edu</tt>.  To subscribe to the list, send email
+to majordomo@cs.washington.edu with the single line in the message body
+(not the subject): 
+<pre>
+subscribe cse505</pre>
+
+<hr>
+<H3>General Programming Language Research Resources</H3>
+<ul>
+<li> <a href=http://www.yahoo.com/Computers_and_Internet/Programming_Languages/>Yahoo's page</a>
+<li> Mark Leone's excellent 
+<A HREF="http://www.cs.cmu.edu/~mleone/language-research.html">Programming Languages Research</A> pages
+<li><A HREF="http://minsky.med.virginia.edu/sdm7g/LangCrit/">Programming language critiques</A>
+<li>Gary Leaven's <A HREF="http://www.cs.iastate.edu/~leavens/lang-self-study.html">language self-study page</A>
+</ul>
+
+
+<H3>Functional Languages Resources</H3>
+<ul>
+<li>MIT's <A HREF="http://www-swiss.ai.mit.edu/scheme-home.html">Scheme home page</A>
+<li>CMU's <A HREF="http://foxnet.cs.cmu.edu/sml.html">Standard ML page</A>
+<li><A HREF="http://www.dcs.napier.ac.uk/course-notes/sml/manual.html">A Gentle Introduction to ML</A>
+<li><A HREF="ftp://haskell.systemsz.cs.yale.edu/pub/haskell/papers/Haskell.status">Haskell FAQ</A>
+<li> <a href=http://www.cec.wustl.edu/~cs455/subjects/specification/semantics/denotational/lambda/lambda.html>Pages on the lambda calculus from Washington University</a>
+<li> <a href=http://www.cs.monash.edu.au/~lloyd/tildeFP/Lambda/Ch/00.Intro.html>Some more lambda calculus pages from Monash University</a>
+</ul>
+
+<H3>Object-Oriented Languages Resources</H3>
+<ul>
+<LI> University of Geneva's <A HREF="http://cuiwww.unige.ch/cgi-bin/ooinfo?language">object-oriented programming info page</A>
+
+<li> UW's own <a href="http://www.cs.washington.edu/research/projects/cecil/www/cecil-home.html">Cecil project</a>
+
+<li> Dylan pages at <a href="http://legend.gwydion.cs.cmu.edu:8001/">Carnegie Mellon</a> and <a href="http://www.cambridge.apple.com/home.html">Apple Computer</a>.
+</ul>
+
+<hr>
+
+Questions?  Send us <a href="mailto:notkin@cs.washington.edu, kepart@cs.washington.edu">mail</a>.
+
+</body>
+</html>

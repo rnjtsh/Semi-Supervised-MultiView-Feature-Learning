@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<!-- This is a sample home page.  You can customize this -->
+<!-- as you please.  Take a look at the HTML Beginners Guide -->
+<!-- by choosing the "Documents" button on your top row menu -->
+
+<TITLE> Home page of Ka Yee Yeung</TITLE>
+</HEAD>
+
+<BODY>
+
+<H1>
+Home page of Ka Yee Yeung
+</H1>
+
+<A HREF="http://www.cs.washington.edu/homes/kayee/myself.html">Personal Info</A>
+<P>
+<A HREF="http://www.cs.washington.edu/homes/kayee/picture.html">My Picture</A>
+<P>
+<A HREF="http://www.cs.washington.edu/homes/kayee/research.html">My Research</A>
+<P>
+<A HREF="http://www.cs.washington.edu/homes/kayee/telnet.html">Telnet to other machines</A>
+<P>
+<hr>
+<P>
+
+<A HREF="mailto:kayee@cs.washington.edu">Send Emails to me</a>
+
+<P>
+
+<A HREF="http://www.cs.washington.edu"> <IMG SRC="http://www.cs.washington.edu/homes/kayee/button_return.gif" ALT="[BACK]"></A> <STRONG>Back to the CSE home page</STRONG>.
+</BODY>
+</HTML>
+

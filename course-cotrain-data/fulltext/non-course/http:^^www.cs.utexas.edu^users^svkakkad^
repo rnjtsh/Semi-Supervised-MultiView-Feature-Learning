@@ -1,0 +1,59 @@
+<HTML>
+
+<head>
+<title>Home Page for Sheetal V. Kakkad</title>
+</head>
+
+<body>
+
+<h1>Sheetal V. Kakkad</h1>
+<h2>Contact Information</h2>
+<dl>
+<dt> Office:
+<dd> Taylor Hall 5.144 <p>
+<dt> Postal Address:
+<dd>
+The University of Texas at Austin <br>
+Department of Computer Sciences <br>
+Taylor Hall 2.124 <br>
+Austin, TX 78712-1188 <br>
+</dl>
+
+I am usually available in my office, but the best way to reach me is
+<a href="mailto:svkakkad@cs.utexas.edu">via email</a>.  Here's my <a
+href="http://www.cs.utexas.edu/cgi/finger/svkakkad">full finger information</a>.<p>
+
+<h2>Research Information</h2>
+
+I am a member of the <a href="http://www.cs.utexas.edu/users/oops/"> OOPS Research Group</a> in
+the <a href="http://www.cs.utexas.edu/users/svkakkad//"> Department of Computer Sciences</a> at 
+<a href="http://www.utexas.edu">The University of Texas at Austin</a>.
+<p>
+
+As part of my Ph.D. research, I have implemented a persistent storage
+system, called <b>Texas</b>, for C++. It provides easy persistence,
+while using a novel technique called "pointer swizzling at page fault
+time" to efficiently support large addresses on standard hardware.<p>
+
+For more information, please see the <a href="http://www.cs.utexas.edu/users/svkakkad/papers.html">list of my
+publications</a> (along with brief descriptions). <p>
+
+I plan to graduate with a Ph.D. in Computer Science in May 1996. My
+resume is available in <a href="http://www.cs.utexas.edu/users/svkakkad/resume.ps">Postscript</a>. <p>
+
+I am currently working at Motorola at Somerset Design Center, while
+finishing up my Ph.D. in Computer Science.
+
+<hr>
+
+<address>
+January 29, 1996 <br>
+Sheetal V. Kakkad <br>
+<a href = "http://www.cs.utexas.edu/users/svkakkad//">Department of Computer Sciences</a>, 
+<a href = http://www.utexas.edu/>The University of Texas at Austin</a> <br>
+<a href = "mailto:svkakkad@cs.utexas.edu">svkakkad@cs.utexas.edu</a> 
+</address>
+
+</body>
+
+</HTML>

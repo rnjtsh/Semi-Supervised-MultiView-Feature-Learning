@@ -1,0 +1,32 @@
+<BASE HREF="http://www.cs.utexas.edu/users/cxh/">
+
+<HTML>
+<HEAD> <TITLE>The Home Page for Xingshan He</TITLE> </HEAD>
+<FRAMESET ROWS="70,*">
+       <FRAME src=header.html>
+	<FRAMESET COLS="200,*">
+       	<FRAME SCROLLING="yes" NORESIZE SRC=main.html>
+       	<FRAME name="active" SRC=outline.html>
+	</FRAMESET>
+</FRAMESET>
+
+<body background=gif/whitem.jpg>
+
+<center><h1> Welcome to Xingshan He's Home Page!</h3> </center>
+
+<p> Your browser doesn't seem to support frames. You may want to download
+the latest <a href="http://www.netscape.com> netscape </a>.
+</p>
+
+<h3><a href="outline.html"> My school work </a> <h3>
+<h3><a href="http://www.cs.utexas.edu/users/cxh/family.html"> Me, My family and Our Friends </a> </h3>
+
+<img src=http://www.cs.utexas.edu/users/cxh/gif/line1.gif>
+<address>
+<img src=http://www.cs.utexas.edu/users/cxh/gif/mailto.gif><a href="mailto:cxh@cs.utexas.edu">cxh@cs.utexas.edu</a>
+<br>
+<img src=http://www.cs.utexas.edu/users/cxh/gif/phone.gif>&#32 512-912-1477
+</address>
+
+</BODY>
+</HTML>

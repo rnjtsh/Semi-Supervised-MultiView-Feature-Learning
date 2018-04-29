@@ -1,0 +1,127 @@
+<html>
+
+<head>
+	<title>Ted Romer</title>
+</head>
+
+<body>
+
+<h1> <a href="http://www.cs.washington.edu/homes/romer/picts/pict.gif">Ted Romer</a></h1>
+
+<!-- img src=./picts/pict.gif -->
+<a href=http://www.cs.washington.edu/homes/romer/picts/boyfriends.gif><img src=http://www.cs.washington.edu/homes/romer/picts/grumpus.gif ></a>
+
+<address>     
+     <a href="http://www.cs.washington.edu/">Department of Computer Science & Engineering</a> <br> 
+     <a href="http://www.washington.edu/">University of Washington</a> <br>
+     Box 352350 <br>
+     <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195<br>
+Home:   (206) 527-0988 <br>
+Office: (206) 616-1849 <br>
+Fax:    (206) 543-2969 <br>
+<a href="http://www.cs.washington.edu/htbin-post/finger/romer">romer@cs.washington.edu</a><br>
+Office: 
+<a href="http://www.cs.washington.edu/homes/map/chateau.html">
+Chateau Sieg</a> <a href=http://www.cs.washington.edu/homes/romer/c110/index.html>110</a>.
+</address>
+<h2>Research Interests</h2>
+I've been doing research on operating system support
+for 
+<A HREF="http://www.cs.washington.edu/homes/romer/memsys/index.html">
+high performance memory systems</a>
+with really smart people like
+<A HREF ="http://www.cs.washington.edu/homes/bershad">
+Brian Bershad</A>,
+<A HREF ="http://www.das.harvard.edu/users/faculty/Brad_Chen/Brad_Chen.html">
+Brad Chen</A>,
+Alan Eustace,
+<A HREF="http://www.cs.washington.edu/homes/karlin">
+Anna Karlin</A>, 
+<A HREF="http://www.cs.washington.edu/homes/dlee">
+Dennis Lee</A>, 
+<A HREF ="http://www.cs.washington.edu/homes/ohlrich">
+Wayne Ohlrich</A>, and
+<A HREF ="http://www.cs.washington.edu/homes/waynew">
+Wayne Wong</A>.
+
+<P>
+Three recent papers on this subject:
+<ul>
+<li>
+<a href="ftp://ftp.cs.washington.edu/homes/romer/isca95.paper.ps">
+Reducing TLB and Memory Overhead Using Online
+Superpage Promotion</a>.
+Romer, Ohlrich, Karlin and Bershad.  ISCA '95, pp. 176-187.
+<li><a href="ftp://ftp.cs.washington.edu/homes/romer/scml.paper.ps">
+Dynamic Page Mapping Policies for Cache Conflict Resolution
+on Standard Hardware</a>.
+Romer, Lee, Bershad, and Chen.  OSDI '94, pp. 255-266.
+<li><a href="http://www.cs.washington.edu/homes/bershad/paper-cml.ps">
+Avoiding Conflict Misses Dynamically in Large Direct-Mapped
+Caches</a>.
+Bershad, Lee, Romer, and Chen.  ASPLOS VI, pp. 158-170.
+</ul>
+<P>
+
+In addition, some friends and I have been studying the performance of
+interpreters.  You can learn more from the
+<a href="http://www.cs.washington.edu/homes/romer/rocky">Project Rocky</a>
+home page.  We also wrote a paper together:
+<ul>
+<li>
+<!-- <a href="http://www.cs.washington.edu/homes/romer/rocky/InterpreterS+P.submit.ps" -->
+The Structure and Performance of Interpreters </a>.
+Romer, Lee, Voelker, Wolman, Wong, Baer, Bershad, and Levy.
+ASPLOS VII, to appear.
+<a href="http://www.cs.washington.edu/homes/romer/rocky/InterpreterS+P.abstract.html">Abstract</a>,
+<a href="http://www.cs.washington.edu/homes/romer/rocky/InterpreterS+P.ps">postscript</a>.
+</ul>
+
+<P>
+My <a href="http://www.cs.washington.edu/homes/romer/biblio.html">Bibliography</a>.
+<p>
+<a href="http://www.cs.washington.edu/homes/romer/590lobo/index.html">590lobo Reading List</a>
+</ul>
+<h2>Random Stuff</h2>
+<ul>
+
+<li>
+<a href="http://www.cs.washington.edu/homes/romer/directions.gif">A map to my house.</a>
+<li>
+Computer scientists with x-rays of their limbs on the web:
+<ul>
+
+<li> <a href="http://www.cs.washington.edu/homes/romer/xray.html">Ted Romer's knee</a> after 
+<a href="http://www.cs.washington.edu/homes/romer/knee/arthroscopy.html">arthroscopic</a> surgery.
+
+<li> <a href="http://www.cs.wisc.edu/~markhill/xray.html">Mark Hill's wrist</a>.
+
+</ul>
+
+<li>
+My friend <a href="http://www.cs.washington.edu/homes/dylan">Dylan</a>
+said his hair couldn't be cut with a Flowbee.  We said it could.  Being
+experimental scientists, we conducted an experiment.  You can judge the 
+<a href="http://www.cs.washington.edu/homes/romer/dylan-flowbee.html">results</a> yourself.
+
+<li>
+After attending ISCA '95, I travelled in Europe and took some
+<a href="http://www.cs.washington.edu/homes/romer/europe95.html">pictures</a>.
+
+<li> <a href="http://www.cs.washington.edu/homes/romer/picts/romering.html"><em>romer</em></a>, v. tr.  To eat
+someone else's food, accompanied by sincere rationalization.  For
+example, "You <em>romered</em> my lunch!"  "But I thought you'd left
+the country and it would go bad if I didn't eat it!"  Origin unknown.
+
+<li> <a
+href=http://www.cs.yale.edu/HTML/YALE/CS/Brochure/faculty/tufte.html>
+Edward Tufte's</a> <a href="http://www.cs.washington.edu/homes/romer/tufte.html"> tips on public speaking </a>.
+
+<li>
+My father edits the <a href="http://www.amherst.edu/~ajp">American Journal of Physics</a>.
+<!-- This should be a comment. <a href="http://www.cs.washington.edu/homes/romer/bookmarks.html">Places I've been on the Web</a>. -->
+<!-- <FORM METHOD="POST" ACTION="http://www.secapl.com:85/cgi-bin/qsyy">
+<b>Ticker Symbol</b> <INPUT NAME="tick950411" value="t"></FORM> -->
+</body>
+</html>
+

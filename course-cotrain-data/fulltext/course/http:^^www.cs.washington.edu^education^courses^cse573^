@@ -1,0 +1,59 @@
+<html>
+
+<head><title>CSE 573 Index Page</title></head>
+
+<body>
+
+<h1 align=center>CSE 573 - Artificial Intelligence</h1>
+
+<h2 align=center>Fall Quarter, 1996</h2>
+
+<P>
+<HR>
+<P>
+
+Artificial intelligence (AI) poses two of the most fundamental and
+challenging questions in computer science: can we build intelligent
+machines?  How? This course addresses these questions by providing an
+in-depth introduction to selected topics in AI including agent
+architectures, knowledge representation, search, planning, machine
+learning, reasoning about uncertainty, and AI methodology.
+
+<P>
+<HR>
+<P>
+
+<UL>
+
+<LI>Staff:
+<table border=1>
+<tr><td><a href="http://www.cs.washington.edu/homes/weld">Dan Weld</a><td><A HREF="mailto:weld@cs">weld@cs</A>
+	<td>Sieg 408<td>543-9196<td>Hours, TBA </tr>
+<tr><td><a href="http://www.cs.washington.edu/homes/friedman">Marc Friedman</a><td><A HREF="mailto:friedman@cs">friedman@cs</A>
+	<td>Sieg 429<td>543-5129<td>Hours, TBA </tr>
+<tr><td>Nick Kushmerick<td><A HREF="mailto:nick@cs">nick@cs</a>
+	<td>Sieg 428<td>685-2723<td>Hours, TBA </tr>
+</table>
+
+<P>
+
+<LI><a href="http://www.cs.washington.edu/education/courses/cse573/syllabus.htm">Outline of Topics</a></h2>
+
+<LI><a href="http://www.cs.washington.edu/education/courses/cse573/project.htm">Project</a></h2>
+
+<LI><a href="http://www.cs.washington.edu/education/courses/cse573/readings.htm">Reading Assignments</a></h2>
+
+<LI><a href="http://www.cs.washington.edu/education/courses/cse573/assignments.htm">Assignments &amp; Exams</a></h2>
+
+<LI><a href="http://www.cs.washington.edu/education/courses/cse573/gradenote.htm">Grading</a></h2>
+
+<LI><a href="http://www.cs.washington.edu/education/courses/cse573/resources.htm">Resources</a></h2>
+
+<LI>The <a href="mailto:cse573@cs.washington.edu">Class Mailing
+List</A>; see also the <A HREF="http://www.cs.washington.edu/education/courses/cse573/mlist">archive</A> of past messages
+
+</UL>
+
+</body>
+
+</html>

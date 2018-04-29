@@ -1,0 +1,63 @@
+
+<HTML>
+
+<HEAD>
+<TITLE>John B. Chambers' Home Page</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="/users/jbc/home/backgrounds/background"
+ TEXT="black" LINK="white" ALINK="#B15729" VLINK="white">
+<CENTER>
+
+<HR NOSHADE>
+<P>
+<IMG SRC="http://www.cs.utexas.edu/images/UTCS/header.trans.gif" ALT="UTCS address">
+<FONT SIZE="+4">John B. Chambers</FONT><BR>
+<FONT SIZE="+2">Senior Operating Systems Specialist</FONT><BR>
+</P>
+<P>
+<FONT SIZE=-1>
+<B>
+B.S., Physics, The University of Texas (El Paso)<BR>
+M.S., Computer Science, Yale University<BR>
+Ph.D., Operations Research, The University of Texas (Austin)<BR>
+</B>
+</FONT>
+</P>
+<HR NOSHADE>
+
+<P>
+<TABLE BORDER=0 CELLSPACING=10 CELLPADDING=5 BGCOLOR="#B15729">
+<TR>
+<TD VALIGN=middle ALIGN=center WIDTH="15%">
+ <A HREF="http://www.cs.utexas.edu/users/jbc/home/research.html">
+ <FONT SIZE=+1><B>Research</B></FONT></A></TD>
+<TD VALIGN=middle ALIGN=center WIDTH="15%">
+ <A HREF="http://www.cs.utexas.edu/users/jbc/home/papers.html">
+ <FONT SIZE=+1><B>Papers</B></FONT></A></TD>
+<TD VALIGN=middle ALIGN=center WIDTH="15%">
+ <A HREF="http://www.cs.utexas.edu/users/jbc/home/vita.html">
+ <FONT SIZE=+1><B>Vita</B></FONT></A></TD>
+</TR>
+<TR>
+<TD VALIGN=middle ALIGN=center WIDTH="15%">
+ <A HREF="http://www.cs.utexas.edu/users/jbc/home/facilities.html">
+ <FONT SIZE=+1><B>UT CS</B></FONT></A></TD>
+<TD VALIGN=middle ALIGN=center WIDTH="15%">
+ <A HREF="http://www.cs.utexas.edu/users/jbc/home/links.html">
+ <FONT SIZE=+1><B>Links</B></FONT></A></TD>
+<TD VALIGN=middle ALIGN=center WIDTH="15%">
+ <A HREF="mailto:jbc@cs.utexas.edu">
+ <FONT SIZE=+1><B>E-mail</B></FONT></A></TD>
+</TR>
+</TABLE>
+</P>
+
+</CENTER>
+</BODY>
+
+</HTML>
+
+
+
+

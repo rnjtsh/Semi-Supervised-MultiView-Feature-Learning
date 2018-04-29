@@ -1,0 +1,85 @@
+<HTML>
+<HEAD>
+<TITLE>Jeremy Buhler's Home Page</TITLE>
+</HEAD>
+
+<BODY>
+<H1 align=center>Jeremy Buhler's Home Page</H1>
+<HR>
+<H3 align=center>Do not attempt to adjust your browser.
+                 We are controlling transmission.</H3>
+
+<p align=center>
+<IMG SRC="http://www.cs.washington.edu/homes/jbuhler/jbuhler.gif" ALT="[my picture]">
+
+<center> <!-- required by Netscape??? -->
+<TABLE ALIGN=center BORDER=0 CELLPADDING=3>
+<TR> <TH ALIGN=right> Status: </TH>
+     <TD>First-year Ph.D. student</TD> </TR>
+<TR> <TH ALIGN=right> Institution: </TH>
+     <TD><A href="http://www.washington.edu/">
+         University of Washington</A></TD> </TR>
+<TR> <TH ALIGN=right> Department:</TH>   
+     <TD><A href="http://www.cs.washington.edu/">
+         Computer Science and Engineering</A></TD> </TR>
+<TR> <TH ALIGN=right> Office:</TH>
+     <TD>Sieg Hall 429</TD> </TR>
+<TR> <TH ALIGN=right> Office Phone:</TH> 
+     <TD>(206)543-5129</TD> </TR>
+<TR> <TH ALIGN=right> Home Phone:</TH> 
+     <TD>(206)729-1455</TD> </TR>
+<TR> <TH ALIGN=right> E-mail Address:</TH> 
+     <TD><A href="mailto:jbuhler@cs.washington.edu">
+<i>jbuhler@cs.washington.edu</i></A></TD> </TR>
+<TR> <TH ALIGN=right> Finger me at:</TH>
+     <TD><A href="http://www.cs.washington.edu/htbin-post/finger/jbuhler@tako.cs.washington.edu">
+         tako.cs.washington.edu</A></TD> </TR>
+</TABLE>
+</center>
+</p>
+
+<p ALIGN=center>
+<IMG SRC="http://www.cs.washington.edu/homes/jbuhler/hr-rainbow.gif" 
+ ALT="<|==================================================================|>">
+</p>
+
+<H3>Important Stuff</H3>
+<p>
+<UL>
+<LI>Lecture notes on suffix trees (<A href="http://www.cs.washington.edu/homes/jbuhler/suffix.ps.gz">Postscript</A>)
+    (<A href="http://www.cs.washington.edu/homes/jbuhler/suffix.tex">LaTeX</A>)
+<LI>My research (coming soon)
+<LI><A href="http://www.cs.washington.edu/homes/jbuhler/sched.html">My course schedule</A>
+<LI><A href="http://www.cs.washington.edu/homes/jbuhler/pgpkey.html">My PGP public key</A>
+<LI>Cyber-activism at the
+    <A href="http://www.eff.org">Electronic Frontier Foundation</A>
+    <IMG SRC="http://www.cs.washington.edu/homes/jbuhler/effrib.gif" ALT="@"> <IMG SRC="http://www.cs.washington.edu/homes/jbuhler/effkey.gif" ALT="@"> 
+</UL>
+</p>
+
+<H3>Just for Grins</H3>
+<p>
+<UL>
+<LI><A href="http://www.cs.washington.edu/homes/jbuhler/reading.html">Recommended reading</A>
+<LI>My undergraduate alma mater: 
+    <A href="http://www.rice.edu/">Rice University</A>
+<LI><A href="http://www.cs.washington.edu/homes/jbuhler/quotes.html">Quotable quotes</A>
+<LI><A href="http://www.cs.washington.edu/homes/jbuhler/spud.html">My cat's home page</A>
+</UL>
+</p>
+
+<p ALIGN=center>
+<IMG SRC="http://www.cs.washington.edu/homes/jbuhler/hr-rainbow.gif" 
+ ALT="<|==================================================================|>">
+</p>
+
+<H3 align=center>We now return control of your browser to you.</H3>
+
+<HR>
+<ADDRESS>
+Jeremy Buhler
+(jbuhler@cs.washington.edu)<BR>
+Last Update: 10/18/96
+</ADDRESS>
+</BODY>
+</HTML>

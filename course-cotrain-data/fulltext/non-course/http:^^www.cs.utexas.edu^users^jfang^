@@ -1,0 +1,222 @@
+<html>
+</HEAD>
+<body>
+<!-- background="PICTURES/emboss.gif" --> 
+
+<BODY BGCOLOR="#c0c0d0" TEXT="#000000" LINK="#0000FF" VLINK="#0000C0" ALINK="000080">
+
+
+<title>HomePage </title>
+
+</head>
+
+<p>
+
+<center>
+<font size=+3>H</font><font size=+2>OME OF</font>
+<font size=+3>J</font><font size=+2>UN</font>
+<font size=+3>F</font><font size=+2>ANG</font>
+<hr noshade size=+5>
+
+
+<!----------------------------------------------------------------------- 
+		  WelCOME
+------------------------------------------------------------------------->
+</h1>
+Hi! Welcome to my homepage. <br> </center> <p>
+
+<dt>
+:-)<A HREF="http://www.cs.utexas.edu/users/jfang/loginfo">.
+
+<dt>
+<A HREF="http://www.cs.utexas.edu/users/jfang/new/index.html"> Testing frames ... 
+</A>  
+
+<p>
+
+<!-- <A HREF="http://www.cs.utexas.edu/cgi/finger?jfang">.
+</A>. -->
+<p>
+
+<dd> I am a graduate student at 
+<A HREF="http://www.cs.utexas.edu/">
+the Computer Science Department
+</A> of 
+<A HREF="http://wwwhost.cc.utexas.edu/">
+the University of Texas, at Austin
+</A>.
+
+<br>
+<A HREF="http://www.lib.utexas.edu/">
+UT library 
+</A>
+is the 5th largest academic library in north America. Go to see its 
+<A HREF="http://www.lib.utexas.edu/utcat.html">
+catalog
+</A>
+
+<!--
+<p> My 
+<a HREF="http://www.cs.utexas.edu/users/jfang/resume.html"> resume </a>.
+<p>
+-->
+
+<!----------------------------------------------------------------------- 
+		  TA 
+------------------------------------------------------------------------>
+<hr>
+<font size=+1> <b> TA job: </b> </font> 
+
+<dd>
+I am a TA for 
+<A HREF="http://www.cs.utexas.edu/users/novak/cs304p.html">
+the course CS304P by Professor Novak
+</A>.
+<br>
+
+<dd>
+<A HREF="http://www.cs.utexas.edu/users/jfang/total/index.html" > Assignments </A>.
+
+<hr>
+
+<!----------------------------------------------------------------------- 
+		TOPICS on COMPUTER
+------------------------------------------------------------------------>
+<font size=+1> <b> Topics on Computer: </b> </font> 
+<dl>
+
+<li> <A HREF="http://wwwhost.ots.utexas.edu/ethernet/ethernet-home.html">
+Here is an excellent source of Ethernet info.
+</A>
+
+<li> 
+<a href="http://www.npac.syr.edu/users/dpk/ATM_Knowledgebase/ATM-technology.html">
+ATM technology.
+</a>
+
+<li> Special sysadm topic:
+<a href="http://jaka.ece.uiuc.edu/ldp/HOWTO/DNS-HOWTO.html">
+Domain Name System DNS </a> .
+
+<li> Information about the free UNIXish operating system: the 
+<a href="http://sunsite.unc.edu/mdw/linux.html">
+Linux Documentation Project Home Page </a>.
+
+<Li> Info. on 
+<A HREF="http://www.jct.ac.il/science/online/gdb/gdb_toc.html">
+using GNU's debuger GDB </A>.
+
+<Li> 
+<A HREF="http://wwwcsc.cornell-iowa.edu/WWW/latex2html/manual.html">
+Transfer LaTeX file to HTML.
+</A>
+
+<li>
+Get help on 
+<A HREF="http://www.andrews.edu/~maier/tutor.html">C++, UNIX, HTML, email, etc.
+</A>
+
+</dl>
+
+<!----------------------------------------------------------------------- 
+		  OTHER STUFF
+------------------------------------------------------------------------>
+<hr>
+<font size=+1> <b> Other stuffs: </b> </font> 
+
+<dl>
+<li> Visit 
+<A HREF="http://www.cs.utexas.edu/users/acm"> UTCS ACM
+</A> .
+
+<li type=disc>
+Visit <a href="http://www2.utep.edu/~kross/tutorial/"> 
+Kristina Ross' tutorial </a> to learn how to construct web pages.
+
+<li> I was taking Jeff's course 
+<a href="http://www.cs.fsu.edu/~jtbauer/cis5406/index.html"> 
+Computer and Network System Administration </a>
+last summer at 
+<A HREF="http://www.fsu.edu">
+the Florida State University
+</A>. 
+
+<li> Visit <a href="http://www.edmunds.com/"> 
+Edmund's Automobile Buyer's Guides  </a>
+ if you want to buy a car.
+
+<li> Document of the 
+<A href="http://www/users/jfang/javadoc/apibook/index.htm">
+Java API package 
+</A>
+and 
+<A href="http://www/users/jfang/javadoc/langspec-1.0/index.html">
+Java Language Specification V1.0
+</A>.
+</dl>
+<p>
+
+<!---------------------------------------------------------------------- 
+		  PGP
+------------------------------------------------------------------------>
+<hr>
+<font size=+1> <b> PGP </b> </font> 
+
+<dl>
+<li> See 
+<A HREF="http://www.cs.utexas.edu/users/jfang/PGP/pub.asc"> my PGP public key </A> in ASCII format. 
+
+<Li> What is PGP? Look at 
+<A HREF="http://www.cs.wm.edu/pgp.html"> PGP (Pretty Good Privacy) Help <A/> .
+</dl>
+
+<hr>
+
+I like this 
+<a HREF="http://www.cs.utexas.edu/users/jfang/PICTURES/wtrfll.gif">
+scenery picture
+</a>.
+
+<!-- This is the awful syntax of HTML comments -->
+
+<!-- ------------------------------------------------------------------- 
+		  Personal Info
+--------------------------------------------------------------------- -->
+<hr>
+<dl>
+<h0>
+   <dl>
+     <dt> 
+	<a href="mailto:jfang@cs.utexas.edu"> 
+	<IMG SRC="http://www.cs.utexas.edu/users/jfang/PICTURES/email2.gif", BORDER=1> 
+	jfang@cs.utexas.edu </a>
+
+	<IMG SRC="http://www.cs.utexas.edu/users/jfang/PICTURES/popphone.gif", BORDER=1>
+	 (512) 494-1148(H)
+   </dl>
+</h0>
+
+<p>
+I started to construct my homepage on 8/28/96.
+ <a><img border=0 align=middle src="http://www.cs.utexas.edu/users/jfang/PICTURES/construction.gif"></a>
+<br>
+
+<a name = Stat>
+<em>You are the visitor number 
+<img src="http://www.cs.utexas.edu/pub/cgi/Count.cgi?ft=3&dd=B&frgb=0;0;255|df=jfang.dat" 
+align=absmiddle> 
+since Nov. 22, 1996. </em> </a> <p>
+
+<!-- Begin Career Connection Link -->
+<A HREF="http://www.connectme.com">
+<IMG SRC="http://www.connectme.com/images/misc/linkicon.gif"
+ALT="The Career Connection" BORDER=1></a>
+<!-- End Career Connection Link -->
+
+<dt>
+<A HREF="http://www.cs.utexas.edu/users/jfang/testcgi.html"> Testing cgi ...  </A>
+
+<dt>
+<A HREF="http://www.cs.utexas.edu/users/jfang/java/applet/index.html"> Testing Java applet ...  </A>
+
+</body>

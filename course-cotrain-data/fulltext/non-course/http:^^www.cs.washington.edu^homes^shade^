@@ -1,0 +1,94 @@
+<html>
+<header>
+<TITLE>j ward shade</TITLE>
+</header>
+
+<body bgcolor="ffffff" fgcolor="000000">
+
+<!-- ==================== Header ============================= -->
+
+<center>
+<table border = 0 width = 100% cellpadding=0>
+
+<td align = left valign=middle>
+<img src = http://www.cs.washington.edu/homes/shade/Duh.gif>
+</td>
+
+<td align = right valign=middle>
+<img src = http://www.cs.washington.edu/homes/shade/Name.gif>
+</td>
+
+</table>
+</center>
+<hr noshade>
+
+<!-- ==================== Salutation ========================= -->
+
+Greetings and salutations. I'm a third year grad student here
+at u-dub
+<a href="http://www.cs.washington.edu">cse</a>. Interactive rendering
+of complex 3D scenes is currently my thing. If it is your thing too,
+then follow the <a href="http://www.cs.washington.edu/homes/shade/projects.html">Projects</a> link to the 
+<a href="http://www.cs.washington.edu/research/projects/grail2/www/projects/walkthru/">Walkthru</a>
+project. There, among
+lots of pictures and animations, you'll find the SIGGRAPH 96 paper
+describing some recent work. ( As a shortcut, you can click on the
+picture of the island in the lower left corner of this page.)
+
+There is lots of interesting work going on in many different aspects
+of computer graphics here. The
+<a href=http://www.cs.washington.edu/research/projects/grail2/www>
+Graphics and Imaging Laboratory</a> is where most of it gets done. 
+
+<p>
+
+
+<!-- ======================= Menu ============================ -->
+
+<CENTER>
+<TABLE>
+
+<tr>
+<td> <a href="http://www.cs.washington.edu/homes/shade/contact.html"><img src=http://www.cs.washington.edu/homes/shade/hands.jpg border=0></a>
+<td> <a href="http://www.cs.washington.edu/homes/shade/contact.html">Contact Info</a>,
+	 <a href="http://www.cs.washington.edu/homes/shade/schedule.html">Daily Schedule</a>,
+	 <a href="http://www.cs.washington.edu/homes/shade/travel.html">Travel Plans</a>.
+<tr>
+<td> <a href="http://www.cs.washington.edu/homes/shade/projects.html"><img src=http://www.cs.washington.edu/homes/shade/projects.jpg border=0></a>
+<td> <a href="http://www.cs.washington.edu/homes/shade/projects.html">Projects</a>
+
+<tr>
+<td> <a href="http://www.cs.washington.edu/homes/shade/publications.html"><img src=http://www.cs.washington.edu/homes/shade/publications.jpg border=0></a>
+<td> <a href="http://www.cs.washington.edu/homes/shade/publications.html">Publications</a>
+
+<tr>
+<td> <a href="http://www.cs.washington.edu/homes/shade/pictures.html"><img src=http://www.cs.washington.edu/homes/shade/sleep3a.jpg border=0></a>
+<td> <a href="http://www.cs.washington.edu/homes/shade/pictures.html">Pictures</a>
+
+</TABLE>
+</CENTER>
+
+<!-- ======================= Shortcuts ======================== -->
+
+<hr noshade>
+<table width=100%>
+<tr align=middle>
+<td> <a href="http://www.cs.washington.edu/research/projects/grail2/www/projects/walkthru/">
+	 <img src = http://www.cs.washington.edu/homes/shade/Walkthru_sh.gif   width=166 height=122 border=0></a>
+<td> <a href="http://www.cs.washington.edu/homes/shade/vroom/vroom.html">
+	 <img src = http://www.cs.washington.edu/homes/shade/Vroom_sh.gif      width=166 height=126 border=0></a>
+<td> <a href="http://www.cs.washington.edu/homes/shade/projects.html">
+	 <img src = http://www.cs.washington.edu/homes/shade/Siggraph93_sh.gif width=172 height=126 border=0></a>
+<td> <a href="http://www.cs.washington.edu/homes/shade/projects.html">
+	 <img src = http://www.cs.washington.edu/homes/shade/Quake05a_sh.gif   width=162 height=126 border=0></a>
+</table>
+
+<!--
+Watch It Buster! These pages are monitored for illegal activity.
+-->
+
+<small>
+Hey! If this page looks scrunched, make your browser at least 750 pixels wide.
+</body>
+</html>
+

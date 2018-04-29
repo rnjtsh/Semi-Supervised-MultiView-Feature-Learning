@@ -1,0 +1,49 @@
+
+<html>
+
+<head>
+	<title>Charlie Garrett's Home Page</title>
+</head>
+
+<body>
+<h1> <a name="top">Charlie Garrett</a></h1>
+
+<h3> Address </h3>
+<address>
+13725 32nd Ave. NE <br>
+Apt. C-242 <br>
+Seattle, WA 98125 <br>
+(206) 386-0265
+</address>
+
+<h3>Research interests:</h3>
+<ul>
+	<li> Compilers
+	<li> Graphics
+	<li> Neural Networks/Genetic Algorithms
+	<li> Game playing algorithms
+</ul>
+
+<h3>Papers on-line</h3>
+<ul>
+	<li> <a href="http://www.neci.nj.nec.com/homepages/eric/ga.ps">Genetic Algorithms</a>
+</ul>
+
+Formerly, I was a member of the 
+<a href="http://www.cs.washington.edu/research/projects/cecil">Cecil</a> 
+group at the University of
+Washington.
+
+<p>
+
+<h3> <A HREF="http://www.cs.washington.edu/homes/garrett/books.html">My Bookshelf </A></h3>
+<h3> <A HREF="http://www.cs.washington.edu/homes/garrett/music.html">Audio File </A></h3>
+
+<hr>
+
+<address>     
+	<A HREF="mailto:garrett@cs.washington.edu">garrett@cs.washington.edu </A>
+</address>
+
+</body>
+</html>

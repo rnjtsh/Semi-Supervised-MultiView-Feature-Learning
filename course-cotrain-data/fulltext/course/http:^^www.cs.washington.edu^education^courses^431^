@@ -1,0 +1,168 @@
+<html>
+<head>
+  <title>
+    CSE 431 - Intro. to the Theory of Computation, Spring 1996
+  </title>
+</head>
+
+<body>
+<center>
+  <a href="http://www.cs.washington.edu/education/courses/431//">
+    <img border=0 vspace=5 src="http://www.cs.washington.edu/education/courses/431/96s/nameplate_small.old.gif"></a>
+  <br clear=all>
+  <h1>
+    CSE 431 <br>
+    Introduction to the Theory of Computation
+  </h1>
+  <h2>
+    Larry Ruzzo, Spring 1996
+  </h2>
+</center>
+
+
+<h2> General information </h2>
+<dl>
+   <dt> Instructor: <a href="http://www.cs.washington.edu/homes/ruzzo"> Larry Ruzzo</a>
+
+   <dt> TA: <a href="http://www.cs.washington.edu/homes/jayram"> 
+        Jayram Thathachar  </a>
+
+   <dt> Meeting times: Mon, Wed, Fri 10:30-11:20 in EEB 108.
+
+   <dt> Instructor office hours (tentative):  Wed 1-2, Fri 1-2 in Sieg 415.
+
+   <dt> TA office hours: Mon 1-2, Tue 12-1 in Sieg 326.
+</dl>
+<hr>
+
+<h2> Welcome to the CSE 431 home page </h2>
+If you have any problems with this document, send
+mail to jayram@cs.washington.edu.
+
+<p>
+<b><a href="http://www.cs.washington.edu/education/courses/431/96s/bboard.shtml"><font size=+2>Class E-mail:</font></a></b> 
+      (Last update:
+           
+          <!-- see man strftime for full formatting options-->
+          05/31/96 at 10PM.)
+<br>
+A log of all messages sent out to the class e-mail list
+(cse431@cs.washington.edu).
+
+<p>
+
+<h2> Textbook 
+    <a href="http://www-math.mit.edu/~sipser/errata.html">Errata</a>.</h2>
+
+<h2>Handouts:</h2>
+    <table border=3 cellspacing=1 cellpadding=3>
+      <tr>
+        <td></td>
+        <th colspan=1>Admin.</th>
+        <th colspan=7>Problems</th>
+        <th colspan=7>Solutions</th>
+        <th colspan=1>Everything</th>
+      </tr>
+      <tr>
+        <th align=left><font size=-1>LaTeX Source:</font></th>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/syl.tex>Syllabus</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw1.tex><!--HW--> 1</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw2.tex><!--HW--> 2</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw3.tex><!--HW--> 3</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw4.tex><!--HW--> 4</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw5.tex><!--HW--> 5</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/mid.tex>Midterm</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/fin.tex>Final</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw1-sol.tex><!--HW--> 1</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw2-sol.tex><!--HW--> 2</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw3-sol.tex><!--HW--> 3</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw4-sol.tex><!--HW--> 4</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw5-sol.tex><!--HW--> 5</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/mid-sol.tex>Midterm</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/fin-sol.tex>Final</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/all.tex>Everything</a></td>
+      </tr>
+      <tr>
+        <th align=left><font size=-1>
+          <img src=http://www.cs.washington.edu/general/icons/PDF4.GIF alt="PDF"> Acrobat:</font></th>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/syl.pdf>Syllabus</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw1.pdf><!--HW--> 1</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw2.pdf><!--HW--> 2</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw3.pdf><!--HW--> 3</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw4.pdf><!--HW--> 4</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw5.pdf><!--HW--> 5</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/mid.pdf>Midterm</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/fin.pdf>Final</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw1-sol.pdf><!--HW--> 1</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw2-sol.pdf><!--HW--> 2</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw3-sol.pdf><!--HW--> 3</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw4-sol.pdf><!--HW--> 4</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw5-sol.pdf><!--HW--> 5</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/mid-sol.pdf>Midterm</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/fin-sol.pdf>Final</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/all.pdf>Everything</a></td>
+      </tr>
+      <tr>
+        <th align=left><font size=-1>PostScript:</font></th>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/syl.ps>Syllabus</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw1.ps><!--HW--> 1</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw2.ps><!--HW--> 2</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw3.ps><!--HW--> 3</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw4.ps><!--HW--> 4</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw5.ps><!--HW--> 5</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/mid.ps>Midterm</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/fin.ps>Final</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw1-sol.ps><!--HW--> 1</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw2-sol.ps><!--HW--> 2</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw3-sol.ps><!--HW--> 3</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw4-sol.ps><!--HW--> 4</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/hw5-sol.ps><!--HW--> 5</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/mid-sol.ps>Midterm</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/fin-sol.ps>Final</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/431/96s/all.ps>Everything</a></td>
+      </tr>
+    </table>
+<p>
+<hr>
+<b><font size=+2><a name="formats">About file formats:<a></font></b>  Most of the
+course materials above are provided in three formats:
+<table>
+<tr>
+<td></td>
+<td>
+<dl>
+  <dt><b>LaTeX:</b><dd>
+    Plain ASCII text including formating commands.
+    Simple things (e.g. assignments) are generally quite legible in
+    this format.  For figures and complex math stuff, these are
+    hard-to-impossible to read.
+  <dt><b>Adobe Acrobat <img src=http://www.cs.washington.edu/general/icons/PDFmid.GIF alt="PDF"> :</b><dd>
+    The latest &amp; greatest.
+    Get a free viewer from Adobe's 
+    <a href=http://www.adobe.com/Acrobat/AcrobatWWW.html>Acrobat and the Web</a> Page.
+    <p>
+  <dt><b>PostScript:</b><dd>
+    The 
+    <a href=http://www.cs.wisc.edu/~ghost/index.html>Ghostscript Home Page</a>
+    has free viewers (Mac, Windows, OS/2, Linux, ...)
+</dl>  
+At this time, Acrobat is supported on fewer systems, but is
+preferable if you can use it -- files are smaller, rendering is
+faster and more legible, and it can print (which Mac Ghostscript
+can't, for example).
+</tr>
+</table>
+<hr>
+
+<h2> Old Course Webs:</h2>
+    <ul>
+    <li> <a href=http://www.cs.washington.edu/education/courses/431/94s/index.html> Spring 1994</a>
+    <li> <a href=http://www.cs.washington.edu/education/courses/431/95s/index.html> Spring 1995</a>
+    </ul>
+</body><p>
+<hr>
+
+<address>
+jayram@cs.washington.edu
+</address>
+</html>

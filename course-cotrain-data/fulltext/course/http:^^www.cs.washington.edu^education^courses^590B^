@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>CSE 590B: Graphics Seminar</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000"
+ link="#0000CC" vlink="#330066" alink="FF0000">
+
+<center>
+<table border cellpadding=10><tr><td align=center>
+<font size=+1>C S E &nbsp; <font size=+2>5 9 0</font> B : &nbsp;
+<font size=+2>G</font> R A P H I C S &nbsp;
+<font size=+2>S</font> E M I N A R<p>
+Spring 1996<p>
+Numerical Methods in Graphics<br>
+</font>
+</td></tr></table>
+</center>
+
+<blockquote>
+<table cellspacing=10>
+<tr align=left valign=top>
+  <th>April 3</th>
+  <td><b>Matrix Computations I</b><br>
+    <a href="http://www.cs.washington.edu/education/courses/590B/mat.comp.intro/mat.comp.intro.ps">Intro: Definitions, Properties, Inversion</a> (Brad C.)<br>
+    <a href="http://www.cs.washington.edu/education/courses/590B/linear-systems.ps">Solving Linear Systems</a> (Eric)</td>
+</tr>
+<tr align=left valign=top>
+  <th>April 10</th>
+  <td><b>Matrix Computations II</b><br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/eigen.ps">Eigenvalues &amp Eigenvectors</a> (Dan F.) <br>
+  <A href="http://www.cs.washington.edu/education/courses/590B/svd/">Singular Value Decomposition</a> (Joel) </td>
+</tr>
+<tr align=left valign=top>
+  <th>April 17</th>
+  <td><b>Root Finding/Nonlinear Equations</b> (Corey, Shuichi)</td>
+</tr>
+<tr align=left valign=top>
+  <th>April 24</th>
+  <td><b>Optimization</b><br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/optim.ps">Intro and Unconstrained Optimization</a> (Kari) <br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/opt.ps">Constrained and Global Optimization</a> (Kevin) </td>
+</tr>
+<tr align=left valign=top>
+  <th>May 1</th>
+  <td><b>Linear and Quadratic Programming</b><br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/lp.html">Linear Programming</a> (Chuck/Ronen) <br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/lqp.ps">Linear &amp Quadratic Programming: Examples</a> (Daniel) </td>
+</tr>
+<tr align=left valign=top>
+  <th>May 8</th>
+  <td><b>Data Fitting</b><br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/datafit/">Intro and Conclusion</a> (Mike) <br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/data-fitting.pdf">Linear Regression and Calibration Example</a> (Brad W.)</td>
+</tr>
+<tr align=left valign=top>
+  <th>May 15</th>
+  <td><b>Ordinary Differential Equations</b><br>
+  Intro, Methods, Papers (Adam)<br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/ode.pdf">More Methods &amp Papers</a> (Joanna)</td>
+</tr>
+<tr align=left valign=top>
+  <th>May 22</th>
+  <td><b>Discretization Methods</b><br>
+  <a href="http://www.cs.washington.edu/education/courses/590B/finite-element.ps">Finite Elements &amp Radiosity</a> (Fred)</br>
+  PDEs &amp Finite Differences (Jim)</td>
+</tr>
+<tr align=left valign=top>
+  <th>May 29</th>
+  <td><b>Interval Arithmetic</b> (Troy, Jonathan)</td>
+</tr>
+</table>
+
+</blockquote>
+
+<hr>
+<font size=-1>
+<em>Last modified: Wed Apr  3 18:08:02 PST 1996</em>
+</font>
+</body>
+</html>

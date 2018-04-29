@@ -1,0 +1,75 @@
+<html>
+<HEAD><TITLE> Home Page: Marc Friedman </TITLE></HEAD>
+<!-- Changed by: Marc Friedman, 16-Oct-1996 -->
+<!-- Changed by: Marc Friedman, 14-Oct-1996 -->
+<!-- Changed by: Marc Friedman, 10-Oct-1996 -->
+<!-- <body BACKGROUND="n009.jpg" TEXT="#F00000" LINK="#00F000" VLINK="#000000"> -->
+<body>
+
+<H1> Marc Friedman's Home Page </H1>
+
+<!--
+<IMG ALIGN=right SRC=http://www.cs.washington.edu/homes/friedman/mad.jpg> <p>
+<IMG ALIGN=center SRC=http://www.cs.washington.edu/homes/friedman/nose.jpg> <p>
+-->
+<IMG ALIGN=right SRC=http://www.cs.washington.edu/homes/friedman/mad2.jpg> <p>
+
+<H3>
+      <ul>
+	<li><dt><a href="http://www.cs.washington.edu/education/courses/cse573/"> 
+		Course web page for CSE 573 </a>
+	<li><dt><a href="http://www.cs.indiana.edu:800/finger/cs.washington.edu/friedman/w"> Who Am I? </a>
+	<li><dt><a href="http://www.cs.washington.edu/homes/friedman/artwork.html"> Watercolors </a>
+	<li><dt><a href="http://www.cs.washington.edu/homes/friedman/classes/life.html"> Applets </a>
+	<li><dt><a href="http://www.cs.washington.edu/homes/friedman/camping.html"> Camping Checklists </a>
+	<li><dt><a href="http://www.cs.washington.edu/homes/friedman/spanish/doc.html"> Spanish-English Collaborative Dictionary </a>
+	<li><dt><a href="http://www.cs.washington.edu/homes/friedman/poetry.html"> Poetry </a>
+	<li><dt><a href="http://www.cs.washington.edu/homes/friedman/research.html"> Research </a>
+	<li><dt><a href="http://www.cs.washington.edu/homes/friedman/quotes.html"> Some Favorite Quotes </a>
+      </ul></H3>
+
+<H2> Links to elsewhere </H2>
+
+<ul>
+  <li> <a
+href="http://www.cs.washington.edu/research/projects/ai/www/occam">
+OCCAM: an information-gathering agent. </a>
+  <li> <a href="http://www.cs.washington.edu/homes/kgolden"> Keith Golden. </a>
+  <li> <a href="http://www.cs.washington.edu/homes/kgolden/wordbot-js.html"> Keith's Wordbot. </a>
+  <li> <a href="http://www.cs.washington.edu/homes/kgolden/cycling.html"> Our bike trip. </a>
+  <li> <a href="http://www.cs.washington.edu/research/projects/ai/www">
+Artificial Intelligence at UW. </a>
+  <li> <a href="http://www.cs.washington.edu/homes/ctkwok"> Cody Kwok. </a>
+  <li> <a href="http://www.cs.washington.edu/homes/weld"> Dan Weld. </a>
+  <li> <a
+href="http://www.cs.washington.edu/research/projects/ai/www/ucpop.html">
+The UCPOP planner </a> a research tool that changed my life.
+  <li> <a href="http://english-www.hss.cmu.edu/philosophy/"> Works of Nietzsche
+in English. </a>
+  <li> My <a
+href="file://www.cs.washington.edu/homes/friedman//homes/gws/friedman/.netscape/bookmarks.html"> Netscape bookmarks
+</a> file.
+  <li> Every page should reference <a
+href="http://www.cs.washington.edu/homes/friedman/index.html"> itself. </a>
+</ul>
+
+</body>
+<hr>
+
+You are the
+<img src="http://counter.digits.com/wc?friedman"
+align=absmiddle width=90 height=20 border=0 > 
+visitor since Feb 4 '96 <hr> </hr> 
+
+<address>
+<a href="http://www.cs.indiana.edu/finger/cs.washington.edu/friedman/w">
+Marc Friedman </a>
+
+<dt>
+
+<a href="mailto:friedman@cs.washington.edu">
+friedman@cs.washington.edu </a>
+</address>
+
+
+</html>

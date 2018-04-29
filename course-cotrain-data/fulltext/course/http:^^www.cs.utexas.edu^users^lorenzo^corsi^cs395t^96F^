@@ -1,0 +1,60 @@
+<html>
+<head>
+<title> CS 395T Reading List (Fall 96)</title>
+</head>
+<base target=_top>
+
+<FRAMESET ROWS = "80, *">
+  <FRAME SRC="title.html" NAME = "f0" SCROLLING = "no" NORESIZE>
+<FRAMESET COLS="138,*">
+  <FRAME SRC="buttons.html" NAME="f1" SCROLLING = "no" NORESIZE>
+  <FRAME SRC="fs.html" NAME="f2">
+</FRAMESET>
+</FRAMESET>
+
+<BODY BGCOLOR="#527299" TEXT="#ffffff" LINK="#1ee3e5"
+VLINK="#ffff6a" ALINK="e5924c" background ="#000000">
+
+<NOFRAMES>
+<HTML>
+<BODY BGCOLOR="#527299" TEXT="#ffffff" LINK="#1ee3e5"
+VLINK="#ffff6a" ALINK="e5924c" background ="#000000">
+<base target=_top>
+
+<center>
+<h1>CS 395T<br>
+<FONT COLOR="#FF0F20">Hot </FONT> Topics in Distributed Systems</h1>
+</center>
+
+<H3>
+<UL>
+<li>
+<A HREF = "http://www.cs.utexas.edu/users/lorenzo/corsi/cs395t/96F/fs.html">File Systems</a>
+<li>
+<A HREF="http://www.cs.utexas.edu/users/lorenzo/corsi/cs395t/96F/topo.html">Topology in Distributed Systems</A>
+<li>
+<A
+HREF="http://www.cs.utexas.edu/users/ssinha/elec_pay.html">Electronic Commenrce</A>
+<li>
+<A HREF="http://www.cs.utexas.edu/users/ssinha/fd.html">Failure Detectors</A>
+<li>
+<A HREF="http://www.cs.utexas.edu/users/ssinha/do.html">Distributed Objects</A>
+<li>
+<A
+HREF="http://www.cs.utexas.edu/users/sunghee/ds/consistency.html">Consistency</A>
+<li>
+<A
+HREF="http://www.cs.utexas.edu/users/kharker/groupcomm.html">Secure
+Group Communication</A>
+<li>
+<A
+HREF="http://www.cs.utexas.edu/users/sammy/dsm.html">
+Languages and Systems for DSM</A>
+<li>
+<A
+HREF="http://www.cs.utexas.edu/users/ykpei/mobile.html">
+Mobile Computing</A>
+</HTML>
+</UL>
+</NOFRAMES>
+</html>

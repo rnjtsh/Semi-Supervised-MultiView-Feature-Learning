@@ -1,0 +1,64 @@
+<html>
+
+<head>
+	<title>HOME </title>
+</head>
+
+<body>
+
+<h1> <a name="top">Wayne's Home</a><br> </h1>
+
+<img align=middle src="http://www.cs.washington.edu/homes/waynew/waynew.142.gif">
+
+<address>     
+   <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+   <a href="ftp://ftp.u.washington.edu/public/">University of Washington,</a> Box 352350, <br>
+   <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195 USA
+</address>
+
+ <em><a href="http://www.cs.indiana.edu/finger/gateway?waynew@cs.washington.edu">waynew@cs.washington.edu</a></em>
+
+<hr> <p>
+
+<h2> CS Stuff </h2>
+I'm currently looking at memory system performance.  In particular, different
+memory system organizations are being investigated.  This work is being
+done with <A HREF ="http://www.cs.washington.edu/people/faculty/baer.html"> Jean-Loup Baer</A>.
+
+<p>
+I am also looking at interpreters with others (
+<A HREF ="http://www.cs.washington.edu/homes/dlee"> Dennis</A>, 
+<A HREF ="http://www.cs.washington.edu/homes/romer"> Ted</A>, 
+<A HREF ="http://www.cs.washington.edu/homes/voelker"> Geoff</A>, and
+<A HREF ="http://www.cs.washington.edu/homes/wolman"> Alec</A>).  Right
+now, things are a little <A HREF ="http://www.cs.washington.edu/homes/dlee/interpret"> rocky</A>.
+Actually, we have an early version of our paper. 
+
+
+<h3> Things that I keep jumping to</h3>
+<p>
+<ul>
+  <li> <A HREF ="http://www.cs.washington.edu/homes/waynew/alpha.html"> DEC's Alpha</A> </li>
+</ul>
+
+<hr>
+<h2> Interesting places to go fishing? </h2>
+<hr>
+
+<p>
+I don't have a list of cool sites.  However, I have a list of people
+who have a list of people who do (well, not yet).
+<ul>
+  <li>
+ </li>
+</ul>
+
+<hr>
+<h2> Testing </h2>
+<hr>
+<A HREF ="http://www.cs.washington.edu/homes/waynew/test.html"> TEST</A>
+
+<address>Wayne Wong (waynew@cs.washington.edu)</address>
+<body>
+</html>
+

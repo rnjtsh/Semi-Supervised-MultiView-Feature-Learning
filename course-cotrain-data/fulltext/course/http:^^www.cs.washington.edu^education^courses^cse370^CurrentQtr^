@@ -1,0 +1,120 @@
+<HTML>
+<head>
+<title>CSE 370 Home Page (Autumn 96)</title>
+</head>
+<body>
+
+<center>
+<a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr//"><img border=0 vspace=5 src="http://www.cs.washington.edu/education/courses/142/icons/nameplate_small.old.gif"></a>
+<br clear=all>
+
+<h1>CSE 370: <br> Introduction to Digital Design </h1>
+<h2>Autumn Quarter 1996 </h2>
+<h2>Gaetano Borriello and Corey Anderson</h2>
+</center>
+
+<hr>
+<h3>Welcome to the CSE 370 Home Page!</h3>
+
+This is the home page for the CSE 370 web which contains a whole bunch of 
+useful information about the class.  Keep in mind that this document is not 
+static, and that new information (especially class announcements and 
+messages) will be added frequently.  If you have any problems with this 
+document or the CSE 370 web, in general, send mail to
+<A HREF="mailto:cse370-webmaster@cs">cse370-webmaster@cs</A>. 
+
+<hr> 
+<a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/messages/cse370-announce/"><b>Class Announcements</b></a>: 
+Notices from your instructor, TA, and/or system administrators.
+<center>
+(Last update:<b>
+           
+          <!-- see man strftime for full formatting options-->
+          12/10/96 at 12AM</b>.)
+</center>
+<p>
+<a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/messages/cse370/"><b>Class E-mail Archive</b></a>: Messages
+sent to cse370@cs.washington.edu.
+<center>
+(Last update:<b>
+           
+          <!-- see man strftime for full formatting options-->
+          12/10/96 at 12AM</b>.)
+</center>
+<p>
+Send e-mail to: the <a href="mailto:cse370">class</a>, 
+your <a href="mailto:cse370-instructor">instructor</a>, 
+your <a href="mailto:cse370-TA">TA</a>, 
+<a href="mailto:cse370-instructor, cse370-TA">both the instructor and TA</a>,
+or <a href="mailto:cse370">everyone</a>.
+<hr>
+
+<ul>
+<li><b>Course administration:</b>
+<ul>
+ <li><a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/admin/syllabus.html">Goals and syllabus</a>
+ <li>Meeting Times
+  <ul>
+   <li>Lectures: MWF 8:30-9:20am, EEB 108
+   <li>Final Exam: Monday, December 16, 8:30-10:20am, EEB108
+  </ul>
+ <li><a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/admin/expectations.html">Workload and grading expectations</a>
+ <li><a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/admin/compinfo.html">PC laboratory and software tools</a>
+ <li><a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/admin/policies.html">Policies on collaboration and cheating</a>
+ <li><a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/admin/mailing.html">Announcements and e-mail addresses</a>
+ <li><a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/admin/schedule.html">Overall schedule of lecture topics</a>
+ <li>Instructor: <a href="http://www.cs.washington.edu/homes/gaetano">Gaetano Borriello</a> (<a href="mailto:gaetano@cs.washington.edu">gaetano@cs</a>)
+  <ul><li>Office hours: WTh 12:30-1:20 in Sieg 212 </ul>
+ <li>TA: <a href="http://www.cs.washington.edu/homes/corin">Corey Anderson</a> (<a href="mailto:corin@cs.washington.edu">corin@cs</a>)
+  <ul><li>Office hours: M 2:30-3:20, TTh 8:30-9:20 in Sieg 326a</ul>
+</ul>
+
+<P>
+<LI><A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/assignments/"><b>Weekly assignments</b></a>.
+<LI><A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/exams/"><b>Bi-weekly quizzes</b></a> and <A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/exams/"><b>final exam</b></a>.
+
+<P>
+<LI><A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/lectures/"><b>Lectures</b></A>:
+Online versions of the slides used in lectures.
+<li><b>Textbook</b>: <i>Contemporary Logic Design</i>, R. H. Katz, Benjamin-Cummings/Addison-Wesley 1994.
+ <UL>
+  <LI><a href="http://HTTP.CS.Berkeley.EDU/~randy/CLD/CLD.html">Web maintained by the author, R. H. Katz</a>.
+  <LI><a href="http://heg-school.aw.com/cseng/authors/katz/dd/dd.html">Web maintained by the publisher, Benjamin-Cummings/Addison-Wesley</a>.
+ </UL>
+<LI><b>Notes</b> on topics of interest:
+ <UL>
+  <LI><A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/lectures/notes/impltech.html">Evolution of implementation
+      technologies</a>
+  <LI><A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/lectures/notes/tools.html">Computer-aided design (CAD) 
+      tools for logic design</a>
+  <LI><A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/lectures/notes/synario.html">Synario</a>
+ </UL>
+
+<P>
+<LI> <A HREF="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/feedback/index.html"><b>Feedback</b></a>:
+Tell us what you think about how things are going (even anonymously, if you so desire).
+<li><a href="http://www.cs.washington.edu/education/courses/cse370/CurrentQtr/admin/eval.html"><b>Questions for course evaluation</b></a>:
+To be completed on last day of class.
+
+<P>
+<li><a href="http://www.cs.washington.edu/education/courses/cse370/"><b>Links to previous quarters of CSE 370</b></a>.
+
+</ul>
+
+<hr>
+<p>
+Portions of the CSE 370 Web may be reprinted or adapted for academic 
+nonprofit purposes, providing the source is accurately quoted and 
+duly credited. The CSE 370 Web: Copyright 1996, Department of Computer 
+Science and Engineering, University of Washington.
+
+<P>
+<hr>
+<address>
+  Comments to: <a href="mailto:cse370-webmaster@cs">cse370-webmaster@cs.washington.edu</a> (Last Update: 
+  <!-- see man strftime for full format opts-->
+  12/10/96
+)
+</address>
+</body>
+</html>

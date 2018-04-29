@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Wisconsin Multiscalar Project Home Page</title>
+</head>
+<body>
+<hr>
+<h1>
+<IMG SRC="http://www.cs.wisc.edu/~mscalar/multiscalar.gif" ALT="Multiscalar Logo" ALIGN=MIDDLE>
+Wisconsin Multiscalar Project
+</h1>
+<hr>
+<p>
+<ul>
+<li> <A HREF="http://www.cs.wisc.edu/~mscalar/multiscalar_papers.html">Technical Papers</A>
+<li> <A HREF="http://www.cs.wisc.edu/~mscalar/multiscalar_talks.html">Talks Given by Multiscalar People</A>
+<li> <A HREF="http://www.cs.wisc.edu/~mscalar/multiscalar_people.html">Contributors</A>
+<li> <A HREF="http://www.cs.wisc.edu/~mscalar/multiscalar_funding.html">Funding Sources</A>
+<li> <A HREF="http://www.cs.wisc.edu/~mscalar/multiscalar_related.html">Related Projects</A>
+<li> <A HREF="http://www.cs.wisc.edu/~mscalar/multiscalar_software.html">Available Software</A>
+<li> <A href="http://www.cs.wisc.edu/~arch/uwarch/">Wisconsin CS's Computer Architecture Group</a>
+<li> <A HREF="http://www.cs.wisc.edu/~mscalar//">Computer Sciences Department</A>
+at the <A HREF="http://wiscinfo.wisc.edu/uwwww.html">University of Wisconsin</A>
+<li> <A href="http://www.cs.wisc.edu/~arch/www/">
+World-Wide Computer Architecture Information</a>
+<li> <a href="http://www.cs.wisc.edu/~mscalar/local/index.html"> Information of interest to local users only </a>
+</ul>
+
+<hr>
+<hr>
+<address> Last Updated: 20 February 1996 by Guri Sohi (sohi@cs.wisc.edu) </address>
+<hr>
+
+</body>
+</html>

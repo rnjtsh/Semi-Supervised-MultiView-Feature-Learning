@@ -1,0 +1,74 @@
+<HTML>
+<BODY BGCOLOR="#527299" TEXT="#ffffff" LINK="1ee3e5"
+VLINK="#ffff6a" ALINK="e5924c" background ="#000000">
+<HEAD>
+<TITLE>
+CS395T: Parallel Languages and Compilers
+</TITLE>
+<LINK REV="made" HREF="mailto:lin@cs.utexas.edu">
+</HEAD>
+<BODY>
+
+<!-- ====================================================================== -->
+
+<h1 align=center>CS395T:<br>Parallel Languages and Compilers</h1>
+<h2 align=center>Fall 1996 </h2>
+
+<ul>
+<li> Lecture: Tuesday and Thursday 12:00 - 2:00, ENS 145.
+<li> Instructor: <a href="http://www.cs.utexas.edu/users/lin">Calvin Lin</a>
+<ul>
+<li> Office: Taylor 4.138
+<li> Phone: 471-9560
+<li> Email: 
+<a href="mailto:lin@cs.utexas.edu"><kbd>lin@cs.utexas.edu</kbd></a>
+<li> Office hours: Tuesday 4:00 - 5:00, Thursday 4:00 - 5:00.
+</ul>
+
+<!-- ====================================================================== -->
+
+<hr>
+
+<!-- Put any announcements here. --> 
+
+
+<!-- ====================================================================== -->
+
+<hr>
+
+<h2>Handouts:</h2>
+<ol>
+
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/h1.ps">General Information</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/now.ps">The Case for NOW</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/tera.ps">The Tera Computer (Copyright ACM)</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/hw1.ps">Programming Assignment 1</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/skeleton.ps">New POSIX Threads Skeleton Code</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/hw2.ps">Programming Assignment 2</a>
+<li> <a href="http://www.osc.edu/Lam/mpi/mpi_tut.html">MPI Tutorial</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/hello.ps">MPI Example: "hello, world"</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/ping_pong.ps">MPI Communication example</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/ironman.ps">Ironman Communication Interface</a>
+<li> <a href="http://www.mcs.anl.gov/mpi/">Online MPI Manual</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/mpi-report.ps">MPI Manual in PostScript</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/logp.ps">LogP paper</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/asplosvi.ps">Where is Time Spent in Message-Passing and Shared
+	      Memory Programs?</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/hw3.ps">Programming Assignment 3</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/austria.ps">Foundations of Practical Parallel Programming 
+			  Languages</a>
+<li> <a href="http://www.cs.utexas.edu/users/lin/cs395t/dagh.ps">On Partitioning Dynamic Adaptive Grid Hierarchies</a>
+
+</ol>
+
+<!-- ====================================================================== -->
+
+<hr>
+<ADDRESS>
+Last modified: December 3, 1996<br>
+<a href="http://www.cs.utexas.edu/users/lin">Calvin Lin</a><br>
+<a href="mailto:lin@cs.utexas.edu">lin@cs.utexas.edu</a>
+</ADDRESS>
+
+</BODY>
+</HTML>

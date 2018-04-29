@@ -1,0 +1,35 @@
+<html>
+
+<head>
+	<title>HOME </title>
+</head>
+
+<body>
+
+<h1> <a name="top">Home of Josh</a><br> </h1>
+
+<ul>
+   <li><a href="http://www.cs.washington.edu/education/courses/cse415/">415</a>
+   <li><a href="http://www.cs.washington.edu/education/courses/cse548/">548</a>
+   <li><a href="http://www.cs.washington.edu/">CS Home Page</a>
+</ul><p>
+
+
+
+<img align=middle src="http://www.cs.washington.edu/homes/redstone/redstone.gif">
+
+<address>     
+   <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+   <a href="ftp://ftp.u.washington.edu/public/">University of Washington,</a> Box 352350, <br>
+   <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195 USA
+</address>
+
+ <em>redstone@cs.washington.edu</em>
+
+<hr> <p>
+
+
+<address>Joshua Redstone (redstone@cs.washington.edu)</address>
+<body>
+</html>
+

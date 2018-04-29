@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>CSE 326, Autumn 1996</title>
+</head>
+
+<body>
+
+<center>
+  <img border=0 vspace=5 src="http://www.cs.washington.edu/education/courses/326/nameplate_small.old.gif">
+  <br clear=all>
+  <h2>CSE 326: Data Structures<br> Autumn 1996<br> Martin Tompa</h2>
+</center>
+
+
+<p><b><font size=+1><a href="http://www.cs.washington.edu/education/courses/326/96a/bboard.shtml">Class Messages</a></font></b>
+      (Check this or your mail frequently.
+       Last update:
+           
+          <!-- see man strftime for full formatting options-->
+          11/21/96 at 09AM.)
+
+<p><h3><a href=http://www.cs.washington.edu/education/courses/326/96a/info.ps>Course Information</a></h3>
+
+<p><b><font size=+1><a
+href=http://www.cs.washington.edu/htbin/info2www?(DIR)TN>Lab tech
+notes</a></font></b> (e.g., Unix) 
+
+<p><h3><a href=http://www.cs.washington.edu/education/courses/326/96a/questionnaire.ps>Questionnaire</a></h3>
+
+<p><h3><a href=http://www.cs.washington.edu/education/courses/326/96sp/locative.ps>Locatives in C</a></h3>
+
+<p><h3><a href=http://www.cs.washington.edu/education/courses/326/96sp/avldeletemin.ps>DeleteMin Algorithm for AVL Trees</a></h3>
+
+<p><b><font size=+1>Homework</font></b>:
+ <a href=http://www.cs.washington.edu/education/courses/326/96a/asst1.ps>#1</a>,
+ <a href=http://www.cs.washington.edu/education/courses/326/96a/asst2.ps>#2</a>,
+ <a href=http://www.cs.washington.edu/education/courses/326/96a/asst3.ps>#3</a>,
+ <a href=http://www.cs.washington.edu/education/courses/326/96a/asst4.ps>#4</a>,
+ <a href=http://www.cs.washington.edu/education/courses/326/96a/asst5.ps>#5</a>,
+ <a href=http://www.cs.washington.edu/education/courses/326/96a/asst6.ps>#6</a>,
+
+<p><h3>326 Webs From Previous Quarters:</h3>
+<p><center>
+<table border cellpadding=5>
+  <tr>
+    <td><a href=http://www.cs.washington.edu/education/courses/326/95w/winter95.html> Winter 1995</a></td>
+    <td><a href=http://www.cs.washington.edu/education/courses/326/95sp/> Spring 1995</a></td>
+    <td><a href=http://www.cs.washington.edu/education/courses/326/95a/> Autumn 1995</a></td>
+    <td><a href=http://www.cs.washington.edu/education/courses/326/96w/> Winter 1996</a></td>
+    <td><a href=http://www.cs.washington.edu/education/courses/326/96sp/> Spring 1996</a></td>
+  </tr>
+</table>
+</center>
+
+</body>
+
+<p>
+<hr>
+<address>
+cse326-request@cs.washington.edu
+
+(Last Update: 
+  <!-- see man strftime for full format opts-->
+  11/18/96
+)
+</address>
+
+</html>
+

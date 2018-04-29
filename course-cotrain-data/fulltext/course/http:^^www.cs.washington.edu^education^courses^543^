@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>CSE 543 Home Page</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000070">
+
+<a href="http://www.cs.washington.edu">
+<img align="left" src="http://www.cs.washington.edu/general/sptm_s.gif"></a>
+<img align="right" src="http://www.cs.washington.edu/homes/lazowska/qsp.gif">
+
+<h1>CSE 543:
+<br>Computer System
+<br>Performance Modeling</h1>
+<h2>Spring 1996</h2>
+<hr>
+<h2>Your Hosts:
+<a href="http://www.cs.washington.edu/homes/lazowska/">Ed Lazowska</a>
+and
+<a href="http://www.cs.wisc.edu/~pubs/faculty-info/vernon.html">Mary
+Vernon</a></h2>
+<p>
+<hr>
+
+<p>
+Welcome to the home page for CSE 543, Computer System Performance
+Modeling.
+
+<p>
+CSE 543 meets Mondays, Wednesdays and Fridays from 1:30-2:20
+in Loew Hall 115.
+
+<p>
+<li><a href=http://www.cs.washington.edu/education/courses/543/spring96/hours.html>Office hours</a>
+<li><a href=http://www.cs.washington.edu/education/courses/543/spring96/schedule.html>Tentative topic schedule</a>
+<li><a href=http://www.cs.washington.edu/education/courses/543/spring96/absences.html>Comings and goings</a>
+<li><a href=http://www.cs.washington.edu/education/courses/543/spring96/assignments/>Assignments</a>
+<li><a href=http://www.cs.washington.edu/education/courses/543/spring96/project/>Project information</a>
+<li><a href=http://www.cs.washington.edu/education/courses/543/spring96/map.html>MAP (queueing network solution
+	package)</a>
+<li><a href=http://www.cs.washington.edu/education/courses/543/spring96/email.html>Email</a>
+
+<p>
+<hr>
+<p>
+<b>Other information</b> is available about:
+<p>
+<li>The <a href="http://www.cs.wm.edu/sigmetrics96.html">May 1996
+ACM SIGMETRICS Conference on Measurement and Modeling of Computer
+Systems</a>
+<p>
+<li><a href="http://www.cs.washington.edu/education/courses/543//">UW Department of Computer Science &amp; Engineering</a>
+
+<p>
+<hr>
+<address>
+<a href = "mailto:lazowska@cs.washington.edu">lazowska@cs.washington.edu</a>
+</address>
+</body>
+</html>

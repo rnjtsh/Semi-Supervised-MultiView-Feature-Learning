@@ -1,0 +1,82 @@
+<html>
+<title>Brendan's Home Page</title>
+<body bgcolor=#FFFFFF text=#000000 >
+
+<h1>Brendan Mumey</h1>
+<a href="http://www.cs.washington.edu/homes/brendan/brendan.html"><img border=2 src="http://www.cs.washington.edu/homes/brendan/brendan.gif"></a>
+<p>
+I am a Ph.D. student in the 
+<a href="http://www.cs.washington.edu/">Department of Computer Science</a>
+at the
+<a href="http://www.washington.edu/">University of Washington</a>.
+I entered in the fall of 1992 and expect to graduate around the fall of 1996.
+<p>
+<h4>Contact Information</h4>
+E-mail: <a href="mailto:brendan@cs.washington.edu">brendan@cs.washington.edu</a>
+<br>
+For my address, etc. click <a href="http://www.cs.washington.edu/homes/brendan/address.html">here</a>.
+<h4>Curriculum Vitae</h4>
+In 
+<a href="http://www.cs.washington.edu/homes/brendan/cv.htm">html</a>
+or
+<a href="http://www.cs.washington.edu/homes/brendan/cv.ps">postscript</a>
+format.
+<br>
+<h3>Academic interests</h3>
+I would call myself an applied 
+<a href="http://www.cs.washington.edu/research/research-samples/theory.html">
+theoretical computer scientist</a>.
+My current work is in 
+<a href="http://www.cs.washington.edu/education/courses/590bi/">computational biology</a>.
+At the moment I am looking at the problem of 
+physical mapping; building a rough map of the location of landmarks in
+a genome.  Generally speaking I am interested in using CS theory and math to
+solve reasonably practical problems. I have also done some work in
+computational astrophysics with the 
+<a href="http://www-hpcc.astro.washington.edu/">HPCC/ESS group</a>
+here at UW.
+<p>
+
+<h3>Online papers</h3>
+
+<dl>
+<dt>B. Mumey. <em>A powerful clone overlap test.</em>
+<dd><a href="http://www.cs.washington.edu/homes/brendan/overlap/full_paper.html">html</a>,
+<a href="http://www.cs.washington.edu/homes/brendan/overlap/full_paper.ps">postscript</a>
+(Poster presentation at ISMB'96 conference.)
+<dt>B. Mumey. <em>Some computational aspects of physical mapping with probes.</em>
+<dd><a href="http://www.cs.washington.edu/homes/brendan/probes/report.html">html</a>,
+<a href="http://www.cs.washington.edu/homes/brendan/probes/report.ps">postscript</a>
+(Survey paper written to fulfill my PhD candidacy requirement.) 
+<dt>B. Mumey. <em>Finding clusters quickly in parallel.</em>
+<dd><a href="http://www.cs.washington.edu/homes/brendan/cluster/final.html">html</a>,
+<a href="http://www.cs.washington.edu/homes/brendan/cluster/final.ps">postscript</a>.
+(Presented at the 1994 DIMACS challenge.)
+<dt>M. Klawe and B. Mumey. <em>Upper and lower bounds on constructing 
+alphabetic binary trees.</em>
+<dd><a href="http://www.cs.washington.edu/homes/brendan/mkbm/mkbm.html">html</a>,
+<a href="http://www.cs.washington.edu/homes/brendan/mkbm/mkbm.ps">postscript</a>.
+(Presented at the 1993 SODA conference.  Also in the Nov-95 SIAM J. of
+Discrete Mathematics.)
+</dl>
+Note: The html versions were produced with latex2html and contain
+some errors.  They should be readable for the most part.
+<p>
+
+<h3>Recreation</h3>
+Hiking,cycling,
+<a href="http://www.cs.washington.edu/homes/brendan/ski.html">skiing</a>, 
+<a href="http://www.cs.washington.edu/homes/brendan/climb.html">climbing</a>, 
+and 
+<a href="http://www.cs.washington.edu/homes/brendan/coffee.html">drinking coffee</a>
+to name a few.  I used to do some sailing
+and hope to do some more sometime.
+I like to play bridge.
+Some older photos:
+<a href="http://www.cs.washington.edu/homes/brendan/gallery1/g.html">first gallery</a>,
+<a href="http://www.cs.washington.edu/homes/brendan/gallery2/g.html">second gallery</a>.
+
+<h3><a href="http://www.cs.washington.edu/homes/brendan/bookmarks.html">My bookmarks</a></h3>
+
+</body>
+</html>

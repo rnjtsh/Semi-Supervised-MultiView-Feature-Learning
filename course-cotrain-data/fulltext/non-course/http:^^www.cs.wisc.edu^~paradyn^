@@ -1,0 +1,116 @@
+<head>
+<title>Paradyn Project Home Page</title>
+</head>
+<!--BODY BACKGROUND="background.logo.gif" TEXT="#000000" LINK="#000FFF"-->
+<body>
+<table border=0 width=100% align=center>
+<tr> <td>
+<img src="http://www.cs.wisc.edu/~paradyn/paradyn.blue.gif"     alt="Paradyn Logo" >
+<td>
+<a href="http://www.wisc.edu/">
+<img src="http://www.cs.wisc.edu/~paradyn/uw.gif" alt="University of Wisconsin -- Madison">
+</a>
+<td>
+<img src="http://www.cs.wisc.edu/~paradyn/paradyn.blue.gif"     alt="Paradyn Logo" >
+</tr>
+</table>
+</h2>
+
+<H1>Paradyn Parallel Performance Tools</H1>
+<hr>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"> <A HREF="http://www.cs.wisc.edu/~paradyn/release1.1.html">Release Information</A></H2>
+<BLOCKQUOTE>
+<H4>This page contains describes how you can get a copy of
+Release 1.1 of the Paradyn tools.
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"> <A HREF="http://www.cs.wisc.edu/~paradyn/overview.html">Project Goals</A></H2>
+<BLOCKQUOTE>
+<H4>The Paradyn Parallel Program Performance Tools project is exploring new
+approaches to building scalable tools for parallel program performance.</H4>
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"> <A HREF="http://www.cs.wisc.edu/~paradyn/papers.html">Technical Papers</A></H2>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"> <A HREF="http://www.cs.wisc.edu/~paradyn/paradyn_manuals.html">Paradyn Manuals</A></H2>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*">
+<A HREF="http://www.cs.wisc.edu/~blz-pdn/status.html">
+Status Report
+</A></H2>
+<BLOCKQUOTE>
+<H4>A recent status report (Jan '95) on the Blizzard/Paradyn Project.</H4>
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*">
+<A HREF="http://www.cs.wisc.edu/~paradyn/ARPA-PANEL-Feb1996/">
+1996 ARPA CSS PI Meeting Panel Presentation
+</A></H2>
+<BLOCKQUOTE>
+<H4>This presentation was made at the 1996 ARPA CSTO meeting in
+San Antonio.</H4>
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*">
+<A HREF="http://www.cs.wisc.edu/~paradyn/CSTOtalk/">
+1995 ARPA CSTO "Super Symbol Table" Presentation
+</A></H2>
+<BLOCKQUOTE>
+<H4>This presentation was made at the 1995 ARPA CSTO meeting in
+Florida.
+This project is an effort to develop common access routines to
+compiler-generated information used by tools for high-level parallel
+languages</H4>
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"> <A HREF="http://www.cs.wisc.edu/~paradyn/staff.html">Project Staff</A> </H2>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"> <A HREF="http://www.cs.wisc.edu/~paradyn/poster/paradyn.arch.html">Super Computing 1994 Poster</A></H2>
+<BLOCKQUOTE>
+<H4>A hypertext version of our poster from Super Computing 1994<H4>
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*">
+<A HREF="http://www.cs.wisc.edu/~paradyn/other_projects.html">
+Related Projects Elsewhere
+</A></H2>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"><A HREF="http://www.cs.wisc.edu/~paradyn/spdt96.html"> SPDT 96 </A></H2>
+<BLOCKQUOTE>
+<H4>1st ACM/SIGMETRICS Symposium on Parallel and Distributed Tools</H4>
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*">You can also see:</H2>
+<BLOCKQUOTE>
+<H4>
+<A HREF="http://www.cs.wisc.edu/~paradyn/Restaurants/HomePage.html">Restaurants</A>
+(this is included in the Paradyn page as a temporary placeholder).
+</H4>
+</BLOCKQUOTE>
+
+<H2><img src="http://www.cs.wisc.edu/~paradyn/redball.gif" ALT="*"> Contact Information</H2>
+<BLOCKQUOTE>
+<H4>
+Paradyn Project<BR>
+Department of Computer Sciences<BR>
+University of Wisconsin<BR>
+1210 West Dayton Street<BR>
+Madison, WI 53706<BR>
+<BR>
+Email: paradyn@cs.wisc.edu
+<BR>
+FAX: (608) 262-9777
+</H4>
+</BLOCKQUOTE>
+
+<p>
+<hr>
+<H4>
+Last modified:
+Tue Oct  1 17:12:32 CDT 1996
+by
+<a href="http://www.cs.wisc.edu/~bart">
+  bart@cs.wisc.edu</a></b>
+</H4>
+</body>

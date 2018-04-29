@@ -1,0 +1,233 @@
+<HTML>
+<HEAD>
+<TITLE>The Horus Project</TITLE>
+</HEAD>
+
+<!-- the background is grey and slightly bubblish with black text on it -->
+<BODY BACKGROUND=images/per3.jpg TEXT=#00000>
+
+<TABLE WIDTH=800 BORDER=0>
+<TR>
+<TD WIDTH=210 VALIGN=TOP ALIGN=LEFT>
+<IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/ud8.jpg"><BR>
+<P>
+<BR>
+<P>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-home.jpg"></A><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-indicator2.jpg"><BR>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-overview.jpg"></A><BR>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-people.jpg"></A><BR>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/Papers.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-papers.jpg"></A><BR>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/Software.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-software.jpg"></A><BR>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/Links.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-links.jpg"></A><BR>
+<P>
+<BR>
+<P>
+<IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/ens5.jpg">
+<P>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/Ensemble/overview.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-ens-intro.jpg"></A>
+<P>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/Ensemble/license.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-ens-downl.jpg"></A>
+<P>
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/Ensemble/index.html"><IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/button-ens-home.jpg"></A>
+<P>
+<BR>
+<P>
+<IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/recent2.jpg">
+<P>
+<IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/sciam2.jpg">
+<P>
+<IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/sigcomm.jpg">
+<P>
+<IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/cacm2.jpg">
+<P>
+<IMG BORDER=0 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/tina.jpg">
+<P>
+</TD>
+<TD WIDTH=640>
+<!-- We start of the the eclipse picture -->
+<CENTER>
+<XIMG WIDTH=547 HEIGHT=137 SRC="images/sunhead.jpg"><BR>
+<IMG SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/ud5.jpg">
+
+<!-- A quote from the book of the Dead -->
+<BLOCKQUOTE><EM>
+<FONT size=+1>
+The Company of
+the Gods rejoiced, rejoiced, at the coming of Horus, the son of Osiris,
+whose heart was firm, the triumphant, the son of
+Isis, the heir of Osiris.
+</FONT>
+</EM>
+<A HREF="#footnote1">&#185;</A>
+</STRONG>
+</BLOCKQUOTE>
+</CENTER>
+<!-- this is the standard navigation bar for the top level Horus documents -->
+<P>
+<XA HREF="http://www.cs.cornell.edu/cgi-bin/htimage/Info/Projects/HORUS/horusbar.conf">
+<XIMG BORDER=0 SRC="images/bar.jpg" ismap></XA>
+
+<CENTER>
+<!-- A one line statement about the project -->
+<HR>
+<P>
+<H3>
+The Horus project has developed a modular and extensible process-group
+communication system, 
+addressing the requirements of a wide variety 
+of robust distributed applications.
+</H3>
+</CENTER>
+<P>
+<HR>
+
+<!-- a paragraph from Budge on the status of Horus -->
+<!-- it is in a table to make sure the text is in the middle of the picture -->
+<P>
+<TABLE BORDER=0>
+<TR>
+<TD WIDTH=182>
+<IMG WIDTH=172 HEIGTH=115 ALIGN=left SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/postcard.jpg">
+</TD>
+<TD>
+<EM>
+Horus, the son of Isis and of Osiris, was a god whose attributes appealed
+strongly to the Egyptians from one end of Egypt to the other, because
+in him every man and woman saw the type of what he or she wished to possess,
+that is to say, renewed life, and life as opposed to death, and movement
+as opposed to inactivity.
+</EM>
+<A HREF="#footnote2">&#178;</A>
+</TD>
+</TR>
+</TABLE>
+<BR CLEAR=ALL>
+
+<!-- some paragraphs on the goals and status of the project --> 
+
+Horus provides a framework for the development of distributed applications
+based on <EM>group communications</EM>, a style of computing that can arise in
+fault-tolerant systems, managed distributed systems, applications that
+exploit data replication or coherent caching, and groupware. Within the
+overall Horus framework a large collection of system and application
+protocols have been developed that allow the application designer to
+construct a communication module that exactly meets the application
+requirements at minimal cost. 
+<P>
+The Horus project was originally launched as an effort to redesign  the
+<A HREF="http://www.cs.cornell.edu/Info/Projects/ISIS">Isis</A> group
+communication system, but has evolved into a general purpose communication
+architecture with advanced support for the development of robust
+distributed systems in settings for which Isis was unsuitable, such as
+applications that have special security or real-time requirements. Besides
+the practical uses of our software, the project has contributed 
+towards the theory of <EM>virtually synchrony</EM>, a runtime model used
+for our implementation of data replication and fault-tolerance.   At the same
+time, our software is much faster and lighter weight than the Isis system.
+<P>
+Horus exists as two systems: an initial version coded in C, which can be
+used for research purposes at no fee but has restricted commerical
+rights,
+and a new version called Ensemble, written in ML but usable from many
+other languages, which  is available for all classes of users at no
+fee.  Ensemble is actively under development and we will do series of
+releases over the fall of 1996 and spring of 1997.  By early in
+1997, Ensemble
+will be an outstanding environment for building Java-based groupware
+applications that do multimedia conferencing on the Web.
+<P>
+Horus and Ensemble are designed to be platform independent, and are
+available for different
+classes of workstations, personal computers, parallel processors and on
+next-generation cluster environments using standard high-speed
+communications networks. 
+<P>
+The Horus effort collaborates closely with many other distributed systems
+projects, including Transis, NavTech, and the StormCast and TACOMA
+projects. Links to these and other projects can be found elsewhere in these
+pages. 
+
+<!-- A closing statement from Budge on the conception of Horus -->
+<!-- considered indicent now-a-days, so we cut it.
+<P>
+<IMG  ALIGN=right WIDTH=142 HEIGHT=140 HSPACE=10 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/head.jpg">
+<EM>
+Of the circumstances under which Horus was begotten we gain a good idea from
+a hym to Osiris in which the sorrow of his mother Isis at the death of her
+husband is described. The goddess was greatly distressed, but she was equipped
+with mighty words of power, and she knew how to utter them so that they might
+have the greatest effect, and she set out in search of the dead body of osiris 
+and never rested until she had found him. With her hair she made light, and 
+with her wings she stirred the air as she made lamentation for her brother 
+Osiris, and at length she brought his body into a state of activity, and 
+was them united to him; thus she became with child by him, and her son Horus 
+was born in a secret place where she suckled him and reared him.
+</EM>
+<A HREF="#footnote3">&#179;</A>
+-->
+<HR>
+<TABLE>
+<TR>
+<TD>
+<TABLE>
+<TR>
+<TD BGCOLOR="#90A7D1">
+<H2>Introductions to Horus</H2>
+</TD>
+</TR>
+<TR BGCOLOR="#E7E7E7" >
+<TD>
+Visit the 
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/Papers.html">papers</A>
+and 
+<A HREF="http://simon.cs.cornell.edu/Info/Projects/HORUS/Abstracts.html">abstract</A>
+pages for an overview of all publications and reports related
+to the Horus project. The following are recent articles that present a 
+high-level introduction to Horus:<P>
+<UL>
+<LI> 
+Kenneth P. Birman and Robbert van Renesse,
+<A HREF="http://www.sciam.com/WEB/0596issue/0596birman.html">Software for 
+Reliable Networks</A>, in 
+<A HREF="http://www.sciam.com">Scientific American</A>, May, 1996.
+<P>
+<LI>
+Robbert van Renesse, Kenneth P. Birman and Silvano Maffeis, 
+<A HREF="ftp://ftp.cs.cornell.edu/pub/isis/horus/doc/cacm.ps.Z">
+Horus, a flexible
+Group Communication System</A>, Communications of the ACM, April 1996.
+</UL>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD VALIGN=BOTTOM> 
+<IMG WIDTH=142 HEIGHT=240 HSPACE=10 SRC="http://simon.cs.cornell.edu/Info/Projects/HORUS/images/horush.gif">
+</TD>
+</TR>
+</TABLE>
+<P>
+<HR>
+<FONT size=-1>
+<A name="footnote1"></A>
+<STRONG>&#185;</STRONG>
+Final sentence in the 
+<A HREF="http://www.lysator.liu.se/~drokk/BoD/hts.html">Hyme to Osiris</A>
+from the <EM>Papyrus of Ani</EM>, better know as the 
+<A HREF="http://www.lysator.liu.se/~drokk/BoD/">Book of the Dead</A>.
+<BR>
+<A name="footnote2"></A>
+<A name="footnote3"></A>
+<STRONG>&#178; <!--, &#179; --> </STRONG>
+E.A. Wallis Budge, <EM>The Gods of the Egyptians or Studies
+in Egyptian Mythology</EM>, Volume 1, pages 486-487, The Open Court Publishing 
+Company, London, 1904.
+</FONT>
+<P>
+<FONT size=-1><EM>
+Comments to 
+<A HREF="mailto:vogels@cs.cornell.edu">Werner Vogels </A>
+</TD>
+</TR>
+</TABLE>
+

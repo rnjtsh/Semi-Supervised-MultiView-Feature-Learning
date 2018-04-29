@@ -1,0 +1,44 @@
+<html>
+
+<head>
+	<title>Andrew Certain's Home Page </title>
+</head>
+
+<body>
+
+<h1> <a name="top">Andrew Certain</a><br>
+ <em><a href="http://www.cs.indiana.edu/finger/gateway?certain@cs.washington.edu">certain@cs.washington.edu</a></em>
+</h1>
+
+<b> 9/5/96 - Server is fixed!  Give it a try. </b><p>
+
+<b> Note:  This page is only interesting if you follow the directions, download the
+viewer and look at the models.</b><p>
+
+I am currently working with <a href="http://www.cs.washington.edu/homes/derose/">Tony
+Derose</a>, <a href="http://www.cs.washington.edu/homes/salesin/">David Salesin</a>, <a
+href="http://www.stat.washington.edu:80/wxs/">Werner Stuetzle</a>, <a
+href="http://www.math.washington.edu/~duchamp/personal.html">Tom DuChamp</a>, and <a
+href="http://www.cs.washington.edu/homes/jovan/">Jovan Popovic</a> on the <a
+href="http://www.cs.washington.edu/research/projects/grail2/www/Projects/scanning.html">3D-Scanning
+project</a>.  I am currently building a viewer which you can download <a
+href="ftp://espresso.cs.washington.edu/pub/mra_view/viewer.tar.gz">here</a> (requires SGI
+graphics workstation).<p>
+
+Our paper is <a href="http://www.cs.washington.edu/homes/certain/paper.pdf">here</a>.<p>
+
+<!-- A brief summery of the viewer features is available <a href="http://www.cs.washington.edu/homes/certain/viewer.html">here</a>.<p> -->
+
+Once you have the viewer, you can use it to look at our <a href="http://www.cs.washington.edu/homes/certain/meshes">models</a>,
+once you have modified Netscape in <a href="http://www.cs.washington.edu/homes/certain/viewmod.html">this</a> way. (It should
+also work with other browsers if you modify them in a similar way).<p>
+
+<hr>
+<address>     
+     <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+     <a href="ftp://ftp.u.washington.edu/public/">University of Washington,</a> 352350, <br>
+     <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195-2350 USA
+</address>
+
+</body>
+</html>

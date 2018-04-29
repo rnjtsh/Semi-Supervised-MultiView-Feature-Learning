@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Mike's Home Page</title>
+</head>
+<body background="paper.jpg">
+
+<table>
+<td> <img align=middle src=http://www.cs.washington.edu/homes/salisbur/images/me.gif> </td>
+<td><h1><a name="top">Mike Salisbury</a>
+</h1>
+
+<em>salisbur@cs.washington.edu</em>
+
+<address>     
+     <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+     <a href="http://www.washington.edu">University of Washington,</a>
+	  Box 352350, <br>
+     <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195-2350 USA
+</address>
+
+Office: 
+<a href="http://www.cs.washington.edu/homes/map/chateau.html">
+Chateau Sieg</a> <a href="http://www.cs.washington.edu/homes/romer/c110/index.html">110</a>.
+</td>
+</table>
+<hr>
+
+<p>
+<h2>My Life</h2>
+<ul><li><a href = "http://www.cs.washington.edu/homes/salisbur/me.html">History</a>
+    <li><a href = "http://www.cs.washington.edu/homes/salisbur/school.html">School</a>
+    <li><a href = "http://www.cs.washington.edu/homes/salisbur/home.html">Home</a>
+    <li><a href = "http://www.cs.washington.edu/homes/salisbur/friends.html">Friends</a>
+    <li><a href = "http://www.cs.washington.edu/homes/salisbur/vita.html">Vita</a>
+</ul>
+<p>
+<a href = "http://www.cs.washington.edu/homes/salisbur/coolstuff.html">Cool stuff on the net</a>
+</body>
+</html>

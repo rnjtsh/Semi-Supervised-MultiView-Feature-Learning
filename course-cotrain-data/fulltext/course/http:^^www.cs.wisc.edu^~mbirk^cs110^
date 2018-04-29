@@ -1,0 +1,80 @@
+<html>
+<head>
+<base href="http://www.cs.wisc.edu/~mbirk/cs110/index.html">
+<title> CS110 Section 8 </title>
+</head>
+
+<body>
+<center> <h2> CS110 Section 8 </h2> </center>
+
+<h3> Instructor </h3>
+<ul>
+  <li> Michael Birk
+  <li> <b>Email:</b> <a href="mailto:mbirk@cs.wisc.edu">mbirk@cs.wisc.edu</a>
+  <li> <b>Office:</b> 1302 Comp Sci & St
+  <li> <b>Phone:</b> 262-6600 (office), 251-7734 (home)
+  <li> <b>Office Hours:</b> Tue 4:30 pm, Wed 2:30 pm, Thu 1:00 pm
+       (in my office or the lab), or by appointment
+</ul>
+
+<h3> Assignments </h3>
+<ul>
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/assignments/prog1.html">Program 1</a> - due Tue 11/12/96
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/assignments/prog0.html">Program 0</a> - due Tue 11/5/96
+</ul>
+
+<h3> Administrative Information </h3>
+<ul>
+  <li> <b>Text:</b> <em>Problem Solving with C++: The Object of Programming,</em>
+       Walter Savitch, 1996
+  <li> <b>Room & Time:</b> 115 Psychology, 9:30-10:45 Tuesday & Thursday
+  <li> <b>Lab:</b> <a href="http://www.cs.wisc.edu/~cs302/Labs/1350.html">
+       1350 Comp Sci & St ("The Vectra Lab")</a>
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/syllabus.html">Syllabus</a>
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/grading.html#computation">Computation of Grades</a>
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/grading.html#standards">Grading Standards</a>
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/grading.html#late">Late Assignments Policy</a>
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/grading.html#handin">Handin Procedures</a>
+  <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/cheating.html">Cheating and Academic Misconduct</a>
+  <li> <a href="http://www.cs.wisc.edu/~cs302/Consultants/consultants.html">Lab Consultants</a>
+</ul>
+
+<!--
+<h3> Examples </h3>
+<ul>
+  <li> The <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/String/"><tt>String</tt></a> class
+    <ul>
+      <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/String/simple/">not using dynamic allocation</a>
+      <li> <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/String/dynamic/">using dynamic allocation</a>
+    </ul>
+  <li> The <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/Rational/"><tt>Rational</tt></a> class - an
+       example of using operator overloading.
+  <li> The <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/Complex/"><tt>Complex</tt></a> class -
+       represents (floating-point) complex numbers.  Another example
+       of operator overloading.
+  <li> The <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/IntStack/"><tt>IntStack</tt></a> class -
+       a simple example of an "unlimited size" data structure.
+  <li> The <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/ClassInfo/"><tt>ClassInfo</tt></a> example using
+       <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/ClassInfo/ci_str.cpp"> structs</a> or using 
+       <a href="http://www.cs.wisc.edu/~mbirk/cs110/examples/ClassInfo/ci_cla.cpp"> classes</a>
+</ul>
+-->
+
+<h3> Other Links </h3>
+<ul>
+  <li> <a href="http://www.cs.wisc.edu/~cs110/cs110.html">CS110 Home Page</a>
+  <li> <a href="http://www.cs.wisc.edu/~cs302/cs302.html">CS302 Home Page</a>
+  <li> <a href="http://www.cs.wisc.edu/~cs302/C++/Introduction/MSwindows.html">
+       An Introduction to Microsoft Windows</a>
+  <li> <a href="http://www.cs.wisc.edu/~cs302/C++/Borland4.5/intro.html">
+       An Introduction to Borland C++</a>
+  <li> <a href="http://www.cs.wisc.edu/~cs302/C++/Implementation/Borland/Documentation/Debugger/debugger1.html">
+       A Tutorial on Using the Debugger</a>
+</ul>
+
+<hr>
+<a href="http://www.dead.net"><img src="http://www.cs.wisc.edu/~mbirk/gif/syf.gif" border=0 alt="syf"></a>
+<i> <a href="mailto:mbirk@cs.wisc.edu">mbirk@cs.wisc.edu</a> </i>
+
+</body>
+</html>

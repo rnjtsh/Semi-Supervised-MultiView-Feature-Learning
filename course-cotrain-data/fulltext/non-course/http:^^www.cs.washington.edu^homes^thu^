@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+   <TITLE>Thu Duc Nguyen</TITLE>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0b5aGold (X11; I; SunOS 4.1.3_U1 sun4m) [Netscape]">
+</HEAD>
+<body background="images/whtmarb.jpg">
+
+<BODY>
+
+<table width=100%>
+<tr valign=top>
+<td>
+<H1>Thu Duc Nguyen </H1>
+
+<P><A HREF="http://www.cs.washington.edu/">Department of Computer Science
+&amp; Engineering<BR>
+</A><A HREF="http://www.washington.edu">University of Washington<BR>
+</A>Box 352350<BR>
+<A HREF="http://www.cs.washington.edu/area/">Seattle, WA</A> 98195-2350</P>
+
+<P> thu@cs.washington.edu</P>
+<td>
+<img src="http://www.cs.washington.edu/homes/thu/images/me.gif">
+</tr>
+</table>
+
+<P> <IMG SRC="http://www.cs.washington.edu/homes/thu/images/line.marble.gif" WIDTH=100%></P>
+
+<H3>Work World</H3>
+
+<P> My research interests include operating systems, distributed and
+parallel systems, networking, and security.  Currently, with help from
+my advisor, <A
+HREF="http://www.cs.washington.edu/people/faculty/zahorjan.html">John
+Zahorjan</A>, I'm building system support for running soft real-time
+applications (e.g., visualization) on partially idle workstations in
+NOWs.  Recently, I completed a study on how runtime measurements of
+application characteristics can be used by a runtime system to
+minimize application execution time in uniprogrammed multiprocessors
+environments as well as by a system scheduler to make &quot;good&quot;
+global scheduling decisions in multiprogrammed multiprocessors
+environments.
+</p>
+
+<UL>
+<IMG SRC="http://www.cs.washington.edu/homes/thu/images/ball_yellow_icon.gif" HEIGHT=14 WIDTH=14><A
+HREF="http://www.cs.washington.edu/homes/thu/resume.html">CV</A><br>
+<IMG SRC="http://www.cs.washington.edu/homes/thu/images/ball_blue_icon.gif" HEIGHT=14 WIDTH=14><A HREF="http://www.cs.washington.edu/homes/thu/papers/list.html">Publications</A>
+</UL>
+
+<P> <IMG SRC="http://www.cs.washington.edu/homes/thu/images/line.marble.gif" WIDTH=100%></P>
+
+<H3>Fun World</H3>
+
+<UL>
+<IMG SRC="http://www.cs.washington.edu/homes/thu/images/ball_blue_icon.gif"><A HREF="http://www.cs.washington.edu/homes/thu/vn.html">Vietnamese
+resources on the net</a><BR>
+<IMG SRC="http://www.cs.washington.edu/homes/thu/images/ball_yellow_icon.gif"><A HREF="http://www.cs.washington.edu/homes/thu/bike.html">Cycling
+playground</a><BR>
+</UL>
+
+
+</body>
+</HTML>

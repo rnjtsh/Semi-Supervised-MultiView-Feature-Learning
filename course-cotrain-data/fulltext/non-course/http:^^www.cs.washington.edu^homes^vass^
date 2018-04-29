@@ -1,0 +1,64 @@
+<html><head>
+<TITLE>Hello from Vassily</TITLE>
+</head><body>
+
+<pre><H1>Long Live May Day!  :)</h1></pre>
+
+Hello.  To start with, I am not really a web person.  The best link
+I've come up with thus far is this: <a href=>http://www.cs.washington.edu/homes/vass/very useful documents</a>
+(it's also the shortest to write :).  <!--Nonetheless, I've already got an
+<a href=http://www.cs.washington.edu/homes/vass/advice.html advice</a for ya.><P>
+
+When WWW was young, I collected quite a few links and downloaded a few
+files.  I have been expanding my collection since then.  All this
+stuff is here:
+<ul>
+<li><a href=http://www.cs.washington.edu/homes/vass/Links/exclusive.html><b>selected links and quotes</b></a>
+<li><a href=http://www.cs.washington.edu/homes/vass/Links/russians.html><b>Russian home pages</b></a>
+<li><a href="http://www.cs.washington.edu/homes/vass/Links/main.html">various links</a>
+<li><a href="http://www.cs.washington.edu/homes/vass/Guides/guides.html">guides to HTML and forms</a>
+</ul><P>
+
+
+Other links:
+
+<ul>
+<li><a href="http://www.cs.washington.edu/">CSE Home Page</a>
+<li><a href="http://www.washington.edu/">UW Home Page</a>
+<li><a href="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/NCSAMosaicHome.html"
+>NCSA Mosaic Home Page</a>
+
+</ul><P>
+
+Recently I joined the <a href=http://www.cs.washington.edu/research/projects/cecil/>UW Cecil
+project</a>.  Cecil is a cool pure object-oriented language and
+Vortex is an even cooler compiler infrastructure.  We will be
+faster than C!  (maybe...)  Here are <a href=http://www.cs.washington.edu/research/projects/cecil/www/Papers/papers.html>papers we have written</a>. <P>
+
+As a member of the CS Lab staff, I designed and implemented the
+<a href=http://www.cs.washington.edu/homes/vass/MVis/><em>MVis</em></a> system -- WWW-assisted access to our
+departmental room and visitor database.  (Recently it has been
+upgraded by other staff people.)<P>
+
+My quals project was expanding the
+<a href=http://www.cs.washington.edu/research/projects/zpl/>ZPL language</a>
+to handle irregular data structures (represented by graphs) and
+dynamically repartitioned data (both graphs and arrays).
+
+Here is my
+<a href=http://www.cs.washington.edu/homes/vass/Links/GraphZPL-paper.ps>quals writeup</a> (329K, 47 pages).
+For a short overview, check out the
+<a href=http://www.cs.washington.edu/homes/vass/Links/GraphZPL-slides.ps>slides</a>
+from my presentation (29 pages/slides).
+
+Also, I have collected a few <a href=http://www.cs.washington.edu/homes/vass/Links/z.html>links</a> to
+resources related to the project. <P>
+
+
+<hr><a href=http://www.cs.washington.edu/homes/vass/><address
+ >vass@cs.washington.edu</address></a><P>
+
+<em>Objects in the mirror are closer than they appear.</em><P>
+<em>Pastor vybrasyvalsya is okna pyatyi raz.  Yad ne deystvoval.</am><P>
+
+</body></html>

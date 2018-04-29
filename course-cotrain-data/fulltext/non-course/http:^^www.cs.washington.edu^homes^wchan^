@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>William Chan's Home Page</title>
+<link rev="made" href="mailto:wchan@cs.washington.edu">
+<meta name="description" content="My computer science research work and my photo portfolio">
+<meta name="keywords" content="Woon Chung Woonchung">
+</head>
+
+<body bgcolor="#ffffff">
+
+<h1>William Chan's Home Page</h1>
+
+<p>
+I spend most of my time in the <a href="http://www.cs.washington.edu/homes/wchan/work/">Hell</a>.
+<p>
+When I have some spare time, I'll hang out in the <a href="http://www.cs.washington.edu/homes/wchan/photo/">Heaven</a>.
+
+<hr>
+<address>
+<a href="mailto:wchan@cs.washington.edu">wchan@cs.washington.edu</a>
+</address>
+</body>
+</html>

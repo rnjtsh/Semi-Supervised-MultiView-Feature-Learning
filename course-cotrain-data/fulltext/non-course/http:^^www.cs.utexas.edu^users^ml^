@@ -1,0 +1,214 @@
+<title>UTCS Machine Learning Research Group</title>
+<!-- <img align =top src= "http://www.cs.utexas.edu/users/ml/tower1.gif">
+
+<img src= "http://www.cs.utexas.edu/users/ml/ml-logo2.gif"> 
+
+<p> The Machine Learning research group is supervised by <a
+href="http://www.cs.utexas.edu/users/mooney/"> Professor Ray Mooney</a>. Our research focuses
+on combining empirical and knowledge-based learning techniques,
+including applications such as natural language acquisition, knowledge
+refinement, and learning for planning.<p>
+
+
+This group is part of the <a href="http://www.cs.utexas.edu/users/ai-lab">
+Artificial Intelligence Lab</a> and the <a
+href="http://www.cs.utexas.edu/">Computer Science Department</a>, at
+the <a href="http://wwwhost.cc.utexas.edu/"> University of Texas at
+Austin</a>.<p>  
+
+For a picture of our group <a href ="http://www.cs.utexas.edu/users/ml/picture.html">click here</a>. <p>
+
+<hr>
+
+<h2> Graduate Students </h2>
+<ul>
+<li> <a href="http://www.cs.utexas.edu/users/mecaliff/">Mary Elaine Califf</a> --- (mecaliff@cs.utexas.edu)
+<li> <a href="http://www.cs.utexas.edu/users/estlin/">Tara Estlin</a> --- (estlin@cs.utexas.edu)
+<li> <a href="http://www.cs.utexas.edu/users/ulf/">Ulf Hermjakob</a> --- (ulf@cs.utexas.edu)
+<li> <a href="http://www.cs.utexas.edu/users/sowmya/">Sowmya Ramachandran</a> --- (sowmya@cs.utexas.edu)
+<li> <a href="http://www.cs.utexas.edu/users/cthomp/">Cindi Thompson</a> --- (cthomp@cs.utexas.edu)
+</ul>
+
+<h2> Alumni </h2>
+<ul>
+<li> <!<a href="http://www.cs.utexas.edu/users/baffes/">Paul Baffes</a> --- (baffes@scicomp.com)
+<li> <!<a href="http://www.cs.utexas.edu/users/mahoney/">Jeff Mahoney</a> --- (mahoney@firstadvisors.com)
+<li> Hwee Tou Ng --- (nhweetou@trantor.dso.gov.sg)
+<li> Dirk Ourston --- (dirk_ourston@cpqm.saic.com)
+<li> Bradley Richards --- (bradley@ai-lab.fh-furtwangen.de)
+<li> <a href="http://www.cs.utexas.edu/users/siddarth/">Siddarth Subramanian</a> --- (sid@georgetown.com)
+<li> <a href="http://zelle.drake.edu/zelle">John Zelle</a> --- (jz6011r@acad.drake.edu)
+</ul>
+
+
+<h2> Research Areas and Publications</h2>
+
+<ul>
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/abduction.html">Abduction</a>
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/ilp.html">Inductive Logic Programming</a> 
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/nl.html">Natural Language Acquisition</a>
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/qr.html">Qualitative Modeling & Diagnosis</a>
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/speedup.html">Speedup Learning and Learning for Planning</a>
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/its.html">Student Modelling for Intelligent Tutoring Systems</a>
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/theory-rev.html">Theory Refinement</a>
+
+<li> 
+<a href="http://www.cs.utexas.edu/users/ml/uncertain.html">Uncertain Reasoning</a>
+
+</ul>
+
+
+Here is a complete 
+<a href="http://www.cs.utexas.edu/users/ml/abstracts.html"> list of publications</a>. <p>
+
+
+<h2> Research Software </h2>
+<ul>
+
+<li> <a href="http://www.cs.utexas.edu/users/ml/accel.html">ACCEL</a> -  An abductive reasoning system.
+<li> <a href="http://www.cs.utexas.edu/users/ml/neither.html">NEITHER</a> - A theory revision system for propositional rule bases.
+<li> <a href="http://www.cs.utexas.edu/users/ml/forte.html">FORTE</a> - A theory revision system for first-order rule bases.
+<li> <a href="http://www.cs.utexas.edu/users/ml/chillin.html">CHILLIN</a> - An inductive logic programming system with predicate invention.
+<li> <a href="http://www.cs.utexas.edu/users/ml/foidl.html">FOIDL</a> - An inductive logic programming system for first-order decision lists.
+<li> <a href="http://www.cs.utexas.edu/users/ml/dolphin.html">DOLPHIN</a> - An ILP/EBL speedup-learning system for adding search-control to Prolog programs.
+<li> <a href="http://www.cs.utexas.edu/users/ml/ml-progs.html">ML Programs</a> - A set of standard inductive classification algorithms and software for automated experimentation and system comparison.
+
+</ul>
+
+<h2> Data Repositories</h2>
+<ul>
+
+<li> <a href="ftp://ftp.cs.utexas.edu/pub/mooney/nl-ilp-data">Language-learning data</a> (in a form for ILP)
+
+</ul>
+
+<hr>
+
+<br>
+<h2> Some Related WWW Sites </h2>
+
+
+<h3> <i>Associations and Groups</i> </h3>
+
+<ul>
+
+<li> <a href="http://aaai.org/">AAAI</a>
+- American Association for AI 
+
+<li> <a href="http://www.cs.columbia.edu:80/~acl/">ACL</a> Association for Computational Linguistics
+
+<li> <a href="http://www-ai.ijs.si/ilpnet.html"> ILPNet</a> - European Inductive Logic Programming Scientific Network
+
+<li> <a href="http://sigart.acm.org/"> SIGART</a> - ACM Special Interest Group on Artificial Intelligence 
+
+<li> <a href="http://www.cs.rulimburg.nl/~antal/signll/signll-home.html"> SIGNLL</a> - ACL Special Interest Group on Natural Language Learning
+
+</ul>
+
+
+<h3> <i>Conferences</i> </h3>
+<ul>
+
+<li> <a href="http://ijcai.org/ijcai-97/"> International Joint Conference on Aritficial Intelligence</a>  (IJCAI-97) 
+
+<li> <a href="http://www.aaai.org/Conferences/National/1997/aaai97.html"> National Conference on Artificial Intelligence</a>  (AAAI-97) 
+
+<li> <a href="http://cswww.vuse.vanderbilt.edu/~mlccolt/icml97/index.html">  International Conference on Machine Learning</a>  (ICML-97) 
+
+<li> <a href="http://cswww.essex.ac.uk/conferences/ecp-97.htm">  Fourth European Conference on Planning</a>  (ECP-97) 
+
+</ul>
+
+
+<h3> <i>Information Sources</i> </h3>
+<ul>
+
+<li> <a href="http://ai.iit.nrc.ca/misc.html#Machine"> AI Subject Index </a> 
+
+<li> <a href="http://www.ai.univie.ac.at/biblio.html"> AI Biblio Query </a> 
+
+<li> <a href="http://www.aic.nrl.navy.mil/~aha/people.html"> Index to Machine
+Learning Home Pages</a> 
+
+<li> <a href="http://www.ai.univie.ac.at/oefai/ml/ml-resources.html"> Machine Learning Information Services</a>
+
+<li> <a href="http://xxx.lanl.gov/cmp-lg/">Computation and Language Paper Archive</a>
+
+</ul>
+
+<h3> <i>Journals</i> </h3>
+<ul>
+
+<li> <a href="http://www.elsevier.nl:80/mcs/artint/Menu.html">AIJ</a>
+- Artificial Intelligence Journal
+
+<li> <a href="http://www-mitpress.mit.edu/jrnls-catalog/comp-ling.html">Computational Linguistics </a>
+- Journal of the ACL
+
+<li> <a href="http://www.cs.washington.edu/research/jair/home.html">JAIR</a> - Journal of Artificial 
+Intelligence Research 
+
+<li> <a href="http://mlis.www.wkap.nl/">MLJ</a>
+- Machine Learning Journal
+
+</ul>
+
+<h3> <i>Learning Systems</i> </h3>
+<ul>
+
+<li> <a href="ftp://ftp.cs.su.oz.au/pub">FOIL</a> - J. R. Quinlan's inductive learner  
+
+<li> <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/prodigy/Web/prodigy-home.html"> PRODIGY </a> - Problem solving system for 
+planning and learning at Carnegie Mellon
+
+<li> <a href="http://www.cs.washington.edu/research/projects/ai/www/ucpop.html"> 
+UCPOP</a> -
+Partial-Order Planner at University of Washington
+
+</ul>
+
+
+<h3> <i>Research Groups</i> </h3>
+<ul>
+
+<li> <a href="ftp://beethoven.ai.uiuc.edu/pub/home.html"> Explanation-Based Learning Group</a> - University of Illinois
+
+<li> <a href="http://www-ilg.cs.uiuc.edu/ilg.html"> Inductive Learning Group</a> - University of Illinois
+
+<li> <a href="http://www.comlab.ox.ac.uk/oucl/groups/machlearn/index.html">
+Machine Learning Research Group</a> - Oxford University
+
+<li> <a href="http://www.ics.uci.edu/AI/ML/Machine-Learning.html"> Machine Learning Research Group</a> - UC Irvine
+
+<li> <a href="http://www.cs.utexas.edu/users/nl-acq/">
+Natural Language Acquisition Group</a> - University of Texas at Austin 
+
+<li> <a href="http://www.cs.wisc.edu/~shavlik/uwml.html"> 
+Machine Learning Research Group</a> - University of Wisconsin at Madison 
+
+
+</ul>
+
+
+
+
+
+<hr>
+<address><a href="http://www.cs.utexas.edu/users/estlin/">estlin@cs.utexas.edu</a></address>
+
+
+

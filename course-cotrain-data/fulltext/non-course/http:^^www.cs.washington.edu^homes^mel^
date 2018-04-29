@@ -1,0 +1,72 @@
+<html>
+
+<head>
+	<title>Melanie Fulgham</title>
+</head>
+
+<body>
+
+<h1>
+</h1>
+
+<address>     
+     <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+     <a href="http://www.washington.edu/">University of Washington,</a> FR-35, <br>
+     <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195 USA
+</address>
+
+<p>
+<hr> 
+<p>
+
+I'm an a.b.d. graduate student at the <a
+href="http://www.washington.edu/">University of Washington</a>. 
+
+<h2>
+Research
+</h2>
+<p>
+My primary research interest is network routing both in multicomputer
+and distributed networks.
+My advisor is <a href="http://www.cs.washington.edu/people/faculty/snyder.html" >
+Larry Snyder.</a>
+Here's a picture of <a href="http://www.cs.washington.edu/homes/mel/larry2.gif"> Larry</a>
+hard at work.
+<p>
+<dl>
+<dt><a href="http://www.cs.washington.edu/research/projects/lis/chaos/www/chaos.html" >Chaos</a> 
+        <dd> Chaos routing project -- the Chaos router is a deadlock-free, 
+             probabilistically livelock-free, non-minimal, 
+             fully adaptive router.
+
+<dt>Triplex routing
+        <dd> The first non-minimal fully adaptive wormhole algorithm for tori
+             that uses deadlock-prevention to achieve deadlock-freedom
+
+<dt>Simulation
+        <dd> Simulation of new and existing routing algorithms to learn
+             the strengths and weaknesses of various classes
+             of routing algorithms; e.g. non-minimal versus minimal
+             routing algorithms.
+
+<dt>Routing methods and models
+        <dd> Development of new routing models to help predict
+             and compare the performance of new routers 
+             in real parallel machines.
+
+<dt>Deflection routing
+        <dd> Upper and lower bounds for practical (e.g. does not require
+	     sorting) deflection routing
+             algorithms on the 2D mesh topology.
+
+</dl>
+
+<body>
+
+<p> <hr>
+<address>
+  mel@cs.washington.edu <br>
+  Last modified: Wed Apr 24 17:12:00 PDT 1996
+<address>
+
+</html>

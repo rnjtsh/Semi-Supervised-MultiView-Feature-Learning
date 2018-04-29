@@ -1,0 +1,113 @@
+<html>
+<head>
+<title> Kurt Partridge
+</title>
+</head>
+
+
+<body bgcolor="#FFEEAA" TEXT="#000000" LINK="#EE0000" VLINK="#952045" ALINK="#000000">
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=15 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+      <img src="http://www.cs.washington.edu/homes/kepart/lib/line.gray-red.gif" height=6 width=530>
+      <center>
+      <IMG vspace=8 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR>
+      <b> KURT PARTRIDGE </b> <br>
+      <IMG vspace=5 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR>
+      </center>
+      <img src="http://www.cs.washington.edu/homes/kepart/lib/line.gray-red.gif" height=6 width=530> <p>
+  </td></tr>
+</table>
+  
+<table width=565 border=0>
+  <tr><td><IMG hspace=15 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+      <b> ACADEMIC INFORMATION </b>
+  </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=35 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+
+      I am a graduate student in the <a href="http://www.cs.washington.edu/">
+      computer science department</a> at the <a
+      href="http://www.washington.edu/">University of Washington</a>.  My
+      interests include software engineering, software specifications,
+      specification usability and readability, and applications of formal
+      methods to specifications.  The <a
+      href="http://www.cs.washington.edu/research/projects/safety/www/">UW
+      software safety</a> web page describes my and others' work in these
+      areas. <p> 
+
+      I have also dabbled in user interface design, human computer
+      interaction, and Java programming.<p>
+
+  </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=15 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+    <b> RECENT PUBLICATIONS </b>
+  </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=35 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+
+Kurt E. Partridge.
+  <i>BDDTCL: An Environment for Visualizing and Manipulating Binary Decision
+Diagrams</i>.  Interactive Poster at CHI '96. 
+(<A HREF=http://www.cs.washington.edu/homes/kepart/papers/bddtcl/bddtcl.html>HTML</a>, <A
+HREF=http://www.cs.washington.edu/homes/kepart/papers/bddtcl/bddtcl.ps>Postscript</a>).  <a
+href="http://www.cs.washington.edu/homes/kepart/papers/bddtcl/bddtcl_poster.ps">Poster Preview (Postscript)</a>.  
+<p>
+
+Nancy Leveson, Ken Bauer, Mats Heimdahl, Wayne Ohlrich, Kurt Partridge,
+  Vivek Ratan, and Jon Reese.
+  <i>A CAD Environment for Safety-Critical Software</i>.
+  NASA Conference on Safety Through Quality 1995.
+  (<A HREF="http://www.cs.washington.edu/research/projects/safety/www/papers/nasa/draft3.ps">Postscript</a>) 
+<p>
+  </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=15 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+    <b>BACKGROUND</b>
+    </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=35 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+    I started graduate school in 1992 after completing a B.S. in computer
+    science at UC Berkeley.  Before that I lived a lovely suburban life in
+    Thousand Oaks, CA with my parents, sister, and a cat named Otis. <p>
+    </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=15 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+    <b>FUN</b>
+    </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=35 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+    Right this way to <a href="http://www.cs.washington.edu/homes/kepart/humor/index.html">Kurt's Humor Corner</a>. <p>
+    </td></tr>
+</table>
+
+<table width=565 border=0>
+  <tr><td><IMG hspace=15 SRC="http://www.cs.washington.edu/homes/kepart/lib/dot_clear.gif"><BR></td><td width=565>
+    <img src="http://www.cs.washington.edu/homes/kepart/lib/line.gray-red.gif" height=6 width=530> <p>
+    <address>
+    Box 352350<br>
+    University of Washington<br>
+    Seattle, WA 98195 USA<br>
+    Voice: (206) 685 4087<br>
+    FAX: (206) 543 2969<br>
+    <a href="mailto:kepart@cs.washington.edu">kepart@cs.washington.edu</a>
+    </address>
+  </td></tr>
+</table>
+
+</html>

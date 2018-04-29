@@ -1,0 +1,190 @@
+<HTML>
+<HEAD>
+<TITLE> Cornell Department of Computer Science </TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+<center>
+<table border="0">
+<td align="center">
+<map name="map">
+<area shape="rect" 
+href="http://www.cs.cornell.edu/Info/Annual95/" 
+coords="34, 23 480, 53" self=map>
+<area shape="rect" href="http://www.cornell.edu/Ithaca.html" 
+coords="58, 120, 122, 133" self=map>
+<area shape="rect" href="http://www.cornell.edu/" 
+coords="31, 161, 118, 196" self=map>
+<area shape="rect" 
+href="/Info/General.html"
+coords="399, 97, 490, 115" self=map>
+<area shape="rect" 
+href="http://www.cs.cornell.edu/Info/Faculty/faculty-list.html" 
+coords="414, 120, 474, 137" self=map>
+<area shape="rect" 
+href="http://www.cs.cornell.edu/Info/projects.html" 
+coords="409, 142, 480, 161" self=map>
+<area shape="rect" 
+href="http://www.cs.cornell.edu/Info/Courses/Current/courses.html" 
+coords="410, 164, 477, 179" self=map>
+<area shape="rect" 
+href="http://www.cs.cornell.edu/Info/Annual95/" 
+coords="392, 184, 496, 202" self=map>
+</map>
+<IMG SRC="http://www.cs.cornell.edu/Info/home-gifs/nys.logo.gif" alt="Department of Computer Science" border=0 usemap=#map></td>
+</table>
+
+<font size="-1">
+| 
+<a href="http://www.cs.cornell.edu/Info/General.html"> General Info</a> | 
+<a href="http://www.cs.cornell.edu/Info/Academic.html"> Academic Info</a> | 
+<a href="http://www.cs.cornell.edu/Info/Faculty/faculty-list.html"> Faculty</a> | 
+<a href="http://www.cs.cornell.edu/Info/projects.html"> Research Projects</a> | 
+<a href="http://cs-tr.cs.cornell.edu/"> Tech Reports</a> | 
+<a href="http://www.cs.cornell.edu/Info/Annual95/"> 
+Annual Report</a> | 
+</font>
+</center>
+<hr>
+<p>
+<center>
+<strong>
+<font size="+2">
+Welcome to the Cornell University<br>
+Department of Computer Science Web site.<br>
+Feel free to browse around 
+and get to know our department.
+</font>
+</strong>
+</center>
+<p>
+<hr>
+<center>
+<table border="0" cellspacing=10 cellpadding=3 valign=top>
+<tr><td valign=top halign=top width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/book_q.gif" align="bottom" width=35 height=25 alt="General Info">
+<a href="http://www.cs.cornell.edu/Info/General.html"><font color="#fa0000" size="+2">General Info</font></a>
+</td>
+<td valign=top halign=top width=300>
+Get some <a href="http://www.cs.cornell.edu/Info/Department/general.html">General Information</a> about the 
+department - its location, size, age, etc.  Also find information 
+such as 
+<A HREF="http://www.cs.cornell.edu/Info/Department/general.html#contacts">Contacts</a>
+within the department and our standard 
+<A HREF="http://www.cs.cornell.edu/Info/Department/disclaimers.html">Disclaimers.</a>
+</td>
+</tr>
+<tr>
+<td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/faculty-t.gif" align="bottom" width=35 height=25 alt="Faculty">
+<a href="http://www.cs.cornell.edu/Info/Faculty/faculty-list.html"><font color="#fa0000" size="+2">
+Faculty</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Find a list of the 
+<a href="http://www.cs.cornell.edu/Info/Faculty/faculty-list.html">
+Faculty</a> and check out their "official" Annual Report home pages or
+their personal home pages.
+</td>
+</tr>
+<tr><td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/research.gif" align="bottom" width=35 height=25 alt="Research">
+<a href="http://www.cs.cornell.edu/Info/projects.html"><font color="#fa0000" size="+2">
+Research</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Check out the <a href="http://www.cs.cornell.edu/Info/projects.html">
+Research Projects</a> going on in the department, or find out about
+our 
+<a href="http://www.cs.cornell.edu/Info/People/researchers.html">
+Researchers</a> and our <a href="http://www.cs.cornell.edu/Info/People/colleagues.html">
+Research Collaborators.</a>
+</td>
+</tr>
+<tr><td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/graph.gif" align="bottom" width=35 height=25 alt="Publications">
+<font color="#fa0000" size="+2">
+Publications</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Find links to publications by department Faculty and Researchers
+either through the 
+<a href="http://cs-tr.cs.cornell.edu/">Technical Reports Project</a>
+or through the 
+<a href="http://www.cs.cornell.edu/Info/Annual95/">Annual Report.</a>
+</td>
+</tr>
+<tr><td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/morter-t.gif" align="bottom" width=35 height=25 alt="Degrees"><font color="#fa0000" size="+2">
+Degrees</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Look into our degree programs - 
+<a href="http://www.cs.cornell.edu/Info/Department/Grad/">Doctorate,</a>
+<a href="http://www.cs.cornell.edu/Info/Department/Meng/">Masters of Engineering,</a> or
+<a href="http://www.cs.cornell.edu/Info/Ugrad/">Undergraduate.</a>
+</td>
+</tr>
+<tr><td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/educ.gif" align="bottom" width=35 height=25 alt="Academics">
+<a href="http://www.cs.cornell.edu/Info/Academic.html"><font color="#fa0000" size="+2">
+Academics</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Reference the <a href="http://www.cs.cornell.edu/Info/Courses/Current/courses.html">
+Course Home Pages</a> to see what is being taught via the Web
+for this semester or read the general
+<a
+href="http://www.cornell.edu/Academic/Courses96/csen/end6.html">Course
+Descriptions</a> as they appear in the 
+<a href="http://www.cornell.edu/Academic/Courses96/">Courses of Study</a>.
+</td>
+</tr>
+<tr><td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/java.gif" align="bottom" width=25 height=25 hspace=5 alt="People">
+<a href="http://www.cs.cornell.edu/Info/People/people.html"><font color="#fa0000" size="+2">
+People</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Get to know some of the outstanding 
+<a href="http://www.cs.cornell.edu/Info/People/people.html">People</a> 
+who keep our department going, including our Staff 
+and Students.</a>  There is 
+also a <a href="http://www.cs.cornell.edu/Info/Department/list_of_people.html">Directory
+Listing</a> of people in the department.
+</td></tr>
+<tr><td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/hockey.gif" align="bottom" width=35 height=25 alt="Activities">
+<a href="http://www.cs.cornell.edu/Info/activities.html"><font color="#fa0000" size="+2">
+Activities</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Find out about the activities we have in the department such as the
+<a href="http://www.csuglab.cornell.edu/Info/Activities/acsu/acsuindex">
+Association of CS Undergraduates</a> or our excellent
+<a href="http://www.cs.cornell.edu/Info/Activities/hockey/">Hockey Team.</a>
+</td></tr>
+<tr><td valign=middle halign=middle  width=175>
+<img src="http://www.cs.cornell.edu/Info/home-gifs/tower-t.gif" align="bottom" width=15 height=25 hspace=10 
+alt="Servers">
+<a href="http://www.cs.cornell.edu/Info/Other.html"><font color="#fa0000" size="+2">
+Other Servers</font></a>
+</td>
+<td valign=middle halign=middle width=300>
+Check out some of the other servers in the department, such as the 
+<A HREF="gopher://gopher.cs.cornell.edu/"> Cornell CS Gopher</A>
+Server or the
+<A HREF="ftp://ftp.cs.cornell.edu/"> Cornell CS Anonymous FTP</A>
+Server.  Or check other servers and pages at 
+<a href="http://www.cornell.edu/Computer/CUW3_All.html">
+Cornell Web Sites</a>
+</td></tr>
+</table>
+</center>
+<p>
+<hr>
+<p>
+</strong>
+Questions and comments on the information
+presented here can be directed to <b>www@cs.cornell.edu</b>. <P>
+</body>
+</html>

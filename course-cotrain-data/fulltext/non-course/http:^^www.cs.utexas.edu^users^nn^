@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>UTCS Neural Nets Research Group</title>
+<!-- Changed by: Marshall R. Mayberry, 21-Mar-1996 -->
+</head>
+
+<body background="/users/nn/images/mar.gif" text"#000000" link="#0090f0" vlink="#7090b0" alink="#ee9000">
+
+<center>
+<img src="http://www.cs.utexas.edu/users/nn/images/nn-seal.gif" border=0>
+</center>
+
+The UTCS Neural Nets research group is supervised by Prof. Risto
+Miikkulainen. The group is part of the <a href="http://www.cs.utexas.edu/users/ai-lab">
+Artificial Intelligence Lab</a> and the <a
+href="http://www.cs.utexas.edu/">Computer Science Department</a>, at the
+<a href="http://wwwhost.cc.utexas.edu/"> University of Texas at
+Austin</a>.  Our research concentrates on artificial intelligence and
+cognitive science, including natural language processing, schema-based
+vision, cortical self-organization, episodic memory, decision making,
+and evolving neural networks with genetic algorithms.  Click on the map
+below for more details. <p>
+
+<b>New:</b> Check out the hypertext book on <a
+href="http://www.cs.utexas.edu/users/nn/web-pubs/htmlbook96"> Lateral Interactions in the
+Cortex: Structure and Function</a>.
+<p>
+
+<center>
+<fig src="/users/nn/images/nnet.gif">
+<a href="http://www.cs.utexas.edu/cgi/htimage/users/nn/images/nnet.map">
+<img src="http://www.cs.utexas.edu/users/nn/images/nnet.gif" border=0 ismap></a>
+<p>
+  <a href="http://www.cs.utexas.edu/users/risto/index.html" shape="polygon 65,37,82,14,126,6,172,16,185,34,175,52,128,66,83,59"> Risto Miikkulainen</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/graduate-students/graduate-students.html" shape="polygon 245,37,263,14,306,6,350,16,366,33,351,54,306,66,263,57"> Graduate Students</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/alumni/alumni.html" shape="polygon 425,35,449,11,485,6,534,18,544,33,531,55,484,66,440,57"> Alumni &amp; Visitors</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/publications/publications.html" shape="polygon 66,296,83,273,124,266,175,278,185,295,169,316,126,325,81,317"> Publications</a> |
+<br>
+  <a href="http://www.cs.utexas.edu/users/nn/pages/demos/demos.html" shape="polygon 245,296,262,275,305,265,350,275,365,292,355,315,307,325,260,317"> Demos &amp; Posters</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/software/nn-software.html" shape="polygon 425,296,442,273,485,265,529,275,545,293,532,314,489,325,436,316"> Software</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/home-pages/home-pages.html" shape="rect 4,135,104,194"> Home Pages</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/conferences/conferences.html" shape="rect 104,136,205,194"> Conferences</a> |
+<br>
+  <a href="http://www.cs.utexas.edu/users/nn/pages/newsgroups/newsgroups.html" shape="rect 204,136,305,195"> Newsgroups</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/archives/archives.html" shape="rect 304,136,405,196"> Archives</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/info-sources/info-sources.html" shape="rect 404,136,504,194"> Information Sources</a> |
+  <a href="http://www.cs.utexas.edu/users/nn/pages/general-tools/general-tools.html" shape="rect 505,136,606,196"> General Tools</a> |
+<br>
+  <a href="file://www.cs.utexas.edu/users/nn//u/nn/www-site.private/users-guide.html" shape="default"> Private Links</a>
+<br>
+</fig>
+</center>
+
+<hr>
+
+<a href="http://www.cs.utexas.edu/users/nn/stats/reports/index.html">
+<img src="http://www.cs.utexas.edu/users/nn/images/stats.gif" align=absmiddle border=0>wusage</a>
+<a href="http://www.mckinley.com/">
+<img src="http://www.cs.utexas.edu/users/nn/images/horiz3star.gif" align=middle border=0 hspace=50></a>
+<a href="http://www.eff.org/blueribbon.html">
+<img src="http://www.cs.utexas.edu/users/nn/images/rib_bar_wh.gif" align=middle border=0 hspace=50></a>
+<hr>
+<address><a href="http://www.cs.utexas.edu/users/martym/">martym@cs.utexas.edu</a></address>
+
+</html>

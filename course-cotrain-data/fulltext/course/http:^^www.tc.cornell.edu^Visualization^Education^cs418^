@@ -1,0 +1,110 @@
+
+<html>
+<head>
+<title>
+CS418 Lab Main Page
+</title>
+</head>
+
+<body  BGCOLOR="#fff1ec" TEXT="#000000" LINK="#1e5666" VLINK="#172766" ALINK="#48aab2" >
+
+<img src="http://www.tc.cornell.edu/Visualization/Education/cs418/gifs/phoenix.gif" align=left hspace=20>
+<h2>Computer Science 418: 
+<br> Computer Graphics <br>
+Laboratory Exercises<br></h2>
+<br clear=left>
+<hr>
+
+This is the Web Site for the Cornell University
+undergraduate computer graphics laboratory, CS 418. 
+These pages contain all of the materials for CS 418 including
+ lab procedures, software and student results.
+<p>
+
+CS 418 is the lab section for 
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs417/"> 
+CS 417 </a>
+which deals with computer
+graphics and scientific visualization at the level of <I>Computer
+Graphics: Principles and Practice</I> by Foley et.al., or <I>3D
+Computer Graphics</I> by Watt.  CS 418 is currently taught by <A HREF="http://www.tc.cornell.edu/~bruce/">Bruce
+Land</A>, who is also the Project Leader for the Visualization Group at
+the Cornell Theory Center.
+<p>
+<center>
+These pages won first place in the <br> 1996 ACM SIGUCCS <br> Web-based
+Education and Training materials competition.
+</center>
+
+<b> <hr> Exercises: </b><p>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab0.html"> Getting started (1996)<br></a>
+<ol start=1>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab1.html"> Building Polygon Objects </a>(1996)<br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab2.html"> Parametric Surfaces</a> (1996) <br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab3.html"> Transformations and Modeling </a>(1996) <br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab4.html"> Using a Virtual Camera</a> (1996)<br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab5.html"> Camera and Perspective Transforms</a> (1995)<br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab6.html"> Lighting</a> (1995)<br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab7.html"> Texture and Bump Mapping </a> (1996)<br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab8.html"> Modeling and Scientific Visualization </a>(1996)<br>
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab9.html"> Design Project </a>(1996)
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab10.html"> Physics-based Animation</a> (1996)
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab11.html"> Implicit Surfaces</a> (1996)
+<li>
+<a href="http://www.tc.cornell.edu/Visualization/Education/cs418/lab12.html"> Procedural Textures</a> (1996)
+</b>
+</ol>
+<p>
+Exercises to be done in 1996 will be in the order 1, 2 ,11 ,3, 4, 
+ 10, 12, 8,  and 9.
+
+<p>
+Note that exercises marked "(1997)" are current. Those marked "(1995 or 96)" 
+ are
+included for reference only and are not current exercises.
+<p> <hr>
+<b><a href="http://www.tc.cornell.edu/Visualization/Education/cs418/CHAT/passwd.html"> Lab Chat:</b></a><p>
+ This facility is for communication about
+CS 418 related topics only. During the spring semester
+access is restricted to enrolled students.
+<b><hr>Related Topics:</b>
+<UL>
+<LI> 
+<a href="http://www.tc.cornell.edu/Visualization/contrib/cs418-sp94/cs418.html">
+Final Project CS 418 Animations </a>
+
+<LI> 
+<a href="http://www.tc.cornell.edu/Visualization">
+Visualization at the Cornell Theory Center </a>
+
+</UL>
+
+
+<p>
+<hr>
+Comments about Theory Center online documents are welcome and may be sent to
+<i>doc-comments@tc.cornell.edu</i>.
+ <p>
+
+Last modified, 1/17/96, B. Land.
+<! Revision history:
+	Original document: P.Maxfield, 10/94
+>
+<p>
+<iMG SRC="http://www.tc.cornell.edu/copyright.xbm">
+<A HREF="http://www.tc.cornell.edu/ctcCopyright.html"> 
+<i>Copyright Statement </I></A>
+
+</body> </html>
+

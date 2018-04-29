@@ -1,0 +1,215 @@
+<html>
+<head>
+<title>Oren Etzioni's Home Page</title>
+</head>
+
+<BODY>
+
+
+<h1>Oren Etzioni's Home Page</h1>
+
+<hr>
+<A HREF="http://www.cs.washington.edu/homes/etzioni//">Department of Computer Science and Engineering</A><br>
+<A HREF="http://www.washington.edu"> University of
+Washington</A><br>
+<A HREF="http://www.uwtc.washington.edu/Seagopher.html"> Seattle</A>,
+Washington, 98195 <br>
+<p>
+Voice: (206) 685-3035;  
+E-mail:  etzioni@cs.washington.edu;
+FAX: (206) 543-2969.
+
+
+<p>
+Office: Sieg Hall, Room 209. 
+<p>
+A brief <a
+href="http://www.cs.washington.edu/people/faculty/etzioni.html">bio
+and photo</a>. 
+<hr>
+<h2>Current Research</h2>
+
+<p> <ul> <li> The <a
+href="http://www.cs.washington.edu:80/research/projects/softbots/www/softbots.html">
+Internet Softbot </a> enables a human user to state <I> what </I> he
+or she wants accomplished. The Softbot disambiguates the request and
+dynamically determines <I> how </I> and <I> where </I> to satisfy it.
+
+The Softbot was one of the <a href="http://www.dc.enews.com/magazines/discover/page6a.html#CS"> 5
+finalists </a> in the 1995 <a
+href="http://www.dc.enews.com/magazines/discover/page6.html"> Discover
+Awards for Technological Innovation</a> in Computer Software.
+
+
+<p>
+
+
+
+
+
+<li> The <a href="http://www.metacrawler.com">
+MetaCrawler</a> Softbot is a fielded Web service that enables you to search
+multiple Web Indices in parallel, and provides sophisticated pruning
+options.  Try it!
+
+<a href="http://www.cnet.com/Content/Reviews/Compare/Search/ss2.html">
+<h3><tt>c|net</tt>
+recommends the MetaCrawler as <em>the</em> search service of choice!</h3></a>
+
+
+<p>
+
+
+<li> The <a href="http://www.cs.washington.edu/research/ahoy">
+Ahoy</a> Softbot is a White Page service for the Web that locates
+individual's home pages with high accuracy.   Try it!
+
+<p>
+
+<li> <a
+href="http://www.cs.washington.edu/homes/segal/brute.html"> Brute
+force learning</a>:  Brute can analyze 100,000 hypotheses a second, when
+run on a SPARC-10. 
+
+
+ </ul> <hr> <h2> Selected Publications </h2>
+
+<ul>
+
+
+<li> <a href="ftp://ftp.cs.washington.edu/pub/etzioni/softbots/focs96.ps.gz">
+Efficient Information Gathering on the Internet</a> (FOCS '96) <img src="http://www.cs.washington.edu/homes/weld/figs/new.gif" align=bottom>
+<p>
+
+<li> <a href="ftp://ftp.cs.washington.edu/pub/etzioni/softbots/a96.ps.gz">
+Moving up the information food chain: deploying softbots on the
+Web</a> (AAAI '96) <img src="http://www.cs.washington.edu/homes/weld/figs/new.gif" align=bottom>
+<p>
+
+<li> <a href="ftp://june.cs.washington.edu/pub/ai/tr96-01-03.ps.Z"> A
+Scalable Comparison-Shopping Agent for the World-Wide Web</a>
+(Autonomous Agents '97)
+<p>
+
+    <li> <b>Multi-Service Search and
+       Comparison using the MetaCrawler</b> in both
+       <a href="http://www.cs.washington.edu/research/projects/softbots/www/metacrawler.ps">Postscript</a> and
+       <a
+       href="http://www.cs.washington.edu/research/projects/softbots/papers/metacrawler/www4/html/Overview.html">HTML</a>, WWW '95.
+ <p>
+
+<li> <a href="ftp://ftp.cs.washington.edu/pub/etzioni/softbots/cacm.ps"> A Softbot-based interface to the internet</a>.
+<I> CACM</I>, July 1994.
+<p>
+
+<li><a href="ftp://ftp.cs.washington.edu/pub/ai/ieee-expert.ps.Z">
+    Intelligent Agents on the Internet:
+     Fact, Fiction, and Forecast</a>. IEEE Expert, August 1995.
+     <p>
+
+<li> <a
+href="ftp://ftp.cs.washington.edu/pub/etzioni/softbots/intelligence-without-robots.ps.Z"> Intelligence without Robots (A Reply to Brooks)</a>.
+<I> AI Magazine</I>, December 1993.
+
+<p>
+
+<li> <a href="ftp://cs.washington.edu/pub/map/papers/Category-Translation.ps">
+Learning to understand information on the Internet.</a> (IJCAI-95).
+
+<p>
+
+<li> <a href="ftp://ftp.cs.washington.edu/pub/ai/lcw-aij.ps.gz"> 
+Sound and Efficient Closed-World Reasoning for Planning</a> (to
+appear in AIJ).
+
+<p>
+
+<li> <a href="ftp://ftp.cs.washington.edu/pub/ai/first-law-aaai94.ps.Z">
+The First Law of Robotics</a> (AAAI-94)
+
+
+<p>
+<li> <a
+href="http://www.cs.washington.edu/research/projects/softbots/www/bib.html">
+Additional Papers </a>.
+<p>
+<hr>
+
+<h2> PhD Students Advised </h2>
+<ul>
+<li> <a href="http://www.cs.washington.edu/homes/segal/"> Richard
+Segal</a>.  Master's thesis: St. Bernard:  The File
+Retrieving Softbot</a>, 1992.
+<li> Neal Lesh.  Master's thesis:  A Planner for a UNIX Softbot, 1993.
+<li> <a href="http://www.cs.washington.edu/homes/kgolden/"> Keith Golden</a>.  Master's thesis:  Planning for Universal
+Quantification and Incomplete Information, 1994.
+<li> Terrance Goan.  Master's thesis:  Learning About Software Errors,
+1994.
+<li> <a href="http://www.cs.washington.edu/homes/map/"> Mike
+Perkowitz</a>.  Master's thesis:  Learning to Understand Information on the
+    Internet, 1995.
+
+<li> <a href="http://www.cs.washington.edu/homes/selberg/"> Erik
+       Selberg</a>.  Master's thesis: Multi-Service Search and
+       Comparison using the MetaCrawler, 1995.
+
+<li> Oren Zamir and Jonathan Shakes.
+</ul>
+
+<h2> Undergraduate Students Advised </h2>
+<ul>
+<li> Stephen Soderland, 1992, (PhD program, Umass Amherst).
+<li> Julie Roomy, 1993,       (Hewlett-Packard).
+<li> Bruce Lesourd, 1993.
+<li> Robert Spiger, 1993,     (Lockheed, AI research center).
+<li> William Alford, 1994,   (PhD program, University of Wisconsin).
+<li> Greg Fitchenholtz, 1994, (Hewlett-Packard).
+<li> Guido Hunt, 1994.
+<li> Dymitr Mozdyniewicz, 1995, (Quark Inc.).
+</ul>
+
+<hr>
+
+<h2> Machine Learning Resources </h2>
+<ul>
+<li> <a href="ftp://ics.uci.edu/pub/machine-learning-databases/">
+The Machine Learning Database Repository</a> 
+at UC Irvine.
+<li> <a href="ftp://ics.uci.edu/pub/machine-learning-programs/">
+The Machine Learning Programs Repository</a> at UC Irvine.
+<li> <a href="http://info.gte.com/~kdd/"> Knowledge Discovery Mine</a>
+containing information about knowledge discovery in databases.
+<li> <a href="ftp://archive.cis.ohio-state.edu/pub/neuroprose/"> Neuroprose
+Archive</a> containing recent papers relevant to neural networks.
+<li> <a href="http://www.ai.univie.ac.at/oefai/ml/ml-resources.html">
+Machine Learning Information Services </a>.
+<li> <a href="http://www-ilg.cs.uiuc.edu/">
+University of Illinois Inductive Learning Group </a>
+<li> <a href="http://lib.stat.cmu.edu"> StatLib</a> containing data,
+algorithms, and other information relevant to statistics.
+<li> <a href="ftp://ftp.gmd.de/MachineLearning/MLT"> Machine Learning
+Toolbox (MLT)</a> at GMD in Bonn, German.
+<li> <a
+href="http://www.cis.ohio-state.edu/hypertext/faq/usenet/FAQ-List.html">
+List of Usenet FAQs </a>
+</ul>
+
+
+
+Access Count Since Jan. 16, 1996: <a href=http://www.eeb.ele.tue.nl/software/counter.html>
+<img
+src="http://www.cs.washington.edu/htbin-post/speed/nph-count?width=5&link=http://www.cs.washington.edu/homes/etzioni">
+</a>
+
+<p>
+
+<hr>
+<tt> <a href=mailto:etzioni@cs.washington.edu>
+etzioni@cs.washington.edu</a> </tt>
+
+
+
+
+
+
+

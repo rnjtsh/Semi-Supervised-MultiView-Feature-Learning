@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>Carlos Puchol</title>
+</head>
+
+<body bgcolor="#ffffffff">
+<h1>Carlos Puchol</h1>
+
+<hr size=3>
+<h2>Research Interests</h2>
+<ul>
+	<ul>
+	<li><a href="http://cs-www.bu.edu/pub/ieee-rts/Home.html">Responsive/Real-time/Reactive Systems</a> in General
+	<li><a href="http://www.comlab.ox.ac.uk/archive/formal-methods/">Formal Methods</a>
+	<li>Specification and Implementation of Real-Time Systems
+	<li>Distributed Control
+	<li>Robotics
+	<li><a href="http://www.cs.utexas.edu/users/cpg/TempEst">Esterel</a>, a synchronous programming language.
+	<li><a href="http://www.cs.utexas.edu/users/cpg/mawl">Mawl</a>, a language for web applications development.
+</ul>
+</ul>
+
+Check out the UTCS <a href="http://www.cs.utexas.edu/users/cpg/RTS/">Real-Time Systems Group</a> home page.
+
+<hr size=3>
+
+<h2>Publications</h2>
+
+I have a list of <a href=http://www.cs.utexas.edu/users/cpg/pub>publications</a> available for
+browsing.<p>
+
+<hr size=3>
+
+<h2>Software</h2>
+
+<a href="http://www.cs.utexas.edu/users/cpg/TempEst">The TempEst Toolset</a>: a package for verifying
+safety properties of programs written in the <a
+href="http://www.cs.utexas.edu/users/cpg/TempEst/esterel.html">Esterel</a> programming language.
+
+<p>
+
+I once wrote one and a half Linux device drivers, one for the
+<a href="ftp://sunsite.unc.edu/pub/Linux/apps/video/fgrabber-1.0.tgz">QuantaVision
+frame grabber</a> and part of the
+<a href="ftp://sunsite.unc.edu/pub/Linux/kernel/patches/console/joystick-0.7.3.tar.gz">joystick</a>
+device driver.
+
+<hr size=3>
+
+<h2>Contact Information</h2>
+<dl>
+<dt>Office:
+<dd>
+UA9 4.108d<br>
+<br>
+<dt>Real-time Systems Lab:
+<dd>
+Taylor Hall 3.140<br>
+<br>
+<dt><img alt="Phone:" align=top src="http://www.cs.utexas.edu/users/cpg/images/phone.gif">
+<dd>
+(512) 471-9543 (Lab)<br>
+(512) 471-9756 (Office)<br>
+<br>
+<dt>Office-<img alt="Mail" align=top src="http://www.cs.utexas.edu/users/cpg/images/mailbox.gif">
+<dd>
+The University of Texas at Austin<br>
+Department of Computer Sciences<br>
+Austin, TX 78712-1188<br>
+<br>
+<img alt="" align=top src="http://www.cs.utexas.edu/users/cpg/images/UT-Austin.gif"><br>
+<br>
+<dt>E-<img alt="Mail" align=top src="http://www.cs.utexas.edu/users/cpg/images/mailbox.gif">
+<dd>
+cpg@cs.utexas.edu<br>
+<br>
+<dt> Home-<img alt="Mail" src="http://www.cs.utexas.edu/users/cpg/images/mailbox.gif">
+<dd>
+P.O. Box 7817<br>
+Austin, TX 78713-7817<br>
+</dl>
+
+<hr size=3>
+<h2>Lots-of-Phun Interests</h2>
+
+Member of the
+<a href=http://www.cs.utexas.edu/users/cpg/RG>
+The Robot Group</a>. Check the group's <a href=http://www.cs.utexas.edu/users/cpg/RG>Web page</a>.
+<a href="http://www.cs.utexas.edu/users/cpg/images/RG-logo2.gif"><img alt="" align=top src="http://www.cs.utexas.edu/users/cpg/images/RG-mini.gif"></a>
+<br>
+<br>
+Latest interest
+is the <a href="http://www.be.com/">
+<u><FONT COLOR="#000080">B</FONT><FONT COLOR="#FF0000">e</FONT></u></a> box.
+<br>
+
+<h2>Originally from
+<a href="http://ccwf.cc.utexas.edu/~ignasi/gandia.html">Gandia</a>, in
+the province of <a href="http://www.mit.edu/people/iranzo/spain.html">Valencia</a>,
+in <a href=""http://www.cs.utexas.edu/users/cpg/>Spain</a></h2>
+<a href="http://www.mit.edu/people/iranzo/spain.html">
+<img alt="Valencia, Spain" align=top src="http://www.cs.utexas.edu/users/cpg/images/Senyera.gif">
+</a>
+<hr size=3>
+
+<a href="telnet://meow.cs.utexas.edu">.</a>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+<HTML>
+<HEAD>
+<TITLE>Chris Chu</TITLE>
+</HEAD>
+
+<BODY BACKGROUND = "gopaper.gif">
+
+<BODY>
+<H1>Welcome to Chris Chu's Home Page</H1>
+
+
+<CENTER> <IMG SRC = "http://www.cs.utexas.edu/users/cnchu/rainbowline.gif"> </CENTER>
+
+<H2>About Myself</H2>
+
+My photo:
+<IMG ALIGN=TOP SRC = "http://www.cs.utexas.edu/users/cnchu/mcmug.jpg"><P>
+
+I am a PhD student in ....
+<A HREF = "http://www.cs.utexas.edu/Welcome.html">
+<IMG SRC="http://www.cs.utexas.edu/images/UTCS/banner.gif" ALT="" ALIGN="">
+</A><P>
+
+<p>
+<H3>Phone Numbers and Address:</H3>
+<H4>Call me at:</H4>
+<ul>
+<li><B>Office:</B> (512) 471-9772   (UA9 4.118E)
+<li><B>Home:  </B> (512) 708-0296
+</ul>
+<p>
+<H4>Mailing address:</H4>
+<pre>
+   University of Texas at Austin
+   Department of Computer Sciences
+   Taylor Hall 2.124
+   Austin, TX  78712-1188
+</pre>
+
+
+<CENTER> <IMG SRC = "http://www.cs.utexas.edu/users/cnchu/rainbowline.gif"> </CENTER>
+
+<H2>Interesting Links</H2>
+<UL>
+<LI> <A HREF="http://www.utexas.edu/students/acccf/">Austin Chinese Campus Christian Fellowship</A>
+<LI> <A HREF="http://www.cs.utexas.edu/users/yivan/acc.html">Austin Chinese Church</A>
+<LI> <A HREF="http://www.cs.utexas.edu/">Department of Computer Sciences</A>
+<LI> <A HREF="http://www.utexas.edu/">UT Austin</A>
+<LI> <A HREF="http://www.quadralay.com/Austin/austin.html">Austin</A>
+<LI> <A HREF="http://www.hk.super.net/~webzone/hongkong.html">Hong Kong</A>
+<LI> <A HREF="http://www.ihep.ac.cn/china.html">China</A>
+</UL>
+</body>
+
+
+<CENTER> <IMG SRC = "http://www.cs.utexas.edu/users/cnchu/rainbowline.gif"> </CENTER>
+
+<ADDRESS>
+<B>Author: </B><A HREF="http://www.cs.utexas.edu/users/cnchu/welcome.html"><I>Chris C. Chu</I></A><BR>
+<B>Email: </B><A HREF="mailto:cnchu@cs.utexas.edu">cnchu@cs.utexas.edu</A><BR>
+<B>Last Updated: </B><I>January 19, 1996</I>
+</ADDRESS>
+</BODY>
+
+</HTML>

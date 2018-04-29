@@ -1,0 +1,29 @@
+<html>
+
+<head>
+	<title>Ruth Anderson's Home Page </title>
+</head>
+
+<body>
+
+<h1> <a name="top">Ruth Anderson</a><br>
+ <em>rea@cs.washington.edu</em>
+</h1>
+
+<img src=http://www.cs.washington.edu/homes/rea/rea.gif> <p>
+
+<address>     
+     <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+     <a href="http://www.washington.edu/">University of Washington,</a> Box 352350, <br>
+     <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195-2350 USA
+</address>
+
+<hr> <p>
+
+<a   href ="http://sunsite.unc.edu:80/wxyc/"> WXYC 89.3</a><p>
+<a   href ="http://map.bigbook.com/cgi-bin/navigator_map"> maps!</a><p>
+<a href="http://newton.ruph.cornell.edu:80/edwin/"> my brother</a><p>
+
+
+<body>
+</html>

@@ -1,0 +1,21 @@
+<HTML>
+<HEAD>
+<TITLE>
+CS Courses
+</TITLE>
+</HEAD>
+<BODY>
+<H2>
+CS Courses
+</H2>
+<UL>
+<LI> <A HREF="http://www.cs.utexas.edu/users/UTCS/courses/Fall96">Fall 96</A>
+<LI> <A HREF="http://www.cs.utexas.edu/users/UTCS/courses/Spring97">Spring 97</A>
+</UL>
+<P><HR><P>
+Additional course information may be maintained by the individual
+faculty members.
+Consult the 
+<A HREF="http://www.cs.utexas.edu/docs/classes.html">CS class web pages</A>.
+For additional information contact
+<A HREF="mailto:gloria@cs.utexas.edu">gloria@cs.utexas.edu</A>

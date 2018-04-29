@@ -1,0 +1,89 @@
+<html>
+<head>
+<title> Xiaohan Qin </title>
+</head>
+
+<body>
+
+<h2> Xiaohan Qin 
+<IMG ALIGN=middle SRC=http://www.cs.washington.edu/homes/xqin/photo.gif>
+</h2>
+<address>
+<a href="http://www.cs.washington.edu/htbin-post/finger/xqin">
+xqin@cs.washington.edu</a> <br>
+<a href="http://www.cs.washington.edu/">
+Computer Science & Engineering Department</a> <br>
+<a href="http://www.washington.edu/">
+University of Washington,</a> Box 352350 <br>
+<a href="http://www.cs.washington.edu/area/">
+Seattle, WA </a> 98195 <br>
+Office: Sieg 223 <br>
+Phone: (206)685-4087 <br>
+Fax: (206)543-2969
+</address>
+
+<P>
+I am a 5th year graduate student working with  
+<A HREF ="http://www.cs.washington.edu/people/faculty/baer.html">
+Jean-Loup Baer</A>. 
+My research interests include computer architectures,
+parallel and distributed systems, 
+performance evaluation methods such as modeling and simulation.  
+My short term goal is to get out of school as soon as possible. 
+
+<h2> Papers: </h2>
+<a href="http://www.cs.washington.edu/homes/xqin/sig97.ps">
+A Performance Evaluation of Cluster-based Architectures, </a>
+Qin and Baer, submitted to a conference.
+<br>
+<br>
+<a href="http://www.cs.washington.edu/homes/xqin/hpca3.ps">
+On the Use and Performance of Explicit Communication
+Primitives in Cache-coherent Multiprocessor Systems, </a>
+Qin and Baer, To appear in the Proceedings of HPCA-3.
+<br>
+<br>
+<a href="http://www.cs.washington.edu/homes/xqin/comp.ps">
+A Comparative Study of Conservative and 
+Optimistic Trace-driven Simulations, </a>
+Qin and Baer, <i> An award paper in 1995 Simulation Symposium</i>, page 42-50.
+<br>
+<br>
+<a href="http://www.cs.washington.edu/homes/xqin/timewarp.ps">
+Optimistic Trace-driven Simulation, </a>
+Qin and Baer, Tech Report 94-10-03, Dept of Computer Science and Engineering, 
+Univ. of Washington. 
+<br>
+<br>
+<a href="http://www.cs.washington.edu/homes/xqin/icpp.ps"> 
+A Parallel Trace-driven  Simulator: Implementation and Performance, </a>
+Qin and Baer, <i> in Proceedings of 1994 International Conference 
+of Parallel Processing</i>, page 314-318.
+<br>
+<br>
+<a href="http://www.cs.washington.edu/homes/xqin/jpdc.ps">
+MIN-Graph: A tool
+for Monitoring and Visualizing MIN-based
+Multiprocessor Performance, </a>
+Zhang, Nalluri, and Qin, 
+<i> in Journal of Parallel and Distributed Computing</i>, 
+June 93, page 231-241.
+<br>
+<br>
+<a href="http://www.cs.washington.edu/homes/xqin/numa.ps">
+Performance Prediction and Evaluation of Parallel Processing
+on a NUMA Multiprocessor, </a>
+Zhang and Qin, <i> in IEEE Trans. on Software Engineering</i>, 
+Oct 91, page 1059-68. 
+<br>
+<br>
+
+<h2> Other interesting stuff: </h2>
+<LI><A HREF ="http://www.cernet.edu.cn/tour/fun.html#pic"> 
+Photos from China</A>
+<br>
+<LI><A HREF="http://b.stat.purdue.edu:1280/chinese.html">
+Readings in Chinese</A>
+<LI><A HREF="http://www.cs.washington.edu/homes/xqin/search.html">
+Search Engine</A>
+</html>

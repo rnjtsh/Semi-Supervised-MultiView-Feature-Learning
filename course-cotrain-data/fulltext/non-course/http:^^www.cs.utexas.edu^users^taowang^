@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Tao Wang</title>
+</head>
+
+<frameset rows="180,*">
+  <frame src="cgi/banner.html" name=banner>
+
+<frameset cols="180, *">
+  <frame src=menu.html name=menu>
+  <frame src=main.html name=main>
+</frameset>
+</frameset>
+
+<NOFRAMES>
+<BODY>
+<H1 ALIGN=center><blink>Frame ALERT!</blink></h1> 
+If you are seeing this message, you are using a browser that do not support <b>FRAMES</b>. 
+<p> 
+Click <a href="main.html"> here </a> to see a non-frame version of this 
+document. 
+<p> 
+Or, you could download <A HREF="http://www.netscape.com/comprod/products/navigator" TARGET="content">Netscape Navigator</A>
+<p> 
+
+</BODY>
+</NOFRAMES> 
+
+</html>

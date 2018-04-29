@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Alec Wolman's home page.</title>
+</head>
+<body>
+<p>
+<h1> <a name="top">Alec Wolman</a><br>
+<img src="http://www.cs.washington.edu/homes/wolman/wolman.gif">
+</h1>
+<em><a href="http://www.cs.indiana.edu/finger/gateway?wolman@cs.washington.edu">wolman@cs.washington.edu</a></em>
+</p>
+<p>
+<b>Work</b>
+<address>
+Computer Science & Engineering Department<br>
+University of Washington<br>
+Box 352350<br>
+Seattle, WA 98195-2350<br>
+(206)616-1845
+</address>
+<b>Home</b>
+<address>
+1224 NW 77th St.<br>
+Seattle, WA 98117<br>
+(206)706-8104
+</address>
+</p>
+<p>
+I'm currently a graduate student in the
+<a href="http://www.cs.washington.edu/">Computer Science department</a>
+at the 
+<a href="http://www.cac.washington.edu:1183/">University of Washington</a>.
+My office is
+<a href="http://www.cs.washington.edu/homes/map/office/index.html">room 109d</a>
+in the
+<a href="http://www.cs.washington.edu/homes/map/chateau.html">Chateau</a>.
+Before gradual school, I worked for
+<a href="http://www.digital.com/">Digital Equipment Corp.</a>
+at the Cambridge Research Lab.
+</p>
+<p>
+My research interests include operating systems, networking,
+and architecture.
+</p>
+<p>
+Current and recent projects:
+<ul>
+<li>
+<a href="http://www.cs.washington.edu/homes/wolman/sio-net.html">
+scalable networking performance</a>.
+<li>
+<a href="http://www.cs.washington.edu/homes/bershad/Etch/index.html">
+Etch - binary instrumentation and optimization for Win32 executables</a>
+<li>
+<a href="http://www.cs.washington.edu/homes/romer/rocky/index.html">
+rocky - interpreter performance</a>
+</ul>
+</p>
+<p>
+On-line papers:
+<ul>
+<li> <a href="ftp://crl.dec.com/pub/DEC/CRL/tech-reports/93.10.ps.Z">
+X Through the Firewall, and Other Application Relays</a> by Treese and Wolman.
+Summer USENIX 1993.
+<li> <a href="http://www.cs.washington.edu/homes/wolman/tcp-usenix94.ps">
+Latency Analysis of TCP on an ATM Network</a> by Wolman, Voelker, and Thekkath.
+Winter USENIX 1994.
+<li> <a href="http://www.cs.washington.edu/research/interpreters/interpreterS+P.ps">
+The Structure and Performance of Interpreters</a> by Romer, Lee, Voelker, Wolman, Wong, Baer, Bershad, and Levy.
+To Appear, ASPLOS VII, 1996.
+</ul>
+</p>
+<hr>
+<p>
+Hungry? Have an
+<a href="http://www.cs.washington.edu/homes/brad/op/otter_pop.gif"> otter pop</a>.
+</p>
+<p>
+<a href="http://www.cs.washington.edu/homes/fix/alec-might-say.html">Jim Fix
+has some strange ideas...</a> <br>
+<a href="http://www.cs.washington.edu/homes/wolman/beard.gif">Nervous habit?</a> <br>
+<a href="http://www.cs.washington.edu/homes/wolman/guitar.gif">No, I don't really play the guitar.</a>
+</p>
+<p>
+Other Wolman Links:
+<br>
+<a href="http://www.jhu.edu/tour/wolman.html">Wolman Hall</a>
+<br>
+<a href="http://chorus.rad.mcw.edu/doc/00425.html">Wolman disease</a>
+<br>
+<a href="http://www.hickson.com/">Wolmanized pressure treated lumber</a>
+</p>
+<hr>
+<img src="http://www.cs.washington.edu/homes/wolman/wolmanized-logo.gif">
+<br>
+<I> wolman@cs.washington.edu - Aug 23, 1996</I>
+</body>
+</html>

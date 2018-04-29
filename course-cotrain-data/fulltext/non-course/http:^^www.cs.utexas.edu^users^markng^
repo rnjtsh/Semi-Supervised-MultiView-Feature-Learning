@@ -1,0 +1,35 @@
+<HTML>
+<HEAD>
+<TITLE> Mark Ka Yau Ng's Home Page </title>
+</HEAD>
+<BODY BGCOLOR = "#000000" BODY TEXT = "#c0c0c0" LINK = "#ffaa00" VLINK = "#ffffff">
+<CENTER>
+<A HREF = "http://www.cs.utexas.edu/users/markng/Mpg/welmark.mpg"><IMG BORDER = 0 SRC = "http://www.cs.utexas.edu/users/markng/Gif/welmark.gif"></A>
+</CENTER>
+
+<BR>
+<CENTER>
+<A HREF = "http://www.cs.utexas.edu/users/markng/myself.html"><IMG BORDER = 0 SRC = "http://www.cs.utexas.edu/users/markng/Gif/about.gif"></A>
+<A HREF = "http://www.cs.utexas.edu/users/markng/points.html"><IMG BORDER = 0 SRC = "http://www.cs.utexas.edu/users/markng/Gif/points.gif"></A>
+<A HREF = "http://www.cs.utexas.edu/users/markng/visit.html"><IMG BORDER = 0 SRC = "http://www.cs.utexas.edu/users/markng/Gif/visit.gif"></A>
+<A HREF = "http://www.cs.utexas.edu/users/markng/cubsden.html"><IMG BORDER = 0 SRC = "http://www.cs.utexas.edu/users/markng/Gif/cubsden.gif"></A>
+<BR>
+<BR>
+[ <A HREF = "http://www.cs.utexas.edu/users/markng/myself.html"> About Myself </A> 
+| <A HREF = "http://www.cs.utexas.edu/users/markng/points.html"> Points Of Interest </A> ]<BR> 
+[ <A HREF = "http://www.cs.utexas.edu/users/markng/visit.html"> Visit Also My Friends' Home Pages </A>
+| <A HREF = "http://www.cs.utexas.edu/users/markng/cubsden.html"> The Cub's Den </A> ]<BR>
+</BODY>
+</CENTER>
+<BR>
+<!---
+<BR>
+<A HREF = "http://www.cs.utexas.edu/users/markng/cgi/mailme"> Click Here !!</A><BR> 
+--->
+<HR>
+<BR>
+<I>
+Last modified Wed Nov 20 1996<BR>
+by <A HREF = "mailto:markng@cs.utexas.edu"><B>markng@cs.utexas.edu</B></A><BR>
+</I>
+</HTML>

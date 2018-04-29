@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Yang Yang </title>
+</head>
+
+<FRAMESET COLS = "20%,80%">
+  <FRAME SRC = "menu.html" NAME = "index">
+  <FRAME SRC = "cgi/main.html" NAME = "content"> 
+</FRAMESET>
+
+<NOFRAMES>
+<BODY>
+<H1 ALIGN=center><blink>Frame ALERT!</blink></h1> 
+<p> 
+If you are seeing this message, you are using a frame <i>challenged</i> browser. 
+</p> 
+
+<p>
+Click <a href="main.html"> here </a> to see a non-frame version of this 
+document. 
+</p> 
+
+<p> 
+Or, you could download <A HREF="http://www.netscape.com/comprod/products/navigator" TARGET="content">Netscape Navigator</A>
+</p> 
+
+</BODY>
+</NOFRAMES> 
+
+</html>
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>
+Mike Kistler's Home Page 
+</title>
+</head>
+
+<BODY>
+<center>
+<h1>Mike Kistler's Home Page</h1>
+</center>
+
+<hr> <!-- --------------------------------------------------- -->
+
+<p>This page is under construction!
+<img src=http://www.cs.utexas.edu/users/kistler/gifs/under-construct.gif>
+
+<hr> <!-- ------r-------------------------------------------- -->
+
+<P>
+I am a first year PhD student at the 
+<a href="http://www.utexas.edu">University of Texas</a> at
+<a href="http://www.quadralay.com/Austin/austin.html">Austin</a> in the
+<a href="http://www.cs.utexas.edu">Department of Computer Sciences</a>.
+I am also currently employed by 
+<a href="http://www.ibm.com">IBM</a> in the
+<a href="http://www.austin.ibm.com/pspinfo/">Personal Software Products</a>
+division.
+
+<hr> <!-- --------------------------------------------------- -->
+
+<h3>My Academic Background</h3>
+
+<P>BA in Mathematics and Computer Science, 1982<BR>
+<a href="http://www.susqu.edu">Susquehanna University</a>, Selinsgrove, PA.
+
+<p>MS in Computer Information Science, 1990<BR>
+<a href="http://www.syr.edu">Syracuse University</a>, Syracuse, NY.
+
+<p>Masters of Business Administration, 1991<BR>
+<a href="http://www.stern.nyu.edu">Stern School of Business</a>
+New York University, New York, NY.
+
+<hr> <!-- --------------------------------------------------- -->
+
+<h3>My Academic Interests</h3>
+<p>I am interested in parallelism and parallel algorithms,
+particularly in how these can be used for commercial data processing.
+
+<p>Press <a href="http://www.cs.utexas.edu/users/kistler/parallel.html">here</a> for 
+a random collection of links to information about parallel computing.
+
+<hr> <!-- --------------------------------------------------- -->
+
+<h3>My Courses</h3>
+
+<h4>Fall, 1996</h4>
+<ul>
+<li><a href="http://www.cs.utexas.edu/users/ssinha/cs380d/">
+<b>CS380D: Distributed Computing I</b></a>
+with <a href="http://www.cs.utexas.edu/users/misra">Prof. Jayadev Misra</a>.
+<li><a href="http://www.cs.utexas.edu/users/UTCS/courses/Fall96/383C">
+<b>CS383C: Numerical Analysis: Linear Algebra</b></a>
+with <a href="http://www.cs.utexas.edu/users/cline/texan.gif">Prof. Alan Cline</a>.
+</ul>
+
+<hr> <!-- --------------------------------------------------- -->
+
+You are visitor number:
+<IMG ALIGN=TOP SRC="http://www.cs.utexas.edu/pub/cgi/number.xbm/www/users/kistler/index.val">
+
+<hr> <!-- --------------------------------------------------- -->
+
+<h3>To contact me</h3>
+
+<p><img src="http://www.cs.utexas.edu/users/kistler/gifs/mailbox.gif"> 1309 Julies Walk, Pflugerville, TX 78660
+<p>
+<p><img src="http://www.cs.utexas.edu/users/kistler/gifs/phone.gif"> (512) 251-5455
+<p>
+<p>email: <a href="mailto:kistler@cs.utexas.edu">kistler@cs.utexas.edu</a>. 
+
+</body>
+</html>

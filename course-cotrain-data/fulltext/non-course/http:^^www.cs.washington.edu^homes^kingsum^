@@ -1,0 +1,196 @@
+<html>
+
+<head>
+<title>Kingsum Chow</title>
+</head>
+
+<body
+background="http://www.cs.washington.edu/general/white_bg.jpg"
+>
+
+<h1> <a name="top">Kingsum Chow</a></h1>
+
+<address>     
+<!--<a href="http://www.cs.washington.edu/htbin-post/finger/kingsum">
+	kingsum@cs.washington.edu</A> <br> -->
+kingsum@cs.washington.edu<br>
+<a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+<a href="http://www.cac.washington.edu/">University of Washington,</a> Box 352350, <br>
+<a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195 USA
+</address>
+
+<hr>
+
+<center>
+This end of the Information Highway is always under construction.
+</center>
+<p>
+
+<center>
+<table cellpadding=3 border=1>
+<th colspan=3>Table of Contents</th>
+
+<tr>
+<td>	<a href="http://www.cs.washington.edu/homes/kingsum/personal.html">
+	<img align=center hspace=6 border=0
+		alt="[my picture]" src="http://www.cs.washington.edu/homes/kingsum/kingsum.icon.gif">
+	Personal</a>
+	</td>
+
+<td>	<a href="#research">
+	Research</a>
+	</td>
+
+<td>	<a href="file://localhost/projects/se/www/conference.html">
+	Upcoming Conferences</a>
+	</td>
+
+</tr>
+
+<tr>
+<td>	<a href="#resume">
+	Resume</a></td>
+
+<td>	<img align=center hspace=6 border=0
+	alt="[construction]" src="http://www.cs.washington.edu/homes/kingsum/construc.gif">
+	</td>
+
+<td><a href="http://www.cs.washington.edu/homes/kingsum/.plan">
+	<!-- <img align=center hspace=6 border=0
+	alt="[dot]" src="http://www.cs.washington.edu/homes/kingsum/gif/big_brother.icon.gif"> -->
+	Current Schedule</a></td>
+</tr>
+
+
+<tr>
+<td><a href="http://www.cs.washington.edu/homes/kingsum/bridge.html">
+	Bridge</a>
+	</td>
+
+<td><a href="http://www.cs.washington.edu/homes/kingsum/Glossary.html">
+	<img align=center hspace=6 border=0
+	alt="[dot]" src="http://www.cs.washington.edu/general/icons/virtlib_icon.gif">
+	Glossary</a></td>
+<td><a href="#hku">
+	Universities in Hong Kong
+	</td>
+</tr>
+
+<tr>
+<td><img align=center hspace=6 border=0
+	alt="[construction]" src="http://www.cs.washington.edu/homes/kingsum/construc.gif">
+	</td>
+
+<td><img align=center hspace=6 border=0
+	alt="[construction]" src="http://www.cs.washington.edu/homes/kingsum/construc.gif">
+	</td>
+
+<td><a href="mailto:kingsum@cs.washington.edu">
+	<img align=center hspace=6 border=0
+	alt="[mailbox]" src="http://www.cs.washington.edu/general/icons/mbox_icon.gif">
+	Suggestions & Feedback</a></td>
+</tr>
+
+</table>
+</center>
+<p>
+
+<body
+background="http://www.cs.washington.edu/general/white_bg.jpg"
+>
+
+<a name=research>
+<h3>Research</h3>
+My advisor is <a href="http://www.cs.washington.edu/homes/notkin">David Notkin</a>.
+<p>
+
+<ul>
+<li> Asynchronous Software Evolution
+<li> Software Development Tools
+</ul>
+<p>
+
+<h4>Papers on-line</h4>
+<ul>
+<LI> "Software Quality Management by Responsibility Driven Software Evolution" (not ready yet)
+<LI> Kingsum Chow and David Notkin, <A HREF="ftp://ftp.cs.washington.edu/tr/1996/03/UW-CSE-96-03-01.PS.Z">Semi-Automatic Update of Applications in Response to Library Changes</A>, Technical Report UW-CSE 96-03-01 (a revised version will appear in ICSM'96).
+<LI> Kingsum Chow and David Notkin, <A HREF="http://www.cs.washington.edu/homes/kingsum/apwser96.ps">"Asynchronous Software Evolution"</A>, Asia-Pacific Workshop on Software Engineering Research, March 21, 1996, Hong Kong.
+<li> Kingsum Chow, <a href="http://www.cs.washington.edu/homes/kingsum/icse_17.workshop.ps">"Program Transformation for 
+Asynchronous Software Maintenance"</a>, Proceedings of ICSE-17 
+Workshop on Program Transformation for Software Evolution, William Griswold, editor, 
+The 17th International Conference on Software Engineering, April 24-28, 1995, Seattle, 
+Washington, USA.
+</ul>
+<p>
+
+<H3>Useful sites for PCCTS/Sorcerer</H3>
+<a href="http://tempest.ecn.purdue.edu/PCCTS/index.html">PCCTS Home Page</a>
+ | <a href="ftp://ftp.parr-research.com/pub/pccts/">PCCTS FTP page</a>
+ | <a href="http://www.parr-research.com/~parrt">Terrence Parr</a>
+ | <a href="http://www.mcs.com/~tmoog/pccts.html">Notes for PCCTS Newbies</a>
+
+<a name=resume>
+<h3>Resume</h3>
+Please
+<a href="mailto:kingsum@cs.washington.edu">drop me a mail</a>
+to get my resume and specify text or postscript format.<p>
+
+<a name=hku>
+<h3>Universities in Hong Kong</h3>
+<a href="http://www.se.cuhk.hk/">Chinese University of Hong Kong</a>
+ | <a href="http://www.csd.hku.hk/">University of Hong Kong</a>
+ | <a href="http://www.cs.ust.hk/">University of Science and Technology</a>
+ | <a href="http://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>
+ | <a href="http://cpcsspc11.cityu.edu.hk/home.html">City University of Hong Kong</a>
+
+<h3>Singapore Sites</h3>
+<a href="http://www.singapore.com/">Singapore Online (TM)</a>
+ | <a href="http://www.nus.sg/">NUS World-Wide Web Server</a>
+ | <a href="http://www.alumni.nus.sg/">NUS Alumnus Web</a>
+
+<h3>Some Off Campus Friends</h3>
+<a href="http://137.132.166.53:1024/Tom/">Tom Liew Yun Fook's Home Page</a>
+ | <A HREF="http://home.netscape.com/people/tywang">Tak Yin Wang (new page)</A>
+ | <a href="http://www.wolfe.net/~jiang/">Jiang, Weidong</a>
+
+<h3>U of W related</h3>
+<a href="http://www.grad.washington.edu/styletoc.html">University of Washington: Style and Policy Manual for Theses and Dissertations</a>
+ | <a href="http://www.grad.washington.edu/">UW Graduate School Webserver</a>
+ | <a href="http://www.bookstore.washington.edu/">University Book Store</a>
+
+
+<h3>Investments</h3>
+<a href="http://www.pcquote.com/watch2.html">Free 20 Minute Delayed Quote Watch</a>
+ | <a href="http://www.pcquote.com/">PC Quote Market Data and More</a>
+ | <a href="http://www.ai.mit.edu/stocks/mf.html">Experimental Mutual Fund Charts</a>
+ | <a href="http://www.thegroup.net:80/invest/select.htm">On-Line Investment Center - Stocks, Commodities, Technical Analysis</a>
+
+
+<h3>Misc.</h3>
+<a href="http://www.met.inpe.br/chinese/read-ch/ms-win.html">Read Chinese</a>
+ | <a href="http://www.df.lth.se/~micke/hotlist.html">Hot List</a>
+ | <a href="http://webster.cadcam.iupui.edu:80/~ho/">Thomas I. M. Ho</a>
+ | <a href="http://www.hk.linkage.net/markets/china_news/">China News Services</a>
+ | <a href="http://www.pbs.org/">Welcome to PBS ONLINE</a>
+ | <a href="http://www.mdstud.chalmers.se/hkmovie/pics/mpeg/">Hong Kong Movies</a>
+ | <a href="http://useattle.uspan.com/u-movies/">Movies A</a>
+ | <a href="http://www.movienet.com/">Movies B</a>
+
+<HR>
+
+<a href="http://www.cs.washington.edu/htbin-post/speed/counter.html">
+<img src="http://www.cs.washington.edu/htbin-post/speed/nph-count?width=5&link=http://www.cs.washington.edu/homes/kingsum/kingsum.html"></a> visits since Oct 11, 1995.
+
+</body>
+
+<p> <hr>
+<address>
+  <a href="#top"> 
+	Kingsum Chow
+  </a> <br>
+  Last modified: $Date: 1996/05/13 23:51:07 $
+
+</address>
+
+</html>
+

@@ -1,0 +1,73 @@
+<HTML>
+<HEAD>
+<title>UTCS Real-Time Systems Research Group</title>
+</HEAD>
+
+<BODY>
+
+<PRE><H1><IMG ALT="" ALIGN=MIDDLE SRC="http://www.cs.utexas.edu/users/cpg/RTS/UTCS-RTS5.gif"><IMG
+ALT="Real-Time Systems Group
+Department of Computer Sciences
+The University of Texas at Austin"
+ALIGN=MIDDLE SRC="http://www.cs.utexas.edu/users/cpg/RTS/rts-text.gif"></H1></PRE>
+
+
+The Real-Time Systems research group is headed by
+<a href=http://www.cs.utexas.edu/users/cpg/RTS/mok.html>Prof. Aloysius Mok</a>.
+In the past few years, we have worked towards laying the groundwork
+for establishing a firm theoretical foundation for real-time systems
+and also to build design tools based on this foundation. Our work can
+be categorized into three areas as follows:
+
+<ul>
+	<li>Specification and Modeling: precise formulation of real-time properties of systems.
+
+	<li>Analysis and Verification: reasoning about real-time properties.
+
+        <li>Synthesis: enforcing stringent  timing  constraints  and other real-time properties.
+</ul>
+
+<H1>Projects</H1>
+<ul>
+	<li> RTL (Real-Time Logic)
+	<li> Modechart Toolset
+	<ul> <li> Modechart Editor
+	     <li> Modechart Verifier
+	     <li> Modechart Simulator
+	     <li> Modechart Compiler
+	</ul>
+	<li> Timetool
+	<li> Ged
+	<li> Scenario Language
+</ul>
+
+<H1>Publications</H1>
+<a href="http://www.cs.utexas.edu/users/cpg/RTS/abs">Abstracts</a> of some of
+the group's <a href="http://www.cs.utexas.edu/users/cpg/RTS/papers">papers</a> are available
+online in PostScript.
+<p>
+
+
+<H1>Current Members</H1>
+<ul>
+	<li> <a href=http://www.cs.utexas.edu/users/cdj>Deji Chen</a>
+	<li> <a href=http://www.cs.utexas.edu/users/cpg>Carlos Puchol</a>
+	<li> <a href=http://www.cs.utexas.edu/users/dastuart>Doug Stuart</a>
+	<li> <a href=http://www.cs.utexas.edu/users/duuchung>Duu-chung Tsou</a>
+	<li> <a href=http://www.cs.utexas.edu/users/liugt>Guangtian Liu</a>
+	<li> <a href=http://www.cs.utexas.edu/users/rhwang>Rwo-Hsi Wang</a>
+	<li> <a href=http://www.cs.utexas.edu/users/jinyang>Jin Yang</a>
+</ul>
+
+<H1>Alumni</H1>
+<ul>
+<li> <a href=http://www.cs.ccu.edu.tw/~ktw/>Tei-Wei Kuo</a>
+<li> Paul Clements
+<li> <a href=http://www.cs.utexas.edu/users/ckwang>Chih-kan Wang</a>
+<li> <a href=http://www.cs.utexas.edu/users/farn>Farn Wang</a>
+<li> Supoj Suthandavibul
+<li> <a href=http://www.eecs.umich.edu/~farnam/>Farnam Jahanian</a>
+</ul>
+
+</BODY>
+</HTML>

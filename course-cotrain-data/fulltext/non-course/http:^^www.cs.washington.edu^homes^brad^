@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Brad's Home Page</title>
+</head>
+
+<body>
+
+<h1>Brad Chamberlain</h1>
+
+<hr>
+
+<a href="http://www.cs.washington.edu/homes/brad/index2.html"><img src="http://www.cs.washington.edu/homes/brad/me.gif"></a><i>Photo Credit: <a
+href="http://www.cs.washington.edu/homes/map">Mike Perkowitz</a></i>
+
+<hr>
+<p>
+
+<a href="http://www.cs.washington.edu/homes/brad/abio.html">Things you probably couldn't care less about.</a>
+(office, address, etc.) <p>
+
+<a href="http://www.cs.washington.edu/homes/brad/work.html">Things I work on</a> <p>
+
+<a href="http://www.cs.washington.edu/homes/brad/links.html">Things I like</a> <p> 
+
+<a href="http://www.cs.washington.edu/homes/brad/mypages.html">Things I have added to the web</a> (a subset of
+the above) <p>
+
+<hr>
+
+</body>
+<address>
+<a href = "http://www.cs.washington.edu/homes/brad/brad.fs.gif"><img align = middle src = "http://www.cs.washington.edu/homes/brad/brad.fs.20.gif"></a> brad@cs.washington.edu
+</address>
+</html>

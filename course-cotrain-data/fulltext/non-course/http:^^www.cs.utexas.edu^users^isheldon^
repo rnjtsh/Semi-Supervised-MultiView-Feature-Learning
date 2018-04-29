@@ -1,0 +1,50 @@
+<HTML>
+  <HEAD>
+    <TITLE> Isaac A. Sheldon </title>
+  </head>
+
+  <BODY>
+    <IMG IMG SRC = "http://www.cs.utexas.edu/users/isheldon/isaac.gif" ALT = " ">
+    <BR>
+    <H1> Isaac A. Sheldon </h1>
+    <HR>
+    <H2> Contact Information </h2>
+    Phone: (512) 912-0056
+    <BR>
+    e-mail: 
+      <A HREF="mailto:isheldon@cs.utexas.edu">isheldon@cs.utexas.edu</a>
+    <BR>
+    Information: http://www.cs.utexas.edu/users/isheldon
+    <HR>
+    <H2> Professional Information </h2>
+    <P> I am currently a graduate student at 
+          <A HREF="http://www.utexas.edu">The Univeristy of Texas at Austin</a> 
+        in the 
+          <A HREF="http://www.cs.utexas.edu">Department of Computer Science</a>
+        and will recive my Masters of Science in December '96 with my
+        coursework concentrating on Computer Graphics.
+    <P> I recieved my undergraduate degree in Computer Science at
+          <A HREF="http://www.cs.uml.edu">The Univesity of Mass at Lowell</A>. 
+    <P> I have a summer intern job at
+          <A HREF="http://www.ses.com">Scientific and Engineering Software Inc.</a>,
+        a small Austin company creating Schlaeor-Mellor CASE tools.
+    <HR>
+    <H2> Projects </h2>
+    <IMG IMG SRC = "http://www.cs.utexas.edu/users/isheldon/construction.gif" ALT = "Under Construction">
+    <P>
+    Constructive Solid Geometry Using BSPTrees
+    <BR>
+    <A HREF="http://www.cs.utexas.edu/users/isheldon/raytrace/index.html">Modular Ray Tracing Framework</a>
+    <BR>
+    Butte
+    <HR>
+    <H2> Personal Information </h2>
+    <IMG IMG SRC = "http://www.cs.utexas.edu/users/isheldon/construction.gif" ALT = "Under Constructions">
+    <P> <A HREF="http://www.cs.utexas.edu/users/isheldon/baby.html">Baby Page</a>
+    <HR>
+    <ADDRESS>Isaac A. Sheldon
+      <A HREF="mailto:isheldon@cs.utexas.edu">isheldon@cs.utexas.edu</a>
+    </address>
+    Last Update: Aug. 4, 1996
+  </body>
+</html>

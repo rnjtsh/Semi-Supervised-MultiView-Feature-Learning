@@ -1,0 +1,38 @@
+<html> <head>
+<title> Kevin Hinshaw's Home Page
+</title>
+</head>
+
+<body bgcolor=#fff6e6 link=#cc0000 alink=#FF3300 vlink=#000066>
+
+<!-- NOTE: the dot_clear gif adds vertical space   -->
+<!-- (set vspace to the number of pixels desired)  -->
+
+<center>
+
+<p> <IMG hspace=1 vspace=5 SRC="http://www.cs.washington.edu/homes/hinshaw/images/dot_clear.gif" alt="">
+<p> <img src="http://www.cs.washington.edu/homes/hinshaw/images/titles/homepage.gif" alt="Kevin Hinshaw's Home Page">
+<p> <IMG hspace=1 vspace=10 SRC="http://www.cs.washington.edu/homes/hinshaw/images/dot_clear.gif" alt="">
+
+<p>
+<a href="http://www.cs.washington.edu/homes/hinshaw/research.html">
+<img border=0 src="http://www.cs.washington.edu/homes/hinshaw/images/titles/research.gif" alt="Research"></a>
+<a href="http://www.cs.washington.edu/homes/hinshaw/personal.html">
+<img border=0 src="http://www.cs.washington.edu/homes/hinshaw/images/titles/personal.gif" alt="| Personal"></a>
+
+<p>
+<a href="http://www.cs.washington.edu/homes/hinshaw/creations.html">
+<img border=0 src="http://www.cs.washington.edu/homes/hinshaw/images/titles/creations.gif" alt="Web Creations"></a>
+<a href="http://www.cs.washington.edu/homes/hinshaw/links.html">
+<img border=0 src="http://www.cs.washington.edu/homes/hinshaw/images/titles/links.gif" alt="| Links"></a>
+
+<p>
+<a href="http://www.cs.washington.edu/homes/hinshaw/music.html">
+<img border=0 src="http://www.cs.washington.edu/homes/hinshaw/images/titles/music.gif" alt="Music"></a>
+
+<p>
+<a href="http://www.cs.washington.edu/homes/hinshaw/contact.html">
+<img border=0 src="http://www.cs.washington.edu/homes/hinshaw/images/titles/contact.gif" alt="Contact"></a>
+</center>
+
+</body> </html>

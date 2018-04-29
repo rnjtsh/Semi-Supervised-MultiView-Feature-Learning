@@ -1,0 +1,33 @@
+<HTML>
+<BODY>
+
+<TITLE>Ajit George</TITLE>
+
+<H1>My Generally Useless Web Page</H1>
+
+This is my generally useless web page.  I'm not going to lie to you
+and say that it's under construction or something.  Odds are good
+that you won't find anything here until I start doing research.
+
+
+<H2>Address, etc.</H2>
+
+<DL>
+<DT>Ajit George
+<DT>2501 Wickersham Lane #733
+<DT>Austin, TX  78741
+<DT>512/443-3022
+<DT><A HREF="mailto:gajit@cs.utexas.edu">gajit@cs.utexas.edu</A>
+</DL>
+
+<A HREF="http://www.cs.utexas.edu/users/gajit/files/index.html">Here</a> are some files (software and/or documentation) that I have found
+useful recently.<p>
+
+This <A HREF="http://www.cs.utexas.edu/users/gajit/os.ppt">file</a> is for David.
+
+<HR>
+<ADDRESS>
+Last updated on April 7, 1996
+
+</BODY>
+</HTML>

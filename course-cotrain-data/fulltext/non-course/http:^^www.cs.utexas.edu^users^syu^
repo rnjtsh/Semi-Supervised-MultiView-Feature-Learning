@@ -1,0 +1,245 @@
+
+<HTML>
+
+<HEAD>
+
+<TITLE>
+Home Page for YU, SHENGMING
+</TITLE>
+
+<script language="JavaScript">
+<!-- Beginning of JavaScript Applet -------------------
+function scrolframe(seed)
+{      
+        var msg="Welcome to YU, SHENGMING's Homepage!";
+        var out = " ";  var c   = 1;
+        if (seed > 100)
+        {               seed--;
+                var cmd="scrolframe(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 100 && seed > 0)
+                {
+                        for (c=0 ; c < seed ; c++)
+                        {
+                                out+=" ";
+                        }
+                                out+=msg;
+                                seed--;
+                                var cmd="scrolframe(" + seed + ")";
+                                window.status=out;
+                                timerTwo=window.setTimeout(cmd,100);
+                        }
+                                else if (seed <= 0)
+                        {
+                                if (-seed < msg.length)
+                                {
+                                        out+=msg.substring(-seed,msg.length);
+                                        seed--;
+                                        var cmd="scrolframe(" + seed + ")";
+                                        window.status=out;
+                                        timerTwo=window.setTimeout(cmd,100);
+                                }
+                                else
+                                        {
+                                        window.status=" ";
+                                        timerTwo=window.setTimeout("scrolframe(100)",75);
+
+                        }
+                }
+}
+// -- End of JavaScript code ---------------->
+
+</script>
+
+
+</HEAD>
+
+<BODY BACKGROUND="icons/paper03.jpg" onLoad="timerONE=window.setTimeout('scrolframe(100)',500);">
+
+<H1>
+<!IMG SRC="icons/new02.gif" ALIGN=bottom ALT=>   </H1>
+
+<center>
+<table border="30">
+<tr>
+<td><font size=18 color="#00FF01">Welcome</font> <font size=18>to </font> <font size=18 color="#FF1111">Shengming Yu</
+font>'s <font  size=18 color="#DD11DD">Homepage</font></td>
+</tr></table>
+</APPLET>
+</center>
+<p>
+
+<dl>
+<H2>About Me</H2>
+<dd>
+I am Ph.D Student in the
+        <A HREF = "http://www.cs.utexas.edu/">Department of Computer Science</A>
+,
+        <A HREF = "http://wwwhost.utexas.edu/">University of Texas at Austin</A>
+.
+
+        Want to know more about me? check <A HREF="http://www.cs.utexas.edu/users/syu/resume.html">here.
+<P>
+</dl>
+</a>
+<center>
+<IMG SRC = "http://www.cs.utexas.edu/users/syu/icons/cat.gif" border = 0 height=100 width=600>
+<left>
+<br>
+<img src=http://www.cs.utexas.edu/users/syu/icons/rippleline.gif height=20><br>
+</center>
+
+
+<h2>My classmates</h2>
+<table>
+<tr>
+<td><a href="http://www.cnc.ac.cn"><img src="http://www.cs.utexas.edu/users/syu/icons/greatwall.gif"></a></td>
+<td>
+<img src="http://www.cs.utexas.edu/users/syu/icons/banner.gif">
+<ul>
+<li>
+<a href="http://www.cc.gatech.edu/people/home/dhuang/8811/">Class 8811 </a> of <a 
+href="http://cgi.cs.wisc.edu/scripts/chengjie/ustc/index.html">University of Sci
+ence and Technology of China (USTC) </a><br>
+<li>
+<a href="http://www.cs.utexas.edu/users/taowang/9381.html">Class 9381</a> of the Graduate school of Chinese Academy of 
+Sciences
+</ul>
+</td>
+</tr>
+</table>
+
+<center>
+<img src=http://www.cs.utexas.edu/users/syu/icons/rippleline.gif height=20><br>
+<br>
+</center>
+
+<h2>Useful UT links</h2>
+<table>
+<tr>
+<td><a href="http://www.utexas.edu"><img src="http://www.cs.utexas.edu/users/syu/icons/mainbldg.gif"></a></td>
+<td>
+<ul>
+<li>
+<a href="http://wwwhost.utexas.edu/maps/main/overview/">UT campus</a>
+<li>
+<a href="http://www.utexas.edu/student/registrar/"> UT Registrar
+</a>
+<li>
+<a href="http://www.utexas.edu/ogs/"> UT Gradaute Studies
+<li>
+<a href="http://www.lib.utexas.edu/">UT Library</a>
+<li>
+<a href="tn3270://student.dp.utexas.edu/">utACCESS</a>
+<li>
+<a href=" http://mis.bus.utexas.edu/utcssa/">Chinese Students and Scholars Association</a>
+</ul>
+</td>
+</tr>
+</table>
+
+<br>
+<img src=http://www.cs.utexas.edu/users/syu/icons/rippleline.gif height=20><br>
+
+<h2>China and Chinese</h2>
+<table>
+<tr>
+<td><a href="http://www.cnc.ac.cn"><img src="http://www.cs.utexas.edu/users/syu/icons/china.gif"></a></td>
+<td>
+<ul>
+<li>
+<a href="http://www.bta.net.cn/">China</a>
+<li>
+<A HREF="http://herb.biol.uregina.ca/liu/chn-mag.html">Internet Distribut
+ed Chinese Magazines</A>
+<li>
+<a href="http://166.111.1.11/">Tsinghua WWW and BBS</a>
+<li>
+<a href="http://159.226.43.26/">NCIC WWW and BBS</a>
+<li>
+<A HREF="http://142.3.25.41/pub/novel/">Chinese Novels</A>
+<li>
+<A HREF="http://www.cnd.org/Classics/">Chinese Classics</A>
+</ul>
+</td>
+</tr>
+</table>
+
+
+<center>
+<img src=http://www.cs.utexas.edu/users/syu/icons/waveline.gif height=20><br>
+</center>
+
+<h2><a name =AUSTIN>About Austin
+</a>
+</h2>
+<table>
+<tr>
+<td><a href="http://www.quadralay.com/Austin/"><img
+src="http://www.cs.utexas.edu/users/syu/icons/austin.gif" border=0 alt="[AUSTIN]" align=center></a>
+</td>
+<td>
+<li>
+<a href="http://www.weather.com/weather/us/cities/TX_
+Austin.html">What's the Weather Today?</a>
+<li>
+<a href="http://www.quadralay.com/Austin/">Austin City
+Limits</a>
+<li>
+<a href="http://www.classifieds2000.com">Classified Ads.</a>
+<li>
+<A HREF="http://tile.net/news/austinfo.html">Items for sale in Austin</A>
+</td>
+</tr>
+</table>
+
+
+<center>
+<img src=http://www.cs.utexas.edu/users/syu/icons/waveline.gif height=20><br>
+</center>
+
+<H2>To Contact Me</H2>
+<DD>
+        <img src="http://www.cs.utexas.edu/users/syu/icons/emailp.gif"  HSPACE=20>
+        Address: 2910 Medical Arts, Apt. 306, <a href="http://www.ci.austin.tx.u
+s">Austin</a>, <a href="http://www.state.tx.us">Texas</a> 78705
+
+<DD>
+        <img src="http://www.cs.utexas.edu/users/syu/icons/popphone.gif"  HSPACE=20>
+        Voice:  (512) 494-1148 (H)
+<DD>
+        <img src="http://www.cs.utexas.edu/users/syu/icons/computer.gif"  HSPACE=20>
+        <A HREF="mailto:syu@cs.utexas.edu">
+        Email: syu@cs.utexas.edu</A>
+<DD>
+        <img src="http://www.cs.utexas.edu/users/syu/icons/target.gif"  HSPACE=20>
+        <A HREF="http://www.cs.utexas.edu/cgi/finger/syu">
+        Finger me</A>
+</DL><p>
+
+
+<center>
+<img src=http://www.cs.utexas.edu/users/syu/icons/waveline.gif height=20><br>
+</center>
+
+<center>
+<em>Your <a href="mailto:syu@cs.utexas.edu">comments and suggestions</a> are
+ highly appreciated.</em>
+<!img src="icons/compass_anim.gif"> 
+<p>
+You are the <IMG
+SRC="http://www.dla.utexas.edu/cgi-bin/nph-count?width=5&link=
+http://www.cs.utexas.edu/users/syu/Welcome.html", alt="[COUNTER]">th visitor
+since October 25, 1996.
+</center>
+</BODY>
+
+<!-- ====================================================================== -->
+
+</HTML>
+
+
+
+
+

@@ -1,0 +1,278 @@
+<HEAD> <TITLE> WAN YIK LEE </TITLE></HEAD>
+
+<BODY> 
+
+<H1>Wan Yik Lee
+	<a href="http://www.cs.utexas.edu/users/wylee/Pictures/wyl-in-lab-a.jpg">
+	<img align=bottom src="http://www.cs.utexas.edu/users/wylee/Pictures/wyl-in-lab-a-s.gif"></a></H1>
+
+<A  NAME = "Topics">
+
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+
+<H2> Hello Visitor Number <img ALIGN=bottom  src="http://www.cs.utexas.edu/pub/cgi/number.xbm/www/users/wylee/index.val"> </H2>
+
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+
+<H2> Topics </H2>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif"> 
+	<A HREF="#ResInt"><strong>Research Interests</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif"> 
+	<A HREF="#OtherInt"><strong>Other Interests</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#RPicts"><strong>Pictures of Robots I Have Worked On</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#ResRobots"><strong>Research Robots Worked On</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#HobRobots"><strong>Educational/Fun Robots Worked On</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#Pubs"><strong>Publications</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#Hotlist"><strong>My Hotlist</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#PInterest"><strong>Personal Interests</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#Misc"><strong>Miscellaneous</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#SComments"><strong>Sending Comments</strong></A><P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.red.gif">
+	<A HREF="#CntctInfo"><strong>Contact Information</strong></A><P>
+
+<p>
+
+<A NAME="ResInt">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+
+<H2> Research Interests </H2>
+
+<img src="http://www.cs.utexas.edu/images/stanford/ball.green.gif"> 
+	Mobile robot exploration, map learning and navigation.<P>
+<img src="http://www.cs.utexas.edu/images/stanford/ball.green.gif"> 
+	Intelligent control. <P>
+
+My <A HREF="http://www.cs.utexas.edu/users/wylee/my-phd-proposal-abstract.html">Ph.D. research work</A>
+is primarily on the Spatial Semantic Hierarchy approach to mobile
+robot exploration, map learning and navigation. 
+<P>
+
+<A NAME="OtherInt">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+
+<H2> Other Interests </H2>
+
+Software Engineering and Development in areas ranging from
+<p>
+
+<img src="http://www.cs.utexas.edu/images/stanford/ball.orange.gif"> 
+artificial intelligence including machine learning, neural networks,
+qualitative reasoning and machine vision, 
+<p>
+
+<img src="http://www.cs.utexas.edu/images/stanford/ball.orange.gif"> 
+operating system, networking system, embedded system and graphical user interface to 
+<p>
+
+<img src="http://www.cs.utexas.edu/images/stanford/ball.orange.gif"> 
+multimedia.
+<p>
+
+<a name = "RPicts">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+
+<h2> Pictures of Robots I Have Worked On</h2> 
+	<a href="http://www.cs.utexas.edu/users/wylee/Pictures/spot-closeup2.jpg"> 
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/spot-closeup2-s.gif"></a> 
+
+	<a href="http://www.cs.utexas.edu/users/wylee/Pictures/rover.gif"> 
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/rover-s2.gif"></a> 
+
+	<a href="http://www.cs.utexas.edu/users/wylee/Pictures/rhino2.jpg"> 
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/rhino4-s.gif"></a> 
+
+	<a href="http://www.cs.utexas.edu/users/wylee/Pictures/rcacing-se.jpg"> 
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/rcacing-se-s.gif"></a> 
+
+	<a href="http://www.cs.utexas.edu/users/wylee/Pictures/rkreta-besar-a.gif"> 
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/rkreta-besar-a-s.gif"></a> 
+
+	<a href="http://www.cs.utexas.edu/users/wylee/Pictures/rkreta-kicik.gif"> 
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/rkreta-kicik-s.gif"></a> 
+
+	<a href="http://www.cs.utexas.edu/users/wylee/more-rpicts.html"> 
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/more-rpicts.gif"></a> 
+
+<A NAME="ResRobots">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+
+<h2> Research Robots Worked On</h2>
+<ol>
+ <li>  <a href="http://www.cs.utexas.edu/users/wylee/spot-description.html"> <strong>Spot</strong></a> is a Real 
+	World Interface robot with a ring of 12 ultrasonic range sensors.
+
+ <li>  <a href="http://www.cs.utexas.edu/users/wylee/rover-description.html"><strong>Rover</Strong></a> is a 
+	home-built 150+ lb, 3.5 ft tall robot with a ring of 16 ultrasonic
+      	range sensors. 
+
+ <li>  <a href="http://www.cs.utexas.edu/users/wylee/rhino-description.html"><strong> Rhino Robotics Manipulator
+       </strong></a> is	a commercial robotics manipulator from Rhino Robots 
+	Inc.
+</ol>
+
+<A NAME="HobRobots">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+<h2> Educational/Fun Robots Worked On</h2>
+
+<ol>
+ <li> <a href="http://www.cs.utexas.edu/users/wylee/rcacing.html"><strong>RoboCacing</strong></a> is a Robotics Worm
+	built specifically for Robofest 5 1994 organized by the 
+        <A HREF="http://www.cs.utexas.edu/users/wylee/RobotGroup/index.html">Robot Group</a> in Austin, TX.
+
+ <li> <a href="http://www.cs.utexas.edu/users/wylee/rkreta.html"><Strong>RoboKreta-Besar</strong> and 
+        <strong>RoboKreta-Kicik</strong></a>
+        are two intelligent autonomous toy cars built using the chassis
+	and motors of two fast remote-controlled (RC) toy racing cars.
+
+</ol>
+
+<A NAME="Pubs">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+<h2> Publication </h2> 
+
+Some of <a href="http://www.cs.utexas.edu/users/wylee/my-papers.html"> my papers</a> on robotics and
+qualitative reasoning research are available online.
+My doctoral dissertation titled "The Spatial Semantic Hierarchy for
+a Physical Mobile Robot is also online"
+
+<p>
+
+<A NAME="Hotlist">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+<h2>My Hotlist</h2>
+
+<ul>
+
+<LI> <A HREF="http://www.cs.utexas.edu/users/wylee/RobotGroup/index.html">
+     	The Robot Group WWW Home Page</A>
+
+<LI> <A HREF="http://www.robotgroup.org"> The "Official" Robot Group WWW Home Page</A>
+
+<LI> <A HREF="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/StartingPoints/NetworkStartingPoints.html">
+	Starting Points for Internet Exploration</A>
+
+
+<LI> <A HREF="http://galaxy.einet.net/galaxy/./Engineering-and-Technology.html">
+	Engineering And Technology Resources</A>
+
+
+<LI> <A HREF="http://cuiwww.unige.ch/w3catalog">
+	World Wide Web Catalog</A>
+
+
+<! <LI> <!A HREF="gopher://gopher.tc.umn.edu:70/11/Other%20Gopher%20and%20Information%20Servers/all">
+<! 	All the Gopher Servers in the World</A>
+
+
+<LI> <A HREF="http://www.cis.ohio-state.edu/hypertext/faq/usenet/top.html">
+	Usenet Frequently Asked Questions</A>
+
+
+<LI> <A HREF="http://piglet.cs.umass.edu:4321/robotics.html">
+	Robotics Internet Resources Page</A>
+
+
+<LI> <A HREF="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/MetaIndex.html">
+     	Internet Resources Meta-Index at NCSA</A>
+
+<LI> <A HREF="http://www.mol-usa.com">
+     	Malaysia-Online</A>
+
+<LI> <A HREF="http://mid1.external.hp.com/stanb/badminton.html">
+     	Badminton HomePage</A>
+
+<LI> <A HREF="http://www.yahoo.com">
+     	Yahoo</A>
+
+
+</ul>
+
+<p> 
+<A NAME="SComments"> 
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif"> 
+<h2>Sending Comments</h2> 
+If you have any comments or notes on topics we may have a common interest in, 
+please email them to <address>wylee@cs.utexas.edu</address>
+
+<p>
+<A NAME="PInterest">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+<h2>Personal Interests</h2>
+Avid <a href="http://www.cs.utexas.edu/users/wylee/Papers/badwhim.ps.gz"> badminton</a> player.
+Member of the 
+<a href="http://mid1.external.hp.com/stanb/usba/usba.html">
+United States Badminton Association (USBA).</a>
+<p>
+	<a href="http://mid1.external.hp.com/stanb/usba/usba.html">
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/Pictures/usba.gif"></a> 
+<a href="http://mid1.external.hp.com/stanb/badminton.html"> Badminton WEB page 
+</a> 
+<p>
+Member of <a href="http://www.cs.utexas.edu/users/wylee/RobotGroup/index.html">the Robot Group</a>.
+	<a href="http://www.cs.utexas.edu/users/wylee/RobotGroup/index.html">
+	<img align=top src="http://www.cs.utexas.edu/users/wylee/RobotGroup/.RG-logo2-smaller2.gif"></a> 
+<p> 
+
+<p>
+Love playing the guitar and the clarinet.
+<ul>
+<li> Some interesting <a href="http://www.cs.utexas.edu/users/wylee/guitars.html"> WWW pages on guitar</a>.
+<p>
+<li> Some interesting <a href="http://www.cs.utexas.edu/users/wylee/clarinet.html"> WWW pages on clarinet</a>.
+</ul>
+
+<p> 
+
+
+<p>
+<A NAME="Misc">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+<h2>Miscellaneous</h2>
+Interested in <a href="http://www.primenet.com/~martial/">
+Martial Arts</a> as well as Martial Arts movies.
+
+<p> 
+
+<A NAME="CntctInfo">
+<img src="http://www.cs.utexas.edu/users/wylee/line.colorbar.gif">
+
+<h2>Contact Information</h2>
+
+<dl>
+<dt> Email:  wylee@cs.utexas.edu 
+<dt> Office: Taylor Hall 5.104
+<dt> Phone:  (512) 471-9572 (off.) 
+<dt> Phone:  (512) 471-9563 (lab.) 
+<dt> Fax:    (512) 471-8885 
+<dt> Mail:
+<dd>   Computer Science Department
+<dd>   University of Texas at Austin
+<dd>   Austin, Texas 78712
+<dt> <a href="http://www.cs.utexas.edu/bin/finger/wylee">Finger me</a>.<p>
+</dl>
+
+<p>
+
+<A HREF="#Topics"><IMG SRC="http://www.cs.utexas.edu/images/stanford/arrow.blue.right.gif">
+	Back to <strong>Topics</strong> list.<A>
+<P>
+<A HREF="http://www.cs.utexas.edu/users/qr/welcome.html"><IMG SRC="http://www.cs.utexas.edu/images/stanford/arrow.blue.right.gif">
+	To UTexas Austin Qualitative Reasoning Research Group WEB page.</A>
+<P>
+<A HREF="http://www.cs.utexas.edu/users/qr/robotics.html"><IMG SRC="http://www.cs.utexas.edu/images/stanford/arrow.blue.right.gif">
+	To UTexas Austin Robotics Research Group WEB page.</A>
+<P>
+
+
+
+<address>WYL</address>
+
+</BODY>

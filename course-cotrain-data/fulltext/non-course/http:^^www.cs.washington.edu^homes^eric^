@@ -1,0 +1,114 @@
+<html>
+
+<head>
+	<title>Eric Anderson's Home Page</title>
+</head>
+
+<h1> <img align=bottom src=http://www.cs.washington.edu/homes/eric/pix/erichead.gif> 
+<a name="top">Eric J. Anderson</a><br>
+
+</h1>
+
+<hr>
+<p>
+
+<H3>Where to find me:</H3>
+
+<dl>
+<dt> <b>UW:</b> 
+<DD> Sieg Hall 427
+<DD> <a href="http://www.cs.washington.edu/">Department of Computer Science & Engineering</a>
+<dd> <a href="http://www.washington.edu/">University of Washington</a>
+<dd> Box 352350</a>
+<dd> <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195-2350
+<dd> (206) 543-5118
+
+<p>
+<dt> <b>Home (new!):</b> 
+<dd> 1812 N. 38th Street
+<dd> <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98103
+<dd> (206) 632-8067
+</dl>
+<hr>
+<h4> Why this page is no longer black</h4>
+<p> In honor of the recent (June 12)
+<a href=http://www.eff.org/Alerts/HTML/960612_aclu_v_reno_decision.html>decision</a>
+in <em>ACLU v. Reno</em>, this page is no longer black.  Mind you, the
+decision is merely an interim step (you could read my 
+<a href="http://www.cs.washington.edu/homes/eric/Update.html">take</a> on it), so I'm probably still committing a 
+<a
+href="http://www.cs.washington.edu/homes/eric/Pacifica.html">felony</a>.
+(And so should we all, if we care about speech and freedom and the
+marketplace of ideas.)
+<p>
+<hr>
+<h4> Facts About Me </h4>
+<hr>
+<img align=top src=http://www.cs.washington.edu/homes/eric/pix/tinybullet.gif>
+I'm a third-year graduate student in computer science.  That means I
+mostly panic about my quals project.
+<p>
+
+<img align=top src=http://www.cs.washington.edu/homes/eric/pix/tinybullet.gif>
+I'm also trying to write some papers with 
+Prof. <a href="http://www.cs.duke.edu/cgi-bin/facinfo?hsg">Henry Greenside</a>
+of <a href="http://www.cs.duke.edu/">Duke University</a>
+(and recently finished a <a href=http://www.cs.washington.edu/homes/eric/abstract.html>
+master's thesis </a>
+by myself) on
+steady-state solutions of a particular nonlinear biharmonic PDE.
+Because the stability criterion for explicit methods is so restrictive
+(a fourth power of the spatial resolution), implicit timestepping
+methods such as backwards Euler are necessary.  The numerical analysis
+issues involve Newton's method for solving the implicit nonlinear
+equations, sparse matrix solution methods for solving for the Newton
+step, and some interplay between them.
+<p>
+And the <a href="http://www.cs.washington.edu/homes/eric/pictures.html">pictures <img src=http://www.cs.washington.edu/homes/eric/rd.gif 
+alt="(picture)" align=middle> </a> can be really spiffy.
+<p>
+<img align=top src=http://www.cs.washington.edu/homes/eric/pix/tinybullet.gif>
+I'm working on an <a href=http://www.cs.washington.edu/homes/eric/nbody.html>n-body</a> code for 
+astrophysics simulation.  This work is in 
+support of a project on <a
+href="http://www.cs.washington.edu/homes/anderson/papers/tree.ps">
+data structures</a>
+by Prof. <a href="http://www.cs.washington.edu/homes/anderson">Richard Anderson</a>
+<p>
+<img align=top src=http://www.cs.washington.edu/homes/eric/pix/tinybullet.gif>
+I'm working on a signal processing/computer music 
+<a href=http://www.cs.washington.edu/homes/eric/computer_music.html>project</a> aiming at automatic 
+transcription from an acoustic signal.  Prof.
+<a href="http://www.cs.washington.edu/homes/karlin">Anna Karlin</a> is
+the musician who got me interested in this project.
+<p>
+<img align=top src=http://www.cs.washington.edu/homes/eric/pix/tinybullet.gif>
+ Like everybody else, I've got a page of <a
+href="http://www.cs.washington.edu/homes/eric/java/AppletPage.html"><img src="http://www.cs.washington.edu/homes/eric/java/apple.gif" alt="" align=bottom>
+applets</a>.  (This first link is just text and small graphics.)
+<!-- 
+If anybody really wants, here is some  
+<a href="http://www.cs.washington.edu/homes/eric/section143.html">section material</a> on C++ that I prepared
+for <a
+href="http://www.cs.washington.edu/education/courses/143/">CSE
+143</a> last fall. 
+-->
+<p>
+<img align=top src=http://www.cs.washington.edu/homes/eric/pix/tinybullet.gif>
+Like everybody else, I've got a page of <a href=http://www.cs.washington.edu/homes/eric/snapshots.html>
+snapshots</a>, mostly family.  (I can now prove I've got all those brothers.)
+<p>
+<img align=top src=http://www.cs.washington.edu/homes/eric/pix/tinybullet.gif>
+ Finally, here's the <a href="http://www.cs.washington.edu/homes/eric/weather.html">weather in Seattle</a>.
+<p>
+
+</body>
+<address>
+eric@cs.washington.edu <br>
+meanders@u.washington.edu <br>
+27 Sept 1996 <br>
+</address>
+</html>
+
+
+

@@ -1,0 +1,75 @@
+<html>
+<HEAD>
+<TITLE>Bill Canfield</TITLE>
+<BODY>
+
+<center>
+<A HREF="http://www.cs.utexas.edu/users/boyer/fp/" ADD_DATE="818279947" LAST_VISIT="828483443"><img src = http://www.cs.utexas.edu/users/canfield/newhome8.jpg></A>
+<h1>Home!</h1>
+</center>
+<p><p>
+
+<hr>
+
+<h2>Business</h2>
+<ul>
+<li>My <a href = http://www.cs.utexas.edu/users/canfield/resume.ps>resume</a> (postscript).
+
+<li>In Spring 1996 I had to give a <a href = http://www.cs.utexas.edu/users/canfield/printslides.ps>report</a> to my
+	EE382C ("Software for Highly-Available Distributed
+	Systems") class.  The slides talk about
+	efforts to use
+	<a href = http://www.cs.cmu.edu/afs/cs/project/art-6/www/>
+	RT-Mach</a> to implement some of 
+	<a href = http://www-cse.ucsd.edu/users/flaviu/>
+	Flaviu Cristian</a>'s distributed
+	algorithms (work done for 
+	<a href= http://www.cs.utexas.edu/users/cpg/RTS/mok.html>
+	Prof. Al Mok</a>; built on some work by 
+	<a href= http://www.cs.utexas.edu/users/liugt>Guangtian Liu</a>).
+
+<li>I am currently working on a hardware verification project at 
+<a href = http://www.ibm.com/>IBM</a> in the
+<a href = http://www.rs6000.ibm.com/>RS/6000</a> division.
+It ties in with my Ph.D research under Professor 
+<a href = http://www.cs.utexas.edu/users/emerson/>Allen Emerson</a>.
+</ul>
+
+<h2>Pleasure</h2>
+<ul>
+<li><a href= http://www.cs.utexas.edu/users/canfield/domus>Domestic bliss</a> department:  
+	photos of my wife Carla and our newborn
+	daughter Ruth Claire (3/13/96).
+
+<li>Before parenthood struck, travel and beer were high priorities.
+        Somewhere between the two lies the enjoyment I get from peeling
+	<a href= http://www.cs.utexas.edu/users/canfield/beerlab>beer labels</a> off of bottles in foreign
+	lands.
+</ul>
+<p>
+<h2>Humor from various sources</h2>
+<ul>
+<li>The <a href = http://ftp.std.com/homepages/stevec/SSII/intro.html>
+	Sofasphere II</a> project.
+<li>Some <a href = http://www.cs.utexas.edu/users/canfield/olestra.haiku>haikus</a> about Olestra, the new
+	FDA-approved fat substitute.
+<li>Speaking of poetry... here is an interesting ode to 
+	<a href = http://www.cs.utexas.edu/users/canfield/women.song>women</a>.
+<li>Some disinformation about 
+	<a href = http://www.dole96.org/>Bob Dole</a>.
+</ul>
+<p>
+
+</body>
+
+<ADDRESS>
+<hr>
+<strong><a href = "mailto: canfield@cs.utexas.edu">canfield@cs.utexas.edu
+	</strong></a><br>
+Last updated:  29 April 96<br>
+Thanks to Todd Peters (peterst@mail.utexas.edu) for many humor links and
+the "Home" picture above.  (He's too cool for web pages.)<br>
+<a href="http://www.cs.utexas.edu/">UT CS home page</a>.
+</ADDRESS>
+
+</html>

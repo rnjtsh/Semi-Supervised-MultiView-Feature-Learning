@@ -1,0 +1,128 @@
+`<HTML>
+<head>
+<title>CSE 567 Home Page (A 96)</title>
+
+</head>
+
+<!-- 
+    Note on Links:  to archive the web at the end of fall quarter, this file
+    should be copied into the 94a subdirectory.  I think all that will
+    need to be changed is to remove the 94a/ prefix from the links below.
+-->
+
+<body bgcolor="#eeffff"  text="#000000"  link="#0000ee" vlink="501080" alink="ff0000">
+
+<h1>CSE 567: Principles of Digital Systems Design </h1>
+<h3>Carl Ebeling, Fall 1996 </h2>
+<h2>Welcome to the 567 Home Page!</h2>
+
+<hr>
+
+<h3>Course Information</h3>
+<ul>
+  <li><b>Time and Place</b>: MWF 1:30-2:20 - Loew 201
+  <li><a href="http://www.cs.washington.edu/education/courses/567/announcements.html"><b>IMPORTANT ANNOUNCEMENTS</b></a>
+<!-- Last Updated <IMG SRC="http://www.cs.washington.edu/education/courses/567/announcements-last-update.gif"> -->
+  <li><a href="http://www.cs.washington.edu/education/courses/567/misc/summary.html"><b>Summary</b></a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/misc/syllabus.html"><b>Syllabus</b></a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/misc/books.html"><b>Text books</b></a>
+  <li><b>Staff:</b>
+  <ul>
+    <li><a href="http://www.cs.washington.edu/people/faculty/ebeling.html">
+	Carl Ebeling</a>: instructor<br>
+	ebeling@cs<br>
+	Office Hours: Wednesday 2:30; Friday 11:30 (Sieg 215)<BR>
+    <li><a href="http://www.cs.washington.edu/homes/paul/">
+	Paul Franklin</a> TA <br>
+	paul@cs<br>
+	Office Hours: Monday 3:30; Thursday 1:30 (Sieg 424)<br>
+    <li><a href="http://www.cs.washington.edu/homes/hineskj/">
+	Ken Hines</a> TA <br>
+	hineskj@cs<br>
+	Office Hours: Tuesday 1:30; Wednesday 3:30 [Friday, Oct. 25, 12:00] (Sieg 424)<br>
+    <li><a href="http://www.cs.washington.edu/homes/larry/"> Larry
+	McMurchie</a>: Research Staff and CAD Tools Guru<br>
+	larry@cs<br>
+  </ul>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/misc/document.html"><b>Documentation for simulation and
+    synthesis</b></a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/homework/pamette.ps"><b>How to design for the Pamette
+  board</b></a>.  (Mostly complete, still under construction.)
+  <li><a href="http://www.cs.washington.edu/education/courses/567/misc/students.html"><b>Students</b></a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/misc/groups.html"><b>Working in groups</b></a>
+<!--
+  <li><a href="http://www.cs.washington.edu/education/courses/567/misc/review.html"><b>Final Exam review: Topics covered this quarter</b></a>
+-->
+</ul>
+
+<h3>Homework Assignments</h3>
+<ul>
+  <li>A <a href="http://www.cs.washington.edu/education/courses/567/homework/note.html">note</a> on doing homework.
+  <li><a href="http://www.cs.washington.edu/education/courses/567/homework/written1.html">Homework 1</a>: due 
+Friday, Oct. 11, beginning of class.
+  <li><b>Homework 2:</b> Handed out in class, due Oct. 18, beginning of class.
+  <li><a href="http://www.cs.washington.edu/education/courses/567/homework/written3.html">Homework 3</a>: due Monday,
+Oct. 28, beginning of class.
+  <li><a href="http://www.cs.washington.edu/education/courses/567/homework/written4.html">Homework 4</a>: due Wednesday,
+Nov. 6, beginning of class.
+  <li><a href="http://www.cs.washington.edu/education/courses/567/homework/written5.html">Homework 5</a>: due Friday,
+Nov. 15, beginning of class.
+  <li><a href="http://www.cs.washington.edu/education/courses/567/homework/written6.html">Homework 6</a>: due Monday,
+Dec. 15, beginning of class.
+<!--
+  <li><a href="http://www.cs.washington.edu/education/courses/567/homework/written4.html">Homework 4</a>: due Friday,
+May 31, beginning of class
+-->
+</ul>
+
+<h3>Handouts</h3>
+<!--
+<ol>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/cl1.pdf">Combinational Logic I</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/cl2.pdf">Combinational Logic II</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/sl1.pdf">Sequential Logic I</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/sl2.pdf">Sequential Logic II</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/f1.pdf">FPGAs I</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/f2.pdf">FPGAs II</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/m.pdf">Memories</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/handouts/c.pdf">Communication</a>
+-->
+</ol>
+
+<h3>Other Information</h3>
+<ul>
+  <li><a href="http://www.cs.washington.edu/">Department of Computer Science and Engineering</a> home page
+  <li> <a href="http://www-ee.stanford.edu/soe/ieee/eesites.html">
+EE/CS Mother Site</a>
+  <li> <a href="http://www.mrc.uidaho.edu/vlsi/">List of VLSI links</a>
+  <li> <a href="http://www.mrc.uidaho.edu/vlsi/com.html">ComprehensiveList of IC
+Manufactures</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/567/murphy.html">Murphy's Law</a>
+  <li><a href="http://www.unitedmedia.com/comics/dilbert/archive/">Recent Dilbert Comics</a>
+<!--
+  <li> <a href="http://webdirect.national.com/nscO/o">National Semiconductor
+       Data Sheets</a>
+  <li> <a href="http://motserv.indirect.com">Motorola's Data Book Server</a>
+  <li> <a href="http://www.semiconducters.philips.com">Philips Semiconducter's Data Book Server</a>
+  <li> <a href="http://www.micron.com/mti/marcomm/docs/ds/">
+	Micron Technology Data Sheets</a>
+-->
+</ul>
+
+<hr>
+<b>The CSE567 Web:</b> <br>
+Copyright 1995, 1996; Department of Computer Science and Engineering, University of Washington.
+<p>
+Portions of the CSE567 Web may be reprinted or adapted for academic nonprofit 
+purposes, providing the source is accurately quoted and duly credited.<br>
+
+<a href="http://www.eeb.ele.tue.nl/software/counter.html">
+<img src="http://www.cs.washington.edu/htbin-post/speed/nph-count?width=5&link=http://www.cs.washington.edu/education/courses/567/index.html"></a>
+
+</body>
+<address>
+<hr>
+ebeling@cs.washington.edu
+</address>
+<p>
+</html>

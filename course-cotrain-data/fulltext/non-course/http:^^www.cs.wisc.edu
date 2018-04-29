@@ -1,0 +1,57 @@
+<HTML>
+<HEAD>
+<TITLE>UW CS Home Page</TITLE>
+<BASE HREF="http://www.cs.wisc.edu/">
+</HEAD>
+
+<BODY>
+<CENTER>
+<A HREF="http://www.wisc.edu/">
+<IMG border=0 ALIGN=TOP SRC="http://www.cs.wisc.edu/pics/uwlogo.half.gif" ALT="University of Wisconsin - Madison"></A><H1>Computer Sciences Department</H1>
+</CENTER>
+<HR width="70%" size="9">
+<H3>About the Computer Sciences Department</H3>
+Our department was formed in 1963 and is consistently ranked as one of the 
+top ten computer science departments in the country. Faculty members have 
+received fourteen Presidential Young Investigator awards, two Packard 
+Fellowships, an NSF Faculty Award for Women Scientists and Engineers, a 
+DEC Incentives for Excellence Award, three ACM doctoral dissertation awards, 
+and three IBM Faculty Development Awards.
+<HR>
+
+<UL>
+  <LI> <A HREF="http://www.cs.wisc.edu/areas.html">The Computer Sciences Department by area</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/rsch-info/">Research projects and information</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/directories/">People in the Computer Sciences Department</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/~pubs/grad-guidebook/node9.html">Courses offered</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/directories/classes.html">Fall 1996 classes</A>
+	 and <A HREF="http://www.cs.wisc.edu/~bobh/timetable">future timetables</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/trs.html">Technical reports</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/csl/">Computer Systems Lab (CSL)</A> 
+  <LI> <A HREF="http://www.cs.wisc.edu/csl/faq/">CSL's answers to frequently asked questions</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/~alumni/alumni.html">Computer Sciences alumni information</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/~pubs/grad-guidebook/">Graduate Guidebook</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/~pubs/ugrad-guidebook/">Undergraduate Guidebook</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/~pubs/annual-report/">The department's annual report</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/utils.html">CS online utilities</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/local.html">UW-Madison local services</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/groups.html">CS-related organizations</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/logs/">Colophon and statistics for this server</A>
+  <LI> <A HREF="http://www.cs.wisc.edu/info.html">Useful info</A>
+</UL>
+
+<HR>
+<H4>
+Computer Sciences Department<BR>
+University of Wisconsin - Madison<BR>
+5355a Computer Sciences and Statistics<BR>
+1210 West Dayton Street<BR>
+Madison, WI 53706<BR>
+cs@cs.wisc.edu / voice: 608-262-1204 / fax: 608-262-9777
+</H4>
+
+<ADDRESS>
+ <A HREF="http://www.cs.wisc.edu/forms/mailwww.html">www@cs.wisc.edu</A>
+</ADDRESS>
+</BODY>
+</HTML>

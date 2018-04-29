@@ -1,0 +1,82 @@
+<HTML>
+<head>
+<title>CSE477 Home Page</title>
+
+</head>
+
+<h1>CSE477: Digital System Design</h1>
+<h3>Steve Burns, Spring 1996 </h3>
+<h2>Welcome to the 477 Home Page!</h2>
+
+<hr>
+
+<h3>Course Information</h3>
+<ul>
+  <li><b>Time and Place</b>: MWF 1:30-2:30 - Loew 112
+  <li><a href="http://www.cs.washington.edu/education/courses/477/announcements.html"><b>IMPORTANT ANNOUNCEMENTS</b></a> Last Updated <IMG SRC="http://www.cs.washington.edu/education/courses/477/announcements-last-update.gif">
+  <li><a href="http://www.cs.washington.edu/education/courses/477/misc/summary.html"><b>Summary</b></a>
+  <li><a href="http://www.cs.washington.edu/education/courses/477/misc/syllabus.html"><b>Syllabus</b></a>
+  <li><a href="http://www.cs.washington.edu/education/courses/477/misc/schedule.html"><b>Schedule</b></a>
+  <li><a href="http://www.cs.washington.edu/education/courses/477/misc/policies.html"><b>Lab policies and hours</b></a>
+  <li><b>Staff:</b>
+  <ul>
+    <li><a href="http://www.cs.washington.edu/homes/burns/">Steve
+        Burns</a>: instructor<br>
+    <li><a href="http://www.cs.washington.edu/homes/kcsmith/">Kent Smith
+        </a> TA <br>
+    <li><a href="http://www.cs.washington.edu/homes/casey/">Casey Anderson
+        </a> TA <br>
+    <li>Stephen Lee, Hardware Laboratory manager
+  </ul>
+  <li><a href="http://www.cs.washington.edu/education/courses/477/misc/hours.html"><b>Office hours</b></a> 
+  <li><a href="http://www.cs.washington.edu/education/courses/477/misc/students.html"><b>Students</b></a>
+</ul>
+
+<h3>Lab Assignments</h3>
+<ul>
+  <li><a href="http://www.cs.washington.edu/education/courses/477/assignments/lab1/lab1.html">Lab 1</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/477/assignments/lab2/lab2.html">Lab 2</a>
+  <li><a href="http://www.cs.washington.edu/education/courses/477/assignments/lab3/lab3.html">Lab 3</a>
+</ul>
+
+<h3>MC68HC11 Info</h3>
+<ul>
+  <li><a href="ftp://cher.media.mit.edu/pub/projects/miniboard/docs/6811intr.PS">Nice Introduction to the 6811 by Fred Martin</a>
+</ul>
+
+<h3>Robotics Societies</h3>
+<ul>
+  <li><a href="http://www.hhhh.org/srs">Seattle Robotics Society</a>
+  <li><a href="http://www.rdrop.com/users/marvin">Portland Area Robotics Society</a>
+</ul>
+
+<h3>Other Information</h3>
+<ul>
+  <li><a href="http://www.cs.washington.edu/">Department of Computer Science and Engineering</a> home page
+  <li><a href="http://www.cs.washington.edu/education/courses/477/murphy.html">Murphy's Law</a>
+  <li><a href="http://www.unitedmedia.com/comics/dilbert/archive/">Recent Dilbert Comics</a>
+  <li>A collection of <a href="http://www/homes/gaetano/resources.html">WWW resources (care of Gaetano Borriello)</a>
+  <li> <a href="http://www.cs.washington.edu/education/courses/477//http://www.sei-europe.com:8008/sei/product.html">Comprehensive List of Sources</a>
+  <li> <a href="http://www.national.com/nscO/o">National Semiconductor
+       Data Sheets</a>
+  <li> <a href="http://motserv.indirect.com">Motorola's Data Book Server</a>
+  <li> <a href="http://www.semiconducters.philips.com">Philips Semiconducter's Data Book Server</a>
+</ul>
+
+<hr>
+<b>The CSE477 Web:</b> <br>
+Copyright 1995, 1996; Department of Computer Science and Engineering, University of Washington.
+<p>
+Portions of the CSE477 Web may be reprinted or adapted for academic nonprofit 
+purposes, providing the source is accurately quoted and duly credited.<br>
+
+<a href="http://www.eeb.ele.tue.nl/software/counter.html">
+<img src="http://www.cs.washington.edu/htbin-post/speed/nph-count?width=5&link=http://www.cs.washington.edu/education/courses/477/index.html"></a>
+
+</body>
+<address>
+<hr>
+burns@cs.washington.edu
+</address>
+<p>
+</html>

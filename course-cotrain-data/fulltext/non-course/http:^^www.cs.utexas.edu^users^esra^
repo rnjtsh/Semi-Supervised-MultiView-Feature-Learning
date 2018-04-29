@@ -1,0 +1,108 @@
+
+<HTML>
+
+<!-- This document is in HyperText Markup
+Language.  H$
+  -- in angle brackets. This is a comment tag and
+won'$
+  -- of your document. -->
+
+<!--
+=================================================-->
+
+<HEAD>
+
+<TITLE>
+Esra ERDEM's Homepage
+</TITLE>
+
+</HEAD>
+
+<!--
+================================================= -->
+
+<BODY>
+
+
+<H1> 
+<!--
+<A HREF="http://www.cs.utexas.edu/users/esra/cgi/finger/esra">
+Esra ERDEM</A></H1> -->
+
+<A HREF="http://www.cs.utexas.edu/users/esra/tweety.gif">
+Esra ERDEM </A> </H1>
+
+M.S. Student in the
+<A HREF="http://www.cs.utexas.edu">Department of Computer Sciences </A>,<BR>
+at <A HREF="http://www.utexas.edu">The University of Texas at Austin </A><BR>
+ 
+<!-- <IMG SRC="http://www.cs.utexas.edu/users/esra/photo.gif" ALIGN=bottom ALT=> -->
+<!--<A HREF="http://www.cs.utexas.edu/cgi/rwho/esra"> 
+ESRA ERDEM
+</A>  
+</H1> -->
+
+
+<!-- <HR>
+<H2>Education</H2> -->  
+<P>
+B.S. in Computer Sciences, 
+<A HREF="http://www.cs.bilkent.edu.tr"> Department of Computer Engineering and
+Information Science</A>, 
+<A HREF="http://www.bilkent.edu.tr">Bilkent University </A>, 
+<A HREF="http://www.turkey.org/turkey">Turkey</A>(1996)
+<P>
+
+<H2>Areas of Interest</H2>
+
+<P>
+<UL>
+<LI>(Machine) Learning
+<LI>Inductive Logic Programming
+<LI>(Non-monotonic) Reasoning
+<!-- Commonsense Reasoning -->
+</UL>
+
+<P>   
+
+<H2>Topics of Interest in Cognitive Science</H2>
+<P>
+<UL>
+<LI>Learning
+<LI>Reasoning: children's theories of mind, non-monotonic reasoning, 
+commonsense reasoning
+<LI>Knowledge Representation
+<LI>Emotions
+<LI>Philosophy of Mind
+</UL>
+<P>
+
+<HR>
+
+<H2>Contact Information</H2>
+<EM> 
+<PRE> 
+<B>Postal:</B> Department of Computer Sciences  
+        The University of Texas at Austin 
+        Austin, TX 78712 
+        USA 
+<B>Voice:</B> +1 (512) 471-9760 
+<B>Fax:</B> +1 (512) 471-8885 
+<B>E-Mail:</B> esra@cs.utexas.edu  
+</PRE>
+</EM>
+
+<!--
+<HR>
+
+
+<ADDRESS>esra@cs.utexas.edu</ADDRESS> -->        
+        
+</BODY>
+
+<!--
+=================================================$
+
+</HTML>
+
+

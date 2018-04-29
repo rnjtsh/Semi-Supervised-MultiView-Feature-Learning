@@ -1,0 +1,45 @@
+<HTML>
+<HEAD><TITLE>Rwo-Hsi Wang's Homepage</TITLE></HEAD>
+
+<BODY BACKGROUND="bg1.gif"> 
+
+<BODY>
+
+<H1>Rwo-Hsi Wang</H1>
+
+<hr>
+Welcome!  I am currently constructing this page and 
+will add more contents as time permits.
+<hr>
+
+<H2>About Myself</H2>
+
+<ul>
+<li> I am currently a PhD candidate in the <a href="http://www.cs.utexas.edu/>
+Department of Computer Sciences </a> at the
+<a href="http://www.cs.utexas.edu/docs/university.html">University of 
+Texas at Austin</a>.  
+
+<li> My research interests include
+<a href="http://www.cs.utexas.edu/users/cpg/RTS/"> real-time systems</a>,
+rule-based program timing analysis, software engineering,
+artificial intelligence, and computer Go.
+</ul>
+
+<H2>Publications</H2>
+
+<ul>
+I have a list of <a href=http://www.cs.utexas.edu/users/rhwang/pub>publications</a> available for browsing,
+if you have interest.
+</ul>
+
+<hr>
+<i>
+This page was last updated on Tue Jan 16 02:25:08 CST 1996.<BR>
+Please send your comments to 
+<A HREF=mailto:rhwang@cs.utexas.edu>rhwang@cs.utexas.edu</A>.
+</i>
+
+</BODY>
+</HTML>
+

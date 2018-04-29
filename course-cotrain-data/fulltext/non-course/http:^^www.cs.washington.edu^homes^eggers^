@@ -1,0 +1,136 @@
+<HTML>
+
+<HEAD>
+<title> Susan Eggers </title>
+</HEAD>
+
+<H1>
+<a name="top">Susan Eggers </a> <br>
+</H1>
+
+
+<IMG SRC= > http://www.cs.washington.edu/homes/eggers/<P>
+
+<hr>
+
+<a href = "http://www.cs.washington.edu/"> Department of Computer
+Science and Engineering </a> <br>
+<a href = "http://www.cac.washington.edu/"> University of Washington
+</a>, Box 352350 <br>
+<a href = "http://www.cs.washington.edu/area/"> Seattle, WA </a>
+98195-2350 USA <br> <br>
+Voice:  (206) 543-2118 <br>
+Fax:    (206) 543-2969 <br> <br>
+email:   eggers@cs.washington.edu <br>
+Office:   308 Sieg Hall <br>
+
+<hr>
+
+<P>
+
+<H2>
+Research Interests:
+</H2>
+
+Computer architecture and back-end compilation, with an emphasis on
+experimental performance analysis.  Current work is on issues in
+compiler optimizations (dynamic compilation, shared data optimizations
+and instruction scheduling) and processor design (multithreaded
+architectures).
+
+<br>
+
+<P>
+
+<H2>
+Current Research Projects:
+</H2>
+
+<ul>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/fs.html">
+Compile-time algorithms to reduce false sharing</a><br>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/dc.html">
+Dynamic compilation</a><br>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/multithread.html">
+Multithreaded architectures</a><br>
+
+<li> <a href =
+"http://www.cs.washington.edu/research/projects/spin/www"> SPIN</a>
+<br>
+
+</ul>
+
+
+<h2>
+Previous Research:
+</h2>
+
+<ul>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/coherency.html">
+Cache coherency</a> <br>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/cs.html">
+Code scheduling</a> <br>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/pf.html">
+Compile-time prefetching on shared memory machines</a> <br>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/misc.html">
+Miscellaneous</a> <br>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Research/tools.html">
+Tools and workload</a> <br>
+
+</ul>
+
+<h2>
+News About ASPLOS
+</h2>
+
+
+<ul>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Asplos/committee.html">
+Program Committee</a>
+
+<li> <a href =
+"http://www.cs.washington.edu/homes/eggers/Asplos/cfp.html">
+Call for Papers</a>
+
+<li> <a href = "http://cag-www.lcs.mit.edu/asplos7">
+The ASPLOS Homepage</a> (for more information about ASPLOS)
+
+</ul>
+
+<h2>
+Looking for a Research Project?
+</h2>
+
+Click <a href =
+"http://www.cs.washington.edu/homes/eggers/Project/suggestions.html">
+here</a> for a list of projects you might do for a quals project, a
+masters degree, or the beginning of a thesis.
+
+
+<P>
+
+</BODY>
+
+<hr>
+
+<i>Last updated, 2/28/96</i>
+
+</HTML>

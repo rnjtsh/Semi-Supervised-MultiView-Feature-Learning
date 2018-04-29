@@ -1,0 +1,148 @@
+<html>
+<head>
+<title>
+Home page for Jack L. Lo
+</title>
+</head>
+<body background="gif/waterpl.jpg"
+		bgcolor="#FFFFFF"
+		TEXT="#000000"
+		LINK="#408080"
+        	VLINK="#828282"
+		ALINK="#0080C0">
+
+<h1>Jack L. Lo</h1>
+
+<a href="http://www.cs.washington.edu/htbin-post/finger/jlo"><em>jlo@cs.washington.edu </em> <br>
+<a href="http://www.cs.washington.edu/">Department of Computer Science and Engineering, </a> <br>
+<a href="http://www.uwtc.washington.edu/UWHome.html">University of Washington, </a> Box 352350 </a> <br>
+<a href="http://www.cs.washington.edu/area/">Seattle, WA </a> 98195-2350<br>
+
+<p>
+<hr>
+
+<IMG src="http://www.cs.washington.edu/homes/jlo/construction.jpg">
+<p>
+
+This home page is currently under construction.
+
+<p>
+<hr>
+<p>
+
+<h2> Research</h2>
+
+<h3> Papers</h3>
+<ul>
+<li><i> Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading</i> (<a href="http://www.cs.washington.edu/research/smt/papers/tlpabstract.html">Abstract</a>, <a href="http://www.cs.washington.edu/research/smt/papers/tlp2ilp.ps">Postscript</a>) <br>
+
+<a href="http://www.cs.washington.edu/homes/jlo">Jack L. Lo</a>,
+<a href="http://www.cs.washington.edu/homes/eggers">Susan J. Eggers</a>, 
+Joel S. Emer, 
+<a href="http://www.cs.washington.edu/homes/levy">Henry M. Levy</a>,
+Rebecca L. Stamm, and
+<a href="http://www.cs.washington.edu/homes/tullsen">Dean M. Tullsen</a>
+ <br>
+Submitted for publication, July 1996.
+<br>
+<br>
+<li> Exploiting Choice: Instruction Fetch and Issue on an Implementable Simultaneous Multithreading Processor (<a href="http://www.cs.washington.edu/homes/jlo/papers/isca96abstract.html">Abstract</a>, <a href="http://www.cs.washington.edu/homes/jlo/papers/ISCA96.ps">Postscript</a>) <br>
+<center>
+<a href="http://www.cs.washington.edu/homes/tullsen">Dean M. Tullsen</a>,
+<a href="http://www.cs.washington.edu/homes/eggers">Susan J. Eggers</a>, 
+Joel S. Emer, 
+<a href="http://www.cs.washington.edu/homes/levy">Henry M. Levy</a>,
+ Jack L. Lo, and Rebecca L. Stamm
+ <br>
+In <i>Proceedings of the 23rd Annual International Symposium on Computer Architecture, Philadelphia, PA, May 1996.
+</i><br>
+</center>
+<br>
+
+<li> Compilation Issues for a Simultaneous Multithreading Processor 
+(<a href="http://www.cs.washington.edu/homes/jlo/papers/smtc_abstract.ps">Postscript</a>) <br>
+<center>
+ Jack L. Lo, 
+<a href="http://www.cs.washington.edu/homes/eggers">Susan J. Eggers</a>, 
+<a href="http://www.cs.washington.edu/homes/levy">Henry M. Levy</a>, and
+<a href="http://www.cs.washington.edu/homes/tullsen">Dean M. Tullsen</a> <br>
+In <i>Proceedings of the First SUIF Compiler Workshop, Stanford, CA, January 1996, p. 146-7.
+</i><br>
+</center>
+<br>
+<li> Improving balanced scheduling with compiler optimizations that increase instruction-level parallelism (<a href="http://www.cs.washington.edu/homes/jlo/papers/pldi95abstract.html">Abstract</a>, <a href="http://www.cs.washington.edu/homes/jlo/papers/pldi95.ps">Postscript</a>) <br>
+<center>
+ Jack L. Lo and <a href="http://www.cs.washington.edu/homes/eggers">Susan J. Eggers </a> <br>
+In <i>Proceedings of the ACM SIGPLAN '95 Conference on Programming Language Design and Implementation, La Jolla, California, June 1995, pages 151-162.
+</i><br>
+</center>
+<br>
+<li> <a href="http://www.cs.washington.edu/homes/jlo/papers/generals.ps">Comparing static and dynamic scheduling on superscalar processors</a> <br>
+<center>
+ Jack L. Lo.  <br>
+<i>General Examination Written Report, May 31, 1995
+</i><br>
+</center>
+<br>
+<li> <a href="http://www.cs.washington.edu/homes/jlo/papers/quals_paper.ps">Examining the interaction between balanced scheduling and other compiler optimizations</a><br>
+<center>
+ Jack L. Lo<br>
+<i>Ph.D. Qualifying Examination Written Report, May 6, 1994
+</i>
+</center>
+</ul>
+<br>
+I'm currently working on architectural and compiler support for
+<a href="http://www.cs.washington.edu/research/smt/"> 
+Simultaneous Multithreading (SMT)</a>.
+My research interests also include static and dynamic scheduling for 
+superscalar and VLIW processors, instruction-level parallelism issues,
+as well as compilation for multithreaded architectures.  In particular,
+I am investigating compilation issues for 
+<a href="http://www.cs.washington.edu/homes/jlo/smt/> simultaneous multithreading</a>.
+
+<p>
+<hr>
+
+<h2> Personal</h2>
+
+<ul>
+<li> <a href="http://www.cs.washington.edu/homes/jlo/lodown.html">Jack's Lo-down on WWW pages</a> <br>
+<br>
+<li>Where to find me:<br>
+2371 Franklin Ave. E<br>
+Seattle, WA 98102<br>
+(206) 328-4648<br>
+<br>
+or<br>
+<br>
+Sieg Hall, Room 223<br>
+Phone: (206) 685-4087<br>
+FAX:   (206) 543-2969<br>
+<br>
+<li> A couple pictures from our recent paintball experience
+<ul>
+<li> <a href="http://www.cs.washington.edu/homes/jlo/gif/pball01.jpg">Picture 1</a>
+<li> <a href="http://www.cs.washington.edu/homes/jlo/gif/pball02.jpg">Picture 2</a>
+</ul>
+</ul>
+<p>
+<hr>
+
+<a href="http://www.cs.washington.edu/homes/jlo/index.html"><IMG src="http://www.cs.washington.edu/homes/jlo/gif/house1.gif"></a>
+
+<a href="http://www.cs.washington.edu/homes/jlo/computers/computers.html"><IMG src="http://www.cs.washington.edu/homes/jlo/gif/computer.gif"></a>
+<a href="http://www.cs.washington.edu/homes/jlo/entertainment/entertainment.html"><IMG src="http://www.cs.washington.edu/homes/jlo/gif/movie2.gif"></a>
+<a href="http://www.cs.washington.edu/homes/jlo/music/music.html"><IMG src="http://www.cs.washington.edu/homes/jlo/gif/compose.gif"></a>
+<a href="http://www.cs.washington.edu/homes/jlo/sports/sports.html"><IMG src="http://www.cs.washington.edu/homes/jlo/gif/baseball1.gif"></a>
+<a href="http://www.cs.washington.edu/homes/jlo/misc/misc.html"><IMG src="http://www.cs.washington.edu/homes/jlo/gif/manifest.gif"></a>
+<a href="http://www.yahoo.com">Yahoo</a>
+<p>
+<hr>
+
+<address>
+<em>jlo@cs.washington.edu </em> <br>
+</address>
+</body>
+</html>
+

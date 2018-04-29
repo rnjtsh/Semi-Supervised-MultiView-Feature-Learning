@@ -1,0 +1,80 @@
+<html>
+
+<head>
+	<title>Scott Hauck</title>
+</head>
+
+<body>
+
+<h1>
+ <a name="top">Scott Hauck</a><br>
+ <em><a href="http://cs.indiana.edu/finger/gateway?hauck@cs.washington.edu">hauck@cs.washington.edu</a></em><p>
+ <img src=http://www.cs.washington.edu/homes/hauck/scott.gif><p>
+</h1>
+
+<address>     
+     <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+     <a href="ftp://ftp.u.washington.edu/public/">University of Washington,</a> FR-35, <br>
+     <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195 USA
+</address>
+
+<p>
+<hr> 
+<p>
+
+I'm a 5th year graduate student at the <a 
+href="ftp://ftp.u.washington.edu/public/">University of Washington</a>.
+I am currently working on Multi-FPGA Systems and Rapid-Prototyping of 
+Board-Level Designs, though
+I am also interested in Asynchronous Circuits, FPGA Architectures, and 
+Parallelism.  I should graduate in June of 1995.
+
+<h2>
+Personal
+</h2>
+<p>
+
+<dl>
+<dd> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif"> <a href="http://www.cs.washington.edu/homes/hauck/bio.html">Biography & Education</a> 
+
+<dd> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif"> <a href="http://www.cs.washington.edu/homes/hauck/experience.html">Experience</a>
+
+<dd> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif"> <a href="http://www.cs.washington.edu/homes/hauck/publications.html">Publications</a>
+
+<dd> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif"> <a href="ftp://shrimp.cs.washington.edu/pub/olympia/CV.ps.Z">Curriculum Vitae</a>
+</dl>
+
+<h2>
+Research
+</h2>
+<p>
+
+<dl>
+<dt> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif">
+<a href="http://www.cs.washington.edu/homes/hauck/asynch.html">Asynchronous Circuits</a>
+	<dd> Survey of current asynchronous design methodologies, as
+	well as the first FPGA for asynchronous circuits.
+
+<dt> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif">
+<a href="http://www.cs.washington.edu/research/projects/lis/triptych/www/index.html">Triptych/Montage FPGA Architectures</a>
+	<dd> Development of the <em>Triptych</em> and <em>Montage</em> FPGA 
+	architectures, architectures with improved densities over current 
+	commercial FPGAs.
+
+<dt> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif">
+<a href="http://www.cs.washington.edu/homes/hauck//research/projects/lis/springbok/www/index.html">
+Multi-FPGA Systems & Rapid-Prototyping</a>
+	<dd> Development of the <em>Springbok</em> Rapid-Prototyping System for
+	Board-Level Designs, as well as partitioning, pin assignment,
+	and routing topology work for general multi-FPGA systems.
+
+<dt> <img alt="o" src="http://www.cs.washington.edu/homes/hauck/blueball.gif">
+<a href="http://www.cs.washington.edu/research/projects/lis/chinook/www/index.html">The <em>Chinook</em> Project</a>
+	<dd> A Hardware/Software Co-design, Co-synthesis, and Co-simulation
+	system for embedded applications.
+</dl>
+
+<body>
+
+<p> <hr>
+</html>

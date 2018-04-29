@@ -1,0 +1,67 @@
+<html>
+
+<head>
+	<title>Dylan McNamee</title>
+</head>
+
+<body>
+
+<h1>
+   Dylan James McNamee
+   <img align=middle src="http://www.cs.washington.edu/homes/dylan/miniDylan.gif">
+</h1> 
+
+<a href=http://www.eff.org/blueribbon.html><img border=0 WIDTH=143 HEIGHT=30 src=http://www.cs.washington.edu/homes/dylan/eff.gif alt="Free Speech Online!"></a>
+
+<address>     
+<a href="mailto:dylan@cs.washington.edu">
+dylan@cs.washington.edu</a> <br>
+     <a href="http://www.cs.washington.edu/">Computer Science & Engineering Department,</a> <br> 
+     <a href="http://www.washington.edu/">University of Washington,</a> FR-35, <br>
+     <a href="http://www.cs.washington.edu/area/">Seattle, WA</a> 98195 USA
+</address>
+<hr> 
+
+Here is some <a href="http://www.cs.washington.edu/homes/dylan/personal.html">personal information</a>.
+
+<h2>What I do:</h2>
+My research has concentrated on the interaction between applications
+and operating systems. I implemented an operating system mechanism
+that allowed applications to implement their own page replacement
+policy when the kernel's policy caused them to perform poorly.
+
+<p>
+After that, I helped implement "scheduler activations" in the Mach
+operating system. Scheduler activations are a mechanism that
+help user-level threads systems interact properly with the kernel
+thread scheduler.
+
+<p>
+These experiences lead me to work with the 
+<a href="http://www.cs.washington.edu/research/projects/spin/www/">SPIN project
+</a> folks, who are building a new operating system architecture
+that generalizes the idea of application-tailorable operating systems.  
+
+<p>
+My current work carries on the research started in the 
+<a href="http://www.cs.washington.edu/homes/levy/opal/opal.html">Opal project.</a> My thesis is investigating the interaction between
+Object-oriented databases (OODBs) and operating system virtual memory.
+This work is demonstrating that significant improvements in 
+performance can be achived using <i>commodity</i> operating systems,
+but in a different way than is currently done. Additional improvements
+can come from modifying the operating system slightly to better
+serve OODBs.
+
+<h2><a href="http://www.cs.washington.edu/homes/dylan/publications.html">Papers</a></h2>
+
+<h2><a href="http://www.cs.washington.edu/homes/dylan/CV.ps">CV</a></h2>
+
+<h2><a href="http://www.cs.washington.edu/education/courses/590s/w96/index.html">590S course web</a></h2> 
+Geoff Voelker and I built this web for the Winter 96 quarter of the 590S 
+systems seminar, which was dedicated to Java. I gave a lecture
+introducing the Java language and environment.  Here are the 
+<a href="ftp://ftp.cs.washington.edu/homes/dylan/javaTalk4.ps.gz">
+slides I used.</a>
+
+<body>
+</html>

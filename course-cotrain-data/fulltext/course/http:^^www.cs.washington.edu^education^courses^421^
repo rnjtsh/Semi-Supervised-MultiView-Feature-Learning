@@ -1,0 +1,135 @@
+<html>
+<head>
+<title>CSE 421, Winter 1996</title>
+</head>
+
+<body>
+
+<center>
+  <a href="http://www.cs.washington.edu/education/courses/421//">
+    <img border=0 vspace=5 src="http://www.cs.washington.edu/education/courses/421/96w/nameplate_small.old.gif"></a>
+  <br clear=all>
+  <h1>CSE 421: Intro. To Algorithms<br> Winter 1996</h1>
+  <h2>Larry Ruzzo &amp; Martin Tompa</h2>
+</center>
+
+
+<b><a href="http://www.cs.washington.edu/education/courses/421/96w/bboard.shtml"><font size=+2>Class Messages:</font></a></b> 
+      (Check this or your email frequently.
+       Last update:
+           
+          <!-- see man strftime for full formatting options-->
+          03/15/96 at 02PM.)
+
+<p>
+
+<b><a href="http://www.cs.washington.edu/education/courses/421/96w/clr/errata.html"><font size=+2>Text Book Errata Lists.</font></a></b> 
+
+<h2>Handouts:</h2>
+    <table>
+      <tr><td></td>
+        <td>LaTeX:</td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/syl.tex>Syllabus</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/midsol.tex>Midtem Solution</a></td>
+      </tr>
+      <tr><td></td>
+        <td>Acrobat <img src=http://www.cs.washington.edu/general/icons/PDF4.GIF alt="PDF"> :</td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/syl.pdf>Syllabus</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/midsol.pdf>Midtem Solution</a></td>
+      </tr>
+      <tr><td></td>
+        <td>PostScript:</td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/syl.ps>Syllabus</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/midsol.ps>Midtem Solution</a></td>
+      </tr>
+    </table>
+<p>
+<h2>Homework:</h2>
+    <table>
+      <tr><td></td>
+        <td>LaTeX:</td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw1.tex>1,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw2.tex>2,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw3.tex>3,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw4.tex>4,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw5.tex>5,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw6.tex>6,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw7.tex>7,</a></td>
+      </tr>
+      <tr><td></td>
+        <td>Acrobat <img src=http://www.cs.washington.edu/general/icons/PDF4.GIF alt="PDF"> :</td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw1.pdf>1,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw2.pdf>2,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw3.pdf>3,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw4.pdf>4,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw5.pdf>5,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw6.pdf>6,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw7.pdf>7,</a></td>
+      </tr>
+      <tr><td></td>
+        <td>PostScript:</td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw1.ps>1,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw2.ps>2,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw3.ps>3,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw4.ps>4,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw5.ps>5,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw6.ps>6,</a></td>
+        <td><a href=http://www.cs.washington.edu/education/courses/421/96w/hw7.ps>7,</a></td>
+      </tr>
+    </table>
+
+<h2>421 Webs From Previous Quarters</h2>
+<p><center>
+<table border cellpadding=5>
+  <tr>
+    <td><a href=http://www.cs.washington.edu/education/courses/421/95w/index.html> Winter 1995 (Karlin)</a></td>
+  </tr>
+</table>
+</center>
+
+<p>
+<hr>
+<b><font size=+2><a name="formats">About file formats:<a></font></b>  Most of the
+course materials above are provided in three formats:
+<table>
+<tr>
+<td></td>
+<td>
+<dl>
+  <dt><b>LaTeX:</b><dd>
+    Plain ASCII text including formating commands.
+    Simple things (e.g. assignments) are generally quite legible in
+    this format.  For figures and complex math stuff, these are
+    hard-to-impossible to read.
+  <dt><b>Adobe Acrobat <img src=http://www.cs.washington.edu/general/icons/PDFmid.GIF alt="PDF"> :</b><dd>
+    The latest &amp; greatest.
+    Get a free viewer from Adobe's 
+    <a href=http://www.adobe.com/Acrobat/AcrobatWWW.html>Acrobat and the Web</a> Page.
+    <p>
+  <dt><b>PostScript:</b><dd>
+    The 
+    <a href=http://www.cs.wisc.edu/~ghost/index.html>Ghostscript Home Page</a>
+    has free viewers (Mac, Windows, OS/2, Linux, ...)
+</dl>  
+At this time, Acrobat is supported on fewer systems, but is
+preferable if you can use it -- files are smaller, rendering is
+faster and more legible, and it can print (which Mac Ghostscript
+can't, for example).
+</tr>
+</table>
+
+</body>
+
+<p>
+<hr>
+<address>
+{ ruzzo | tompa | aberman } @cs.washington.edu
+
+(Last Update: 
+  <!-- see man strftime for full format opts-->
+  02/28/96
+)
+</address>
+
+</html>
+

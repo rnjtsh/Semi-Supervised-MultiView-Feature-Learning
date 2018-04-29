@@ -1,0 +1,79 @@
+ <html>
+
+<TITLE>CSE501 Home page</TITLE>
+<body>
+
+<H1>CSE 501: Implementation of Programming Languages</H1>
+
+
+<H2>Important Course Information</H2>
+
+<P>
+
+<DL>
+<DT>Meeting times 
+<DD> M, W, F from 2:30 to 3:20 in Sieg 226
+<P>
+<DT> Instructor
+<DD> <A HREF="http://www.cs.washington.edu/people/faculty/chambers.html">Craig Chambers</A> (<TT>chambers@cs</TT>), office hours: T, Th 11-12, Sieg 309.
+<P>
+<DT> TAs
+<DD> <A HREF="http://www.cs.washington.edu/homes/jdean">Jeff Dean</A> (<TT>jdean@cs</TT>) and 
+<A HREF="http://www.cs.washington.edu/homes/grove">Dave Grove</A> (<TT>grove@cs</TT>), office hours: M, F from 10:30 to 11:30.  Come find us in Chateau 110 and we'll go to the Chateau conference room.
+
+</DL>
+
+<H2>Archives</H2>
+
+<UL>
+
+<LI>Slides from lecture are available <A HREF="http://www.cs.washington.edu/education/courses/501/95/slides/">here</A>.
+<P>
+
+<LI>Slides from the Cecil language turorial are available 
+<A HREF="http://www.cs.washington.edu/education/courses/501/95/cecil-lang-slides.ps">here</A>.
+<P>
+<LI>Handouts are available <A HREF="http://www.cs.washington.edu/education/courses/501/95/handouts/">here</A>.
+<P>
+
+<LI>Reading assignments are available <A HREF="http://www.cs.washington.edu/education/courses/501/95/assignments/">here</A>.<BR>
+The full reading list for the class is available <A HREF="http://www.cs.washington.edu/education/courses/501/95/readings.ps">here</A>.
+<P>
+
+<LI>Messages sent to the <TT>cs501@cs</TT> mailing list are archived <A HREF="http://www.cs.washington.edu/education/courses/501/95/Mail/cse501.html">here</A>.
+
+</UL>
+
+<H2>Project</H2>
+
+The course project is to implement some sort of program analysis and
+transformation in the Vortex compiler.  Vortex is an optimizing
+compiler for object-oriented languages, and is written in Cecil.
+
+ <P>
+
+More information about the Vortex compiler can be found on the <A
+HREF="http://www.cs.washington.edu/research/projects/cecil/www/index.html">Cecil
+project home page</A>.
+
+ <P>
+
+Some Cecil manuals can be found 
+<A HREF="http://www.cs.washington.edu/research/projects/cecil/www/internal/index.html"> here</A>.
+
+
+<H2>Other Resources</H2>
+
+More information about compiler and language research can be found on
+Mark Leone's <A
+HREF="http://www.cs.cmu.edu:8001/afs/cs.cmu.edu/user/mleone/web/language-research.html
+">programming language research page</A>.
+
+<HR>
+<address>
+jdean@cs.washington.edu
+</address>
+
+</html>
+
+

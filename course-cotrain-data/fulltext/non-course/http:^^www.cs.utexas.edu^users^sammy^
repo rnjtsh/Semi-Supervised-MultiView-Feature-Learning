@@ -1,0 +1,266 @@
+<html>
+  <head>
+    <title>Sammy at UT</title>
+  </head>
+  <body TEXT="#000000" BGCOLOR="#FFFFFF" link="0000ff" vlink="#808080"  ALINK="#FF00FF" background="/users/sammy/images/bgline5.jpg">
+
+<!-- BODY BGCOLOR="#000000" TEXT="#FFFFFF" link="0099ff" vlink="#00ff99"  ALINK="#FF00FF" background="/users/sammy/images/leaves.jpg" -->
+
+<center>
+
+<table WIDTH=100% BORDER>
+  <tr>
+
+    <td ALIGN="center" WIDTH=65%> 
+      <img SRC="http://www.cs.utexas.edu/users/sammy/images/sam-calvin-2.gif">
+    </td>
+
+    <td WIDTH=35%> 
+      <h4>
+        <dl>
+          <dt> <a HREF="http://www.altavista.digital.com/"> AltaVista </a>
+	  <dt> <a HREF="http://www.stpt.com/"> StartingPoint </a>
+          <dt> <a HREF="http://www.yahoo.com/"> Yahoo </a>
+          <dt> <a HREF="http://www.lycos.com/"> Lycos </a>
+	  <dt> <a HREF="http://www.proximus.com/yahoo/"> Maps </a>
+          <dt> <a HREF="http://english-www.hss.cmu.edu/reference.html"> Reference </a>
+          <dt> <a HREF="http://www.mit.edu:8001/usa.html"> Weather </a>
+          <dt> <a HREF="http://www2.switchboard.com"> White Pages </a>
+          <dt> <a HREF="http://www.bigbook.com"> Yellow Pages </a>
+          <dt> <a HREF="http://www.cnn.com"> CNN </a>
+        </dl>
+      </h4>
+    </td>
+  </tr>
+
+  <tr>
+
+    <td ALIGN="center" WIDTH=65%>
+      <h4>
+        <i> Department of Computer Science <br>
+            University of Texas at Austin <br>
+            <a HREF="mailto:sammy@cs.utexas.edu">sammy@cs.utexas.edu </a>
+        </i>
+      </h4>
+    </td>
+
+    <td ALIGN="center" WIDTH=35%> 
+      <a HREF="http://www.cs.utexas.edu/users/sammy/cgi/spy-on-me">
+         <img SRC="http://www.cs.utexas.edu/images/stanford/icon.com.gif"> </a>
+    </td>
+
+  </tr>
+</table>
+
+</center>
+
+<blockquote>
+<small>
+Congress shall make no law respecting an establishment of religion, or
+prohibiting the free exercise thereof; or abridging the freedom of
+speech, or of the press; or the right of the people peaceably to
+assemble, and to petition the government for a redress of grievances.
+</small>
+</blockquote>
+
+<center>
+
+  <cite>
+    <a href="http://www.law.cornell.edu/constitution/constitution.overview.html"> The Constitution of the United States of America </a>
+  </cite>
+
+</center>
+
+<hr>
+
+<table>
+  <tr>
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif"> Research</h3>
+	<ul>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/lin"> Prof. Calvin Lin </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/rvdg"> Prof. Robert van de Geijn </a>
+	  <li> <a HREF="http://www.cs.washington.edu/research/projects/zpl/"> The ZPL Project </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/rvdg/plapack/"> Parallel Linear Algebra Package </a>
+	</ul>
+    </td>
+
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif"> <a HREF="http://www.cs.utexas.edu/users/sammy/schedule-fall-96.html">Schedule</a> </h3>
+	<ul>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/novak/cs381k.html">
+			cs381k - Artificial Intelligence </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/lorenzo/corsi/cs395t/96F/">
+			cs395T - Topics in Distributed Computing </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/lin/cs395t">
+			cs395T - Parallel Languages and Compilers </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/sammy/cs380L">
+			cs380L - Advanced Operating Systems </a>
+
+	</ul>
+    </td>
+  </tr>
+
+  <tr>
+
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif"> Projects/Experiments </h3>
+        <ul>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/sammy/wwh/wwh.html"> World Wide Herbarium </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/sammy/pla/sign-in.html"> PLAPACKERs Sign-In Page </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/sammy/bdd/flow-graph.html"> Hypertext C-code </a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/sammy/anagram.html"> Anagram Server </a>
+	</ul>
+    </td>
+
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif"> <a HREF="http://www.utexas.edu"> University of Texas </a> </h3>
+	<ul>
+	  <li> <a HREF="http://www.cs.utexas.edu">Department of Computer Science </a>
+	  <li> <a HREF="http://www.lib.utexas.edu/">UT Library (WWW) </a>
+	  <li> <a HREF="tn3270://utxdp.dp.utexas.edu/">UT Library (tn3270)</a> 
+	</ul>
+    </td>
+
+  </tr>
+
+
+  <tr>
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif" ALT=""> Friends </h3>
+	<ul>
+	  <li> <a HREF="http://www.mak.com/~nils">Nils "Virtual-Man" Reker</a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/smaragd">Yanni (not the musician)</a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/jthomas">Jeff (aka Mr. Hockey)</a>
+	  <li> <a HREF="http://www.cs.utexas.edu/users/andrea">Andrea </a>
+	  <li> <a HREF="http://world.std.com/~hti">Hamilton Technologies, Inc.</a>
+	</ul>
+    </td>
+
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif" ALT=""> Family</h3>
+	<ul>
+          <li> <a HREF="http://phweb.sph.jhu.edu/">"Pops" Guyer: JHU Public Health </a>
+          <li> <a HREF="http://www.nwu.edu/anthropology"> Mom: Northwestern Anthropology </a>
+	  <li> Kate
+	  <li> Nate
+	</ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif"> Activities </h3>
+	<ul>
+	  <li> <A HREF="http://www.realtime.net/~dhbrown/">Texas Swimming</A>
+	  <li> <A HREF="http://ced.sci.dixie.edu/travis/swim/swim.html">Swimming Links </a>
+	  <li> <a HREF="http://www.tcd.net/%7Ejj/swimlinx.html"> The Yellow Pages of Swimming </a>
+	</ul>
+    </td>
+
+    <td WIDTH=50% VALIGN="top">
+      <h3> <img SRC="http://www.cs.utexas.edu/images/stanford/icon.movieS.gif"> Entertainment </h3>
+	<ul>
+	  <li> <a href="http://www.mrshowbiz.com"> Mr. Showbiz
+	          <!-- img src="http://www.mrshowbiz.com/img/sblogo65.gif" border=0 --> </a>
+          <li> <A HREF="http://www.auschron.com/">The Austin Chronicle</A>
+	  <li> <a href="http://www.pollstar.com"> Pollstar Concert Database
+	          <!-- img src="http://www.pollstar.com/icons/poll_gld.gif" align=center --> </a>
+          <li> <a href="http://www.theonion.com">
+	          <IMG SRC="http://graphics.theonion.com/essentials/onionlink2.gif" 
+		       ALT="Onion Link Button" WIDTH="88" HEIGHT="31" ALIGN="BOTTOM" BORDER="1">
+		       </a>
+	</ul>
+    </td>
+  </tr>
+
+  <tr>
+
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif"> Computers </h3>
+	<ul>
+	  <li> <a HREF="http://www.ucc.ie/~pflynn/books/htmlcard.html"> HTML Quick Reference Guide </a>
+	  <li> <a HREF="http://www.clcr.com/memory/index.html"> CLC Research </a>
+	  <li> <a HREF="http://www.dell.com"> Dell </a>
+	  <li> <a HREF="http://www.fringeweb.com/"> Fringe Ryder Laptop Info </a>
+	  <li> <a HREF="http://www.w3.com"> World Wide Web Consortium </a>
+	</ul>
+    </td>
+
+    <td WIDTH=50% VALIGN="top">
+      <h3> <IMG SRC="http://www.cs.utexas.edu/images/stanford/star.gif"> Miscellaneous </h3>
+	<ul>
+	  <li> <a HREF="http://www.openmarket.com/boscam/"> The Boston-Cam </a>
+	  <li> <a HREF="http://gagme.wwa.com/~boba/hot.html"> HotList-List </a>
+	  <li> <a HREF="http://www.travelocity.com/"> Travelocity </a>
+	</ul>
+    </td>
+
+  </tr>
+
+<!--
+  <tr>
+
+    <td WIDTH=50%>
+      <h3>  <i> Under construction </i> </h3>
+	<ul>
+	  <li> 
+	  <li>
+	</ul>
+    </td>
+
+    <td WIDTH=50%>
+      <h3>  <i> Under construction </i> </h3>
+	<ul>
+	  <li> 
+	  <li>
+	</ul>
+    </td>
+
+  </tr>
+-->
+</table>
+
+<!---------------------------------------------------------------------------->
+
+<table BORDER WIDTH="100%">
+  <tr>
+
+    <td>
+      <img src="http://www.cs.utexas.edu/users/sammy/images/evil-calvin.gif"
+    </td>
+
+    <td WIDTH=40% VALIGN="top">
+      <h3> Office Address </h3>
+      Taylor Hall 5.112 <br>
+      Department of Computer Science <br>
+      University of Texas at Austin <br>
+      Austin, TX 78712 <br>
+      (512) 471-9578
+    </td>
+
+    <td WIDTH=40% VALIGN="top">
+      <h3> Home Address</h3>
+      9417 Great Hills Trl Apt 2048 <br>
+      Austin, TX 78759-6363 <br>
+      (512) 349-2419
+    </td>
+
+  </tr>
+</table>
+
+<!-- img SRC="/users/sammy/images/sammy.jpg" ALIGN="top" -->
+
+<address> 
+    <img SRC="http://www.cs.utexas.edu/users/sammy/cgi/spy?/users/sammy/cgi/spy">
+    sammy@cs.utexas.edu
+</address>
+
+<i>
+The opinions expressed here are mine and do not necessarily represent the views of the University of Texas. <br>
+</i>
+
+<small> Last Update: 9/9/96 </small> <br>
+
+  </body>
+</html>

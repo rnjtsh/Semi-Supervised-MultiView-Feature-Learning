@@ -1,0 +1,112 @@
+<TITLE> Faculty Research Interests : Sam Toueg </TITLE><H1> Sam Toueg</H1><I><DL><DT> 
+<a href="http://www.cs.cornell.edu/Info/People/sam/pictures/scuba.gif">
+<img src="http://www.cs.cornell.edu/Info/People/sam/pictures/scuba.small.gif" align=bottom>
+</a>     
+<a href="http://www.cs.cornell.edu/Info/People/sam/pictures/Mot1.gif">
+<img src="http://www.cs.cornell.edu/Info/People/sam/pictures/Mot1.small.gif" align=bottom>
+</a>
+<a href="http://www.cs.cornell.edu/Info/People/sam/pictures/Mot2.gif">
+<img src="http://www.cs.cornell.edu/Info/People/sam/pictures/Mot2.small.gif" align=bottom>
+</a>
+<a href="http://www.cs.cornell.edu/Info/People/sam/pictures/Mot4.gif">
+<img src="http://www.cs.cornell.edu/Info/People/sam/pictures/Mot4.small.gif" align=bottom>
+</a>
+<DT><DT>Professor<DT>
+Ph.D., Princeton University, 1979
+<p>
+</DL></I><H3>Research Interests</H3>
+<p>
+My research interests include distributed computing, fault-tolerance
+and real-time.  I work on methodologies, paradigms, and algorithms for
+fault-tolerant distributed systems, in both message-passing and
+shared-memory  systems.  My long-term goal is to bridge the gap
+between  theoretical results and the need for efficient and practical
+solutions.
+
+In collaboration with
+<a href="http://www.cs.cornell.edu/Info/People/chandra/home.html">Tushar Chandra</a>
+and 
+<a href="http://www.cs.dartmouth.edu/~prasad">Prasad Jayanti</a>, 
+two Ph.D.
+Computer Science students, we continued our work on
+<a href="http://www.cs.cornell.edu/Info/People/chandra/FailureDetectionPapers.html">unreliable failure
+detectors for message-passing systems</a>,
+and on wait-free objects for shared-memory systems.
+<p>
+A fundamental result of fault-tolerant distributed computing
+states that the Consensus problem cannot be solved (with a
+deterministic  algorithm) in asynchronous systems.  This impossibility
+result  is due to the inherent difficulty of determining whether a
+process  has crashed (or is merely very slow) in such a system.  In
+our work,  we were able to determine exactly how much information
+about  failures is necessary and sufficient to solve Consensus.  We
+first  showed one can use W, an unreliable failure detector that can
+make an  infinite number of mistakes, to solve Consensus in systems
+with a  majority of correct processes.  We then proved that to solve
+Consensus, any failure detector has to provide at least as much
+information about  failures as W.  Thus, W is the weakest failure
+detector for solving  Consensus in asynchronous systems with a
+majority of correct  processes.  We are now exploring the practicality
+of  implementing W,  and of applications that rely on W for their
+correctness.
+<p>
+A concurrent system consists of processes communicating via shared
+objects.   A shared object is wait-free if each process that accesses
+this  object is guaranteed to get a response even if all the other
+processes  crash.  We are now exploring wait-free hierarchies of
+object types, where each object (type) is assigned to a level that
+corresponds to its  ability in implementing other wait-free objects.
+In particular,  Prasad Jayanti has shown that a well-known hierarchy
+(Herlihy's)  is not robust:  Informally, in this hierarchy there is an
+object at level  2 that can be used to implement wait-free objects at
+any  level.  We  are now exploring the question of whether
+robust wait-free hierarchies exist.
+<p>
+<H4>Selected Publications</H4>
+<p>
+<li> Bracha, G., and S. Toueg.
+Asynchronous consensus and broadcast protocols.
+<I> Journal of the ACM</I>, vol. 32, 10, 1985, 824-840.
+<p>
+<li> Srikanth, T. K., and S. Toueg.
+Optimal clock synchronization.
+<I> Journal of the ACM</I>, vol. 34, 3, 1987, 626-645.
+<p>
+<li> El Abbadi, A., and S. Toueg.
+Maintaining availability in partitioned replicated databases.
+<I> ACM Transactions on Database Systems</I>, vol. 14, 2, 1989, 264-290.
+<p>
+<li> Neiger, G., and S. Toueg.
+Automatically increasing the fault-tolerance of distributed algorithms.
+<I> Journal of Algorithms</I>, vol. 11, 3, 1990, 374-419.
+<p>
+<li> <a href="http://www.cs.cornell.edu/Info/People/chandra/home.html">Chandra, T.</a>, and S. Toueg.
+<a href="http://www.cs.cornell.edu/Info/People/chandra/UnreliableFD.html">Unreliable failure
+detectors for asynchronous systems.</a>
+<I>  Proceedings 10th ACM Symposium on Principles of Distributed Computing
+</I>.
+August 1991, Montreal, Canada, 257-272.
+<p>
+<li> <a href="http://www.cs.cornell.edu/Info/People/chandra/home.html">Chandra, T.</a>,
+<a href="http://www.cdf.toronto.edu:/DCS/CSRI/Hadzilacos.html">V. Hadzilacos</a>
+ and S. Toueg.
+<a href="http://www.cs.cornell.edu/Info/People/chandra/WeakestFD.html">The weakest failure detector
+for solving consensus.</a>
+<I>  Proceedings 11th ACM Symposium on Principles of Distributed Computing
+</I> ,
+August 1992, Vancouver, Canada, 147-158.
+<p>
+<li><a href="http://www.cs.dartmouth.edu/~prasad">Jayanti, P.</a>,
+<a href="http://www.cs.cornell.edu/Info/People/chandra/home.html">Chandra, T.</a>,
+and S. Toueg.
+<a href="ftp://ftp.cs.cornell.edu/pub/chandra/shared.memory.faulty.dvi.Z">
+Fault-tolerant wait-free shared objects.</a>
+<I>  Proceedings 33rd IEEE Symposium on Foundations of Computer Science</I>,
+October 1992, Pittsburgh, Pennsylvania, 157-166.
+<p>
+<li> Neiger, G., and S. Toueg.
+Simulating synchronized clocks and common knowledge in distributed systems.
+<I> Journal of the ACM</I>, vol. 40, 2, 1993, 334-367.
+<p>
+<p>
+

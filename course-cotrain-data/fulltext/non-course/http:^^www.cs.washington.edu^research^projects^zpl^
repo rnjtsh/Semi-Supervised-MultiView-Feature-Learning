@@ -1,0 +1,117 @@
+<html>
+<!-- keywords: parallel programming language array scientific computing HPF -->
+<!-- keywords: array language compiler optimization Fortran -->
+<!-- keywords: matrix multiply communication optimization -->
+<!-- keywords: Intel Paragon Cray T3D SGI PowerChallenge IBM SP/2 -->
+<!-- keywords: high performance portability machine independent programming -->
+
+<head>
+	<title>The ZPL Project</title>
+</head>
+
+<body>
+
+<br>
+
+<TABLE BORDER=0> <TR><TD>
+<img src="http://www.cs.washington.edu/research/projects/zpl/images/zpl.logo.gif" align=left vspace=5 hspace=5> <BR>
+</TD>
+<TD>
+<h1><a name="top">The ZPL Project</a></h1>
+
+<address>
+<dd> <a href="http://www.cs.washington.edu/">Department of Computer Science &
+Engineering</a>
+<dd> <a href="http://www.cac.washington.edu:1183/">University of 
+Washington</a>
+<dd> Box 352350
+<dd> <a href="http://www.seanet.com/Seattle/SeattleHome.html">Seattle</a>, 
+<a href="http://www.wa.gov/wahome.html">WA
+</a> 98195-2350 <a href="http://www.whitehouse.gov/">USA</a>
+<dd> <a href="mailto:zpl-info@cs.washington.edu">zpl-info@cs.washington.edu</a>
+</address>
+
+</TD>
+</TR>
+</TABLE>
+
+<hr>
+
+<p><b>ZPL</b> is a new array-based programming language suitable for most 
+computations that would previously have been written in Fortran 77:
+
+<ul>
+<li> ZPL programs run fast on sequential AND parallel computers, 
+     without modifications, and without special directives. </li>
+<li> ZPL is machine-independent, so recompilation is all that is 
+     necessary to run a ZPL program on a new machine. </li>
+<li> ZPL's higher level concepts like arrays, borders, etc. eliminate most 
+     of the error-prone indexing and tedious looping typical of F77, C, 
+     etc.</li>
+<li> ZPL programs are shorter, more easily written, and more easily 
+     understood and modified.</li>
+<li> Computer scientists will find new concepts in ZPL: regions, 
+    directions, borders, shattered control-flow, etc.</li>
+</ul>
+Conclusion:  ZPL is ideal for new engineering and scientific programs.</p>
+
+<p><a href="http://www.cs.washington.edu/research/projects/zpl/walk-through/">Walk-through</a> a small ZPL program, or <a
+href="http://www.cs.washington.edu/research/projects/zpl/web-compiler/">write-compile-run</a> a program from your
+machine!</p>
+
+<P><IMG SRC="http://www.cs.washington.edu/research/projects/zpl/images/new.gif">Scientific programmers in the area should
+consider enrolling in <A
+HREF="http://www.cs.washington.edu/education/courses/590zpl">CSE 590ZP</A>
+this autumn. </P>
+
+<P><B>If you have programmed in ZPL before, check out the <A
+HREF="http://www.cs.washington.edu/research/projects/zpl/status/changes.html">recent changes</A> in the language.</B></P>
+
+<hr>
+
+<dl>
+<dl>
+	  
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/intro/overview.html">Project Overview</a>
+     <dd> A high-level overview of ZPL. <p>
+
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/walk-through/">Program Walk-Through</a>
+     <dd> A 10 minute introduction to the language. <p>
+
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/web-compiler">Web-based ZPL Compiler</a>
+     <dd> Compile ZPL programs via your web browser right now!<p>
+
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/papers/">Papers</a>
+     <dd> Papers and manuals about or related to ZPL.<p>
+
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/details/">ZPL Details</a>
+     <dd> On-line information and sample programs.<p>
+
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/people">People</a>
+     <dd> Project members.<p>
+
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/future">On the Horizon</a>
+     <dd> A description of the group's direction and future projects.<p>
+
+<dt> <a href="http://www.cs.washington.edu/research/projects/zpl/acks.html">Acknowledgments</a>
+     <dd> A list of those who have helped support our work.<p>
+</dl>
+</dl>
+
+<p> 
+<inc srv "/research/projects/zpl/footer.html">
+<hr> <p>
+<center>
+[
+<a href="http://www.cs.washington.edu/research/projects/zpl/">ZPL</a> | 
+<a href="http://www.cs.washington.edu/">UW CSE</a> |
+<a href="http://www.cac.washington.edu:1183/">UW</a>
+]
+<address>
+<A HREF="mailto:zpl-info@cs.washington.edu">zpl-info@cs.washington.edu</a>
+</address>
+</center>
+
+</html>
+
+

@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>David Becker</title>
+</head>
+
+<body bgcolor="ffffff">
+<body>
+<a href=http://www.cs.washington.edu/homes/becker/raft.jpeg><h1>David Becker</h1></a>
+
+<a href=http://www.cs.washington.edu/homes/becker/contact.html>Contact info</a> |
+<a href=http://www.cs.washington.edu/homes/becker/map.gif>X marks my spot</a>.
+<hr>
+
+<h2> Stuff I do </h2>
+
+<dl>
+<dt> SPIN
+<dd> Much of my time goes to making
+<a href = http://www.cs.washington.edu/research/projects/spin/www/>SPIN</a>
+a real, in-use, operating system.  
+I have responsibility for the low level code we borrow from OSF,
+the device model, device drvier support, the build environment, code management,
+and keeping our development platforms functioning.  Someday I will get
+to do performance measurement and optimization.
+<dt> Sport
+<dd> I've tried a bunch.  <a href=http://www.upa.org/~upa/>
+Ultimate frisbee </a> is my favorite.
+<ul>
+<li> All-conference triple jump (Minnesota Athletic Conference, Bethel College '88) 
+<li> Ultimate Frisbee (UNC IM Champions '93)
+<li> Volleyball (UNC IM Mens Grad/Fac Champions '93)
+<li> Team sports I play:
+
+ultimate
+softball
+volleyball
+basketball
+broomball
+football
+soccer
+team-handball
+
+<li> and I also play
+racquetball
+golf
+tennis
+<li> done this too:
+bridge
+camping
+canoeing
+disc-golf
+foosball
+hiking
+paintball
+ski
+snorkeling
+snowboard
+track
+wallyball
+water-skiing
+weightlifting
+
+<a href=http://www.cs.washington.edu/homes/becker/raft.html>whitewater rafting</a>
+horseback riding
+mountain biking
+in-line skating
+</ul>
+
+<dt> Interests (<a href=http://www.lib.washington.edu/> the library</a>)
+<dd>
+
+<li> Economic topics particularly interest me:
+Free banking,
+Anti-trust,
+<a href= http://woodrow.mpls.frb.fed.us/money/newcurr/newcurr.html>
+Currency </a>
+<li>
+<dd> SSTO RLVs.  <a href=http://rlv.msfc.nasa.gov/RLV_HTMLs/RLVDCXA1.html> DC-X </a>
+<li>
+<dd> Theology
+<li>
+<dd> 19th centuray railroads. <a href=http://www.cs.washington.edu/homes/becker/hostler.html> How to boot a locomotive </a>
+	</a>. 
+
+</dl>
+
+<a href="http://www.teleport.com/~wnorton/howlin.html" align=left alt="[IMAGE]">
+<img align=left src="http://www.cs.washington.edu/homes/becker/nakomis-small.jpg" alt="[IMAGE]"></a>
+
+<a href="http://www.cs.washington.edu/homes/becker/snowowl.html" align=right alt="[IMAGE]"> <img align=right
+src="http://www.cs.washington.edu/homes/becker/snowowl-small.jpg" alt="[IMAGE]"></a>
+
+</body>
+</html>

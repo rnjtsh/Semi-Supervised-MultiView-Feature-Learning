@@ -1,0 +1,177 @@
+<HTML>
+<HEAD>
+<TITLE>Emery Berger : Home page</TITLE>
+</HEAD>
+
+<body bgcolor="#FFFFFF">
+
+
+<CENTER>
+<h2><EM>Emery Berger</EM></h2>
+</CENTER>
+
+
+<p>
+<P>
+<hr>
+<table cellspacing=10>
+	<tr>
+
+
+	<td valign=top nowrap>
+	<H3><EM>personal</EM></H3>
+	<p>
+	<h4>contact info</h4><p>
+
+	<I>Mailing address:</I><br>
+	<a href="http://www.cs.utexas.edu/">
+	Dept. of Computer Sciences
+	</a>
+	<br>
+	<a href="http://www.utexas.edu/maps/main/buildings/tay.html">
+	Taylor Hall
+	</a>
+	<br>
+	<a href="http://www.utexas.edu/">
+	University of Texas at Austin
+	</a>
+	<br>
+	Austin, TX  78712<p>
+	<I>Phone:</I><br>
+	(512) 471-9734 (work)<br>
+	(512) 454-6126 (home)<p>
+	<I>Fax:</I><br>
+	 (512) 471-8885<p>
+	<I>E-mail:</I><br>
+	<A HREF="mailto:emery@cs.utexas.edu">emery@cs.utexas.edu</A><P>
+	
+
+	<td valign=top>
+	<H3><EM>work</EM></H3><p>
+	<p>
+	<H4>systems analyst</H4><p>
+	<a href="http://www.cs.utexas.edu/users/code"><em>Parallel Programming Group</em></a><p>
+
+I am a systems analyst in the parallel programming research group at UT-Austin, working on the CODE visual parallel programming system. For more information about CODE, see the <A HREF="http://www.cs.utexas.edu/users/code">CODE home page.</A><P>
+
+	<em>TICAM, Composite Materials Group</em><p>
+
+I am also affiliated with <A HREF="http://www.ticam.utexas.edu">TICAM</A>, working in the <A HREF="http://www.ticam.utexas.edu/Groups/Composites/index.html">Composite Materials</A> group (for more information on the project, click on the group name).<P>
+
+	
+<!--
+	<HR NOSHADE SIZE=1>
+
+	<H3><EM>tools</EM></H3><p>
+	<p>
+	
+<form 
+ action="http://www.lycos.com/cgi-bin/nph-randurl/cgi-bin/largehostpursuit1.html" 
+ method=GET
+>
+Search the Web with the Lycos Database: 
+<input type=text name="query"> 
+<input type="submit" value="Search">
+</form>
+<form 
+ action="http://www.cs.utexas.edu/users/emery/cgi/pick-info-mac-mirror" 
+ method=GET
+>
+FTP a file from a randomly-selected Info-Mac mirror near you:
+<input type=text name="path"> 
+<input type="submit" value="FTP">
+</form>
+<a href="http://www.cs.utexas.edu/users/emery/manpages">
+View UNIX man pages</a> (cs.utexas.edu users only)
+<P>
+	
+-->
+	</td>
+
+
+	<td valign=top>
+	<H3><EM>academics</EM></H3><p>
+	<p>
+	<h4>functional programming</h4><p>
+	<A HREF="ftp://www.cs.utexas.edu/users/emery/fp+oop=haskell.ps.gz"><B>FP+OOP=Haskell</B></a>, <a href="http://www.cs.utexas.edu/users/emery">Emery Berger</a> (UT&nbsp;TR 92-30).<p> 
+
+<font face="arial, helvetica">
+<B>Abstract:</B> The programming language <A HREF="ftp://ftp.dcs.glasgow.ac.uk/pub/glasgow-fp/glasgow-fp.html">Haskell</A> adds object-oriented functionality (using a concept known as <em>type classes</em>) to a pure functional programming framework. This paper describes these extensions and analyzes its accomplishments as well as some problems.<P>
+
+<A HREF="ftp://www.cs.utexas.edu/users/emery/fp+oop=haskell.dvi">dvi</A>, <A HREF="ftp://www.cs.utexas.edu/users/emery/fp+oop=haskell.ps.gz">
+compressed PostScript</A>, or <A HREF="http://www.cs.utexas.edu/users/emery/fp+oop=haskell/fp+oop=haskell.html">HTML</A>.<p>
+</font>
+
+	<HR NOSHADE SIZE=1>
+
+	<H3><EM>other</EM></H3><p>
+
+My youngest brother Doug has an <A HREF="http://www.vcn.net/aartist/art/dberger">Aspiring Artist</A> page (the CODE graphic is Doug's handiwork).
+
+	</td>
+
+</tr>
+</table>
+
+<p>
+
+<center>
+<H3><EM>web links</EM></H3><p>
+<table border=1 width="80%">
+<tr><td>
+
+<table>
+
+<tr>
+<td>
+<A HREF="http://www.cs.utexas.edu/users/code">
+<img alt="[CODE]" height=100 width=264 border=0 src="http://www.cs.utexas.edu/users/code/CODE-logo.gif" align=absmiddle>
+</A>
+</td>
+
+<td>
+<small><A HREF="http://www.cs.utexas.edu/users/code">The CODE Visual Parallel Programming System</a></small></td>
+</tr>
+
+<tr>
+<td>
+<a href="http://www.cs.utexas.edu/users/emery/cgi/TEXbook"><img alt="[TEXbook]" height=50 width=230 border=0 src="http://www.cs.utexas.edu/users/emery/TEXbook/TEXbook-banner.GIF" align=absmiddle></a></td>
+<td>
+<small><a href="http://www.cs.utexas.edu/users/emery/cgi/TEXbook">TEXbook</a>, the UT Textbook Exchange</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<A HREF="http://www.cs.utexas.edu/users/gracs"><img alt="[GRACS]" height=75 width=150 border=0 src="http://www.cs.utexas.edu/users/gracs/gracs-logo.GIF" align=absmiddle></A></td>
+<td><small>
+<A HREF="http://www.cs.utexas.edu/users/gracs">GRACS</a><br>
+(Graduate Representative Association for Computer Sciences)</small></td></tr>
+
+</table>
+
+</td></tr>
+</table>
+
+
+<HR>
+<center><font size="-1"><a href="http://www.cs.utexas.edu/users/emery"><img src="http://www.cs.utexas.edu/users/emery/emery-signature.gif" border=0 align=center width=100 height=50></a> <a href="mailto:emery@cs.utexas.edu">emery@cs.utexas.edu</A> / Last updated October 1, 1996</font></center>
+
+<p>
+<center>
+<a href="http://www.apple.com/"><img alt="[Made with a Mac]" height=80 width=64 src="http://www.cs.utexas.edu/users/emery/macspin.gif" border=0></a>
+</center>
+
+
+<CENTER><P><FONT FACE="arial, helvetica">Do you believe in Macintosh? Check out 
+<a href="http://www.evangelist.macaddict.com/"><IMG
+       SRC="http://www.evangelist.macaddict.com/images/evangelist.gif"
+       WIDTH=32 HEIGHT=32 BORDER=0 ALT="[EvangeList]">http://www.evangelist.macaddict.com/</a><br>
+and join the &quot;EvangeList&quot; mailing list.</FONT></P>
+</CENTER>
+
+</center>
+
+</BODY>
+</HTML>
+

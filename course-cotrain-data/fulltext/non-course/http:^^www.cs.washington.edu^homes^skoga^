@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Welcome to Shuichi's Home Page!</title>
+</head>
+
+<body>
+
+<center>
+<img align=middle src="http://www.cs.washington.edu/homes/skoga/images/panictrans.gif" ALT="Hello!  My name is:">
+<img align=middle src="http://www.cs.washington.edu/homes/skoga/images/name.xbm" ALT="Shuichi Koga"><br>
+</center>
+
+<address>
+Shuichi Koga (SKoga@CS.Washington.EDU)<br>
+Graduate Student<br>
+<a href="http://www.cs.washington.edu/">Computer Science and Engineering</a> 
+Department</br>
+<a href="http://www.washington.edu/">University of Washington</a><br>
+<br>
+</address>
+
+<p> Hi there! My name is Shuichi Koga (if you haven't noticed by
+now). I've just started up graduate studies here at the University of
+Washington. I haven't quite figured out what I'll be doing yet for my
+quals (much less my dissertation!).</p>
+
+<p> I graduated from the <a href="http://www.virginia.edu/">University
+of Virginia</a> in May 1995 with a degree in Mathematics. I was also
+heavily involved with the asian studies, foreign relations, and
+government departments (I was originally slated to also get a degree
+in asian studies). I also was heavily involved with the <a
+href="http://www.cs.virginia.edu/~uigroup/">User Interface Group</a>
+and the <a href="http://www.cs.virginia.edu/">computer science
+department</a> working on a project called <a
+href="http://www.cs.virginia.edu/~alice/">Alice</a>.</p>
+
+Since you're here anyways, why don't you take a look at...
+
+<menu>
+  <li> A <a href="http://www.cs.washington.edu/homes/skoga/images/shuichi.gif">picture of me</a> at 2:00am (230K).
+       Here's a
+       <a href="http://www.cs.washington.edu/homes/skoga/images/shuichi_small.gif">smaller one</a> (18K).
+  <li> What <a href="http://www.cs.washington.edu/homes/skoga/pronounce.html">Shuichi</a> means
+  <li> <a href="http://www.cs.washington.edu/homes/skoga/.plan">My Finger Info</a>
+  <li> <a href="http://www.cs.washington.edu/homes/skoga/schedule.txt">My current schedule</a>
+  <li> <a href="http://www.cs.washington.edu/homes/skoga/links/">Neat hypertext links </a>
+  <li> What I do a lot of: hunt and destroy <a href="http://www.cs.washington.edu/homes/skoga/bugs/">
+       bugs</a>.
+</menu>
+
+
+<hr>
+<a name="signature">
+<address>
+<a href="http://www.cs.washington.edu/homes/skoga/">
+Shuichi Koga</a> (
+<a href="mailto:SKoga@CS.Washington.EDU">  
+SKoga@CS.Washington.EDU</a>)
+</address>
+<!-- hhmts start -->
+Last modified: Mon Jun 17 02:48:19 1996
+<!-- hhmts end -->
+</address>
+</body>
+</html>
