@@ -154,28 +154,36 @@ def main():
     tf_matrix = term_frequency_matrix(text_container, unique_words)    
     tf = TfidfTransformer(norm='l2', use_idf=True, smooth_idf=True, sublinear_tf=False)
     tf_idf_matrix = tf.fit_transform(tf_matrix).todense() 
-
-    b = np.zeros((tf_idf_matrix.shape[0], tf_idf_matrix.shape[1]+1))
-    b[:, :-1] = tf_idf_matrix
-    for i in range(class_label.shape[0]):
-        b[i][-1] = class_label[i][0]
     
-    tf_idf_matrix = b
-    np.random.shuffle(tf_idf_matrix)
     size = int(tf_idf_matrix.shape[0] * 0.7)
-    train_tfidf_matrix = tf_idf_matrix[0:size,:]
-    print(train_tfidf_matrix)
-    test_tfidf_matrix = tf_idf_matrix[size:, :]
+    
+    print(tf_idf_matrix)
+    
     svd = TruncatedSVD(n_components=1050, random_state=42)
-    train_tfidf_matrix = svd.fit_transform(train_tfidf_matrix[:,:-1])
-    # print(train_tfidf_matrix.shape)
-    # print(train_tfidf_matrix)
-    fp = open('tfidf_matrix_fulltext.txt', 'w')
-    for i in range(train_tfidf_matrix.shape[0]):
-        for j in range(train_tfidf_matrix.shape[1]):
-            fp.write(str(train_tfidf_matrix[i][j]) + " ")
+    tf_idf_matrix_SVD = svd.fit_transform(tf_idf_matrix)
+
+
+    tf_idf_matrix_with_labels = np.concatenate(
+        (tf_idf_matrix_SVD, class_label), axis=1)
+    np.random.shuffle(tf_idf_matrix)
+
+    test_tf_idf_matrix = tf_idf_matrix_with_labels[size:, :]
+    train_tf_idf_matrix = tf_idf_matrix_with_labels[:size, :]
+
+    fp = open('tfidf_matrix_fulltext_train.txt', 'w')
+    for i in range(train_tf_idf_matrix.shape[0]):
+        for j in range(train_tf_idf_matrix.shape[1]):
+            fp.write(str(train_tf_idf_matrix[i][j]) + " ")
             
         fp.write("\n")    
+    fp.close()
+
+    fp = open('tfidf_matrix_fulltext_test.txt', 'w')
+    for i in range(test_tf_idf_matrix.shape[0]):
+        for j in range(test_tf_idf_matrix.shape[1]):
+            fp.write(str(test_tf_idf_matrix[i][j]) + " ")
+
+        fp.write("\n")
     fp.close()
 
 
@@ -245,30 +253,45 @@ def main():
         text_container.append(dummy_list)
 
     class_label = np.asarray(class_label)
-    tf_matrix = term_frequency_matrix(text_container, unique_words)
-    class_label = np.asarray(class_label)
     class_label = class_label.reshape(class_label.shape[0], 1)
-    tf = TfidfTransformer(norm='l2', use_idf=True,smooth_idf=True, sublinear_tf=False)
+    # print(class_label.shape)
+
+    tf_matrix = term_frequency_matrix(text_container, unique_words)
+    tf = TfidfTransformer(norm='l2', use_idf=True,
+                          smooth_idf=True, sublinear_tf=False)
     tf_idf_matrix = tf.fit_transform(tf_matrix).todense()
 
-    b = np.zeros((tf_idf_matrix.shape[0], tf_idf_matrix.shape[1]+1))
-    b[:, :-1] = tf_idf_matrix
-    for i in range(class_label.shape[0]):
-        b[i][-1] = class_label[i][0]
-    tf_idf_matrix = b
-    np.random.shuffle(tf_idf_matrix)
     size = int(tf_idf_matrix.shape[0] * 0.7)
-    train_tfidf_matrix = tf_idf_matrix[0:size, :]
-    test_tfidf_matrix = tf_idf_matrix[size:, :]
+
+    print(tf_idf_matrix)
+
     svd = TruncatedSVD(n_components=1050, random_state=42)
-    train_tfidf_matrix = svd.fit_transform(train_tfidf_matrix[:,:-1])
-    # print(train_tfidf_matrix.shape)
-    # print(train_tfidf_matrix)
-    fp = open('tfidf_matrix_inlinks.txt', 'w')
-    for i in range(train_tfidf_matrix.shape[0]):
-        for j in range(train_tfidf_matrix.shape[1]):
-            fp.write(str(train_tfidf_matrix[i][j]) + " ")
+    tf_idf_matrix_SVD = svd.fit_transform(tf_idf_matrix)
+
+    tf_idf_matrix_with_labels = np.concatenate(
+        (tf_idf_matrix_SVD, class_label), axis=1)
+    
+    np.random.shuffle(tf_idf_matrix)
+
+    test_tf_idf_matrix = tf_idf_matrix_with_labels[size:, :]
+    train_tf_idf_matrix = tf_idf_matrix_with_labels[:size, :]
+
+    fp = open('tfidf_matrix_inlinks_train.txt', 'w')
+    for i in range(train_tf_idf_matrix.shape[0]):
+        for j in range(train_tf_idf_matrix.shape[1]):
+            fp.write(str(train_tf_idf_matrix[i][j]) + " ")
+
         fp.write("\n")
     fp.close()
+
+    fp = open('tfidf_matrix_inlinks_test.txt', 'w')
+    for i in range(test_tf_idf_matrix.shape[0]):
+        for j in range(test_tf_idf_matrix.shape[1]):
+            fp.write(str(test_tf_idf_matrix[i][j]) + " ")
+
+        fp.write("\n")
+    fp.close()
+
+    
 
 main()
