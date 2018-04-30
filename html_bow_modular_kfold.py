@@ -28,7 +28,7 @@ def term_frequency_matrix(documents, terms):
     return np.array(td_matrix)
 
 
-def kfold_tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathname, principal_components, train_file_name, test_file_name):
+def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathname, principal_components, train_file_name, test_file_name):
 
     # module to create kfold suite of train and test tfidf matrices and writes into file
 
@@ -138,7 +138,7 @@ def kfold_tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_
 
 
 
-def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathname, principal_components, train_file_name, test_file_name):
+def kfold_tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathname, principal_components, train_file_name, test_file_name):
     
     # module to create train and test tfidf matrices and writes into file
 
@@ -230,8 +230,8 @@ def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathna
     train_tf_idf_matrix = np.concatenate((temp_matrix1, temp_matrix2), axis=0)
 
     # writes training tfidf into file
-    temp_test_file_name = train_file_name[:-4] + '_fold1.txt'
-    fp = open(train_file_name, 'w')
+    temp_train_file_name = train_file_name[:-4] + '_fold1.txt'
+    fp = open(temp_train_file_name, 'w')
     for i in range(train_tf_idf_matrix.shape[0]):
         for j in range(train_tf_idf_matrix.shape[1]):
             fp.write(str(train_tf_idf_matrix[i][j]) + " ")
@@ -241,7 +241,7 @@ def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathna
 
     # writes test tfidf into file
     temp_test_file_name = test_file_name[:-4] + '_fold1.txt'
-    fp = open(test_file_name, 'w')
+    fp = open(temp_test_file_name, 'w')
     for i in range(test_tf_idf_matrix.shape[0]):
         for j in range(test_tf_idf_matrix.shape[1]):
             fp.write(str(test_tf_idf_matrix[i][j]) + " ")
@@ -262,8 +262,8 @@ def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathna
     train_tf_idf_matrix = np.concatenate((train_tf_idf_matrix, temp_matrix2), axis=0)
 
     # writes training tfidf into file
-    temp_test_file_name = train_file_name[:-4] + '_fold2.txt'
-    fp = open(train_file_name, 'w')
+    temp_train_file_name = train_file_name[:-4] + '_fold2.txt'
+    fp = open(temp_train_file_name, 'w')
     for i in range(train_tf_idf_matrix.shape[0]):
         for j in range(train_tf_idf_matrix.shape[1]):
             fp.write(str(train_tf_idf_matrix[i][j]) + " ")
@@ -273,7 +273,7 @@ def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathna
 
     # writes test tfidf into file
     temp_test_file_name = test_file_name[:-4] + '_fold2.txt'
-    fp = open(test_file_name, 'w')
+    fp = open(temp_test_file_name, 'w')
     for i in range(test_tf_idf_matrix.shape[0]):
         for j in range(test_tf_idf_matrix.shape[1]):
             fp.write(str(test_tf_idf_matrix[i][j]) + " ")
@@ -294,8 +294,8 @@ def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathna
     train_tf_idf_matrix = np.concatenate((temp_matrix1, temp_matrix2), axis=0)
 
     # writes training tfidf into file
-    temp_test_file_name = train_file_name[:-4] + '_fold3.txt'
-    fp = open(train_file_name, 'w')
+    temp_train_file_name = train_file_name[:-4] + '_fold3.txt'
+    fp = open(temp_train_file_name, 'w')
     for i in range(train_tf_idf_matrix.shape[0]):
         for j in range(train_tf_idf_matrix.shape[1]):
             fp.write(str(train_tf_idf_matrix[i][j]) + " ")
@@ -305,7 +305,7 @@ def tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_pathna
 
     # writes test tfidf into file
     temp_test_file_name = test_file_name[:-4] + '_fold3.txt'
-    fp = open(test_file_name, 'w')
+    fp = open(temp_test_file_name, 'w')
     for i in range(test_tf_idf_matrix.shape[0]):
         for j in range(test_tf_idf_matrix.shape[1]):
             fp.write(str(test_tf_idf_matrix[i][j]) + " ")
@@ -333,17 +333,17 @@ def main():
     # tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 1050, 'tfidf_matrix_inlinks_train_large.txt', 'tfidf_matrix_inlinks_test_large.txt')
 
     # for 100 principal components
-    root_name1 = '/home/sanjoy/Desktop/course-cotrain-data/fulltext/course/'
-    view_name1 = 'file:///home/sanjoy/Desktop/course-cotrain-data/fulltext/course/'
-    root_name2 = '/home/sanjoy/Desktop/course-cotrain-data/fulltext/non-course/'
-    view_name2 = 'file:///home/sanjoy/Desktop/course-cotrain-data/fulltext/non-course/'
-    tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 100, 'tfidf_matrix_fulltext_train_small.txt', 'tfidf_matrix_fulltext_test_small.txt')
+    root_name1 = '/home/shobhan/Desktop/course-cotrain-data/fulltext/course/'
+    view_name1 = 'file:///home/shobhan/Desktop/course-cotrain-data/fulltext/course/'
+    root_name2 = '/home/shobhan/Desktop/course-cotrain-data/fulltext/non-course/'
+    view_name2 = 'file:///home/shobhan/Desktop/course-cotrain-data/fulltext/non-course/'
+    kfold_tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 500, 'tfidf_matrix_fulltext_train_500.txt', 'tfidf_matrix_fulltext_test_500.txt')
 
-    root_name1 = '/home/sanjoy/Desktop/course-cotrain-data/inlinks/course/'
-    view_name1 = 'file:///home/sanjoy/Desktop/course-cotrain-data/inlinks/course/'
-    root_name2 = '/home/sanjoy/Desktop/course-cotrain-data/inlinks/non-course/'
-    view_name2 = 'file:///home/sanjoy/Desktop/course-cotrain-data/inlinks/non-course/'
-    tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 100, 'tfidf_matrix_inlinks_train_small.txt', 'tfidf_matrix_inlinks_test_small.txt')
+    root_name1 = '/home/shobhan/Desktop/course-cotrain-data/inlinks/course/'
+    view_name1 = 'file:///home/shobhan/Desktop/course-cotrain-data/inlinks/course/'
+    root_name2 = '/home/shobhan/Desktop/course-cotrain-data/inlinks/non-course/'
+    view_name2 = 'file:///home/shobhan/Desktop/course-cotrain-data/inlinks/non-course/'
+    kfold_tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 500, 'tfidf_matrix_inlinks_train_500.txt', 'tfidf_matrix_inlinks_test_500.txt')
 
 main()
 
