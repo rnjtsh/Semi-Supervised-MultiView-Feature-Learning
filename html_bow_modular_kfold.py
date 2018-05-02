@@ -250,7 +250,6 @@ def kfold_tfidf_creation_module(root_pathname1, v1_pathname, root_pathname2, v2_
     fp.close()
 
 
-
     # train test splitting for second fold
     test_tf_idf_matrix = tf_idf_matrix_with_labels[class_one_test_samples:(2*class_one_test_samples),:]
     temp_test_tf_idf_matrix = tf_idf_matrix_with_labels[(class_one_samples_count+class_one_test_samples):(class_one_samples_count+(2*class_one_test_samples)),:]
@@ -333,17 +332,16 @@ def main():
     # tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 1050, 'tfidf_matrix_inlinks_train_large.txt', 'tfidf_matrix_inlinks_test_large.txt')
 
     # for 100 principal components
-    root_name1 = '/home/shobhan/Desktop/course-cotrain-data/fulltext/course/'
-    view_name1 = 'file:///home/shobhan/Desktop/course-cotrain-data/fulltext/course/'
-    root_name2 = '/home/shobhan/Desktop/course-cotrain-data/fulltext/non-course/'
-    view_name2 = 'file:///home/shobhan/Desktop/course-cotrain-data/fulltext/non-course/'
-    kfold_tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 500, 'tfidf_matrix_fulltext_train_500.txt', 'tfidf_matrix_fulltext_test_500.txt')
+    root_name1 = '/home/sanjoy/Desktop/course-cotrain-data/fulltext/course/'
+    view_name1 = 'file:///home/sanjoy/Desktop/course-cotrain-data/fulltext/course/'
+    root_name2 = '/home/sanjoy/Desktop/course-cotrain-data/fulltext/non-course/'
+    view_name2 = 'file:///home/sanjoy/Desktop/course-cotrain-data/fulltext/non-course/'
+    kfold_tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 100, 'tfidf_matrix_fulltext_train_100.txt', 'tfidf_matrix_fulltext_test_100.txt')
 
-    root_name1 = '/home/shobhan/Desktop/course-cotrain-data/inlinks/course/'
-    view_name1 = 'file:///home/shobhan/Desktop/course-cotrain-data/inlinks/course/'
-    root_name2 = '/home/shobhan/Desktop/course-cotrain-data/inlinks/non-course/'
-    view_name2 = 'file:///home/shobhan/Desktop/course-cotrain-data/inlinks/non-course/'
-    kfold_tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 500, 'tfidf_matrix_inlinks_train_500.txt', 'tfidf_matrix_inlinks_test_500.txt')
+    root_name1 = '/home/sanjoy/Desktop/course-cotrain-data/inlinks/course/'
+    view_name1 = 'file:///home/sanjoy/Desktop/course-cotrain-data/inlinks/course/'
+    root_name2 = '/home/sanjoy/Desktop/course-cotrain-data/inlinks/non-course/'
+    view_name2 = 'file:///home/sanjoy/Desktop/course-cotrain-data/inlinks/non-course/'
+    kfold_tfidf_creation_module(root_name1,view_name1,root_name2,view_name2, 100, 'tfidf_matrix_inlinks_train_100.txt', 'tfidf_matrix_inlinks_test_100.txt')
 
 main()
-
