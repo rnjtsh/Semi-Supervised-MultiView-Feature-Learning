@@ -200,8 +200,8 @@ def generate_R_value(class_view):
     S_T=S_T_B+((n_class-1)*S_T_W)
     S_T=S_T/(2*(n_class)*(n_class-1))
 
-    r1=0.009
-    r2=0.009
+    r1=10
+    r2=10
     #Calculating R
     R=S_W-(r1*S_B)-(r2*S_T)
 

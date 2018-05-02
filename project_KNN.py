@@ -2,10 +2,10 @@ import numpy as np
 import sklearn.metrics
 from generate_Class_view import generate_data
 from read_test_file import generate_test_data
-def check_KNN(W_matrix,class_view,fulltext_test_file,inlinks_test_file) :
-    print("YOLO")
+def check_KNN(W_matrix,class_view) :
+    #print("YOLO")
     #class_view=generate_data()
-    print("CAT")
+    #print("CAT")
     #W_matrix=np.random.rand(1050,900)
     n_class=len(class_view)
     number_of_views=class_view[1].shape[0]
@@ -24,7 +24,7 @@ def check_KNN(W_matrix,class_view,fulltext_test_file,inlinks_test_file) :
             #For each sample will take data from all the Views
             sample_projection=np.zeros((1,W_matrix.shape[1]))
             for j in range(n_view):
-                temp_projection_view_each=np.dot(W_matrix.T,store_class_array[j][i])
+                temp_projection_view_each=np.dot(W_matrix.T,store_class_array[j][i].T)
                 print(temp_projection_view_each.shape)
                 temp_projection_view_each=temp_projection_view_each.reshape(temp_projection_view_each.shape[0],1)
                 print(temp_projection_view_each.T.shape)
@@ -53,8 +53,8 @@ def check_KNN(W_matrix,class_view,fulltext_test_file,inlinks_test_file) :
     #Processing of Test Data Begining
     #-----------------------------------------------------------------------------
 
-    test_view=generate_test_data(fulltext_test_file,inlinks_test_file)
-    print("CAT")
+    test_view=generate_test_data()
+    #print("CAT")
     #W_matrix=np.random.rand(1050,900)
     n_class=len(test_view)
     number_of_views=test_view[1].shape[0]
@@ -72,7 +72,7 @@ def check_KNN(W_matrix,class_view,fulltext_test_file,inlinks_test_file) :
             #For each sample will take data from all the Views
             test_sample_projection=np.zeros((1,W_matrix.shape[1]))
             for j in range(n_view):
-                temp_projection_view_each=np.dot(W_matrix.T,store_test_class_array[j][i])
+                temp_projection_view_each=np.dot(W_matrix.T,store_test_class_array[j][i].T)
                 print(temp_projection_view_each.shape)
                 temp_projection_view_each=temp_projection_view_each.reshape(temp_projection_view_each.shape[0],1)
                 print(temp_projection_view_each.T.shape)
@@ -118,12 +118,11 @@ def check_KNN(W_matrix,class_view,fulltext_test_file,inlinks_test_file) :
         class_labels = np.unique(similar_results)
         counts = np.bincount(similar_results)
         prediction = np.argmax(counts)
-        print("Predicted class label: ", prediction)
+        #print("Predicted class label: ", prediction)
         if(prediction==test_all_sample_labels[x]):
             correct=correct+1
     acc=(correct/total)*100
     print(acc)
-    return acc
 
 
 

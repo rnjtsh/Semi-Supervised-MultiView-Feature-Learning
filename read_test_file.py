@@ -3,9 +3,9 @@ import random
 import sklearn.preprocessing
 
 def generate_test_data() :
-    full_data_file="tfidf_matrix_fulltext_test_small.txt"
+    full_data_file="tfidf_matrix_fulltext_test_100_fold3.txt"
     data_full_raw=np.genfromtxt(full_data_file,dtype=None,delimiter=" ")
-    inlink_data_file="tfidf_matrix_inlinks_test_small.txt"
+    inlink_data_file="tfidf_matrix_inlinks_test_100_fold3.txt"
     data_inlink_raw=np.genfromtxt(full_data_file,dtype=None,delimiter=" ")
     print(data_full_raw.shape)
     print(data_full_raw)

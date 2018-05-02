@@ -8,7 +8,7 @@ import numpy as np
 #class_view=get_random_matrix()
 class_view=generate_data()
 R_matrix=generate_R_value(class_view)
-learning_rate=1
+regularization_parameter=1
 
 #From Eq 20 where A=tr(R*R(t))
 
@@ -19,10 +19,10 @@ A=np.trace(A_temp_Matrix)
 print(A)
 #Find Alpha from the solution of Eqution 20
 alpha=0
-if(learning_rate >= (1/A)) :
+if(regularization_parameter >= (1/A)) :
     alpha=(1/A)
 else:
-    alpha=learning_rate
+    alpha=regularization_parameter
 print(alpha)
 
 #From Equation 17 H=alpha*R_matrix

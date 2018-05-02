@@ -3,9 +3,9 @@ import random
 import sklearn.preprocessing
 
 def generate_data() :
-    full_data_file="tfidf_matrix_fulltext_train_small.txt"
+    full_data_file="tfidf_matrix_fulltext_train_100_fold3.txt"
     data_full_raw=np.genfromtxt(full_data_file,dtype=None,delimiter=" ")
-    inlink_data_file="tfidf_matrix_inlinks_train_small.txt"
+    inlink_data_file="tfidf_matrix_inlinks_train_100_fold3.txt"
     data_inlink_raw=np.genfromtxt(full_data_file,dtype=None,delimiter=" ")
     print(data_full_raw.shape)
     print(data_full_raw)
@@ -30,7 +30,7 @@ def generate_data() :
     for i in range(number_of_samples):
         #generate a random number p between 0 and 1
         p=random.uniform(0,1)
-        if(p<0.1):
+        if(p<0.7):
             label_full[i]=-1
             label_inlink[i]=-1
 
