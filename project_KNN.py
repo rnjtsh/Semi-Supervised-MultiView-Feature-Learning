@@ -2,7 +2,7 @@ import numpy as np
 import sklearn.metrics
 from generate_Class_view import generate_data
 from read_test_file import generate_test_data
-def check_KNN(W_matrix,class_view) :
+def check_KNN(W_matrix,class_view,fulltext_test_file,inlinks_test_file) :
     print("YOLO")
     #class_view=generate_data()
     print("CAT")
@@ -53,7 +53,7 @@ def check_KNN(W_matrix,class_view) :
     #Processing of Test Data Begining
     #-----------------------------------------------------------------------------
 
-    test_view=generate_test_data()
+    test_view=generate_test_data(fulltext_test_file,inlinks_test_file)
     print("CAT")
     #W_matrix=np.random.rand(1050,900)
     n_class=len(test_view)
@@ -123,6 +123,7 @@ def check_KNN(W_matrix,class_view) :
             correct=correct+1
     acc=(correct/total)*100
     print(acc)
+    return acc
 
 
 
